@@ -1,0 +1,21 @@
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script>
+var folder = "/";
+
+$.ajax({
+    url : folder,
+    success: function (data) {
+        $(data).find("a").attr("href", function (i, val) {
+            if( val.match(/*\.(txt)$/) ) { 
+                $("body").append( "<a href='"+ folder + val +"'/>" );
+            } 
+        });
+    }
+});
+</script>
+</head>
+<body>
+</body>
+</html>
