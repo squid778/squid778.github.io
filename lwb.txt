@@ -1,0 +1,6 @@
+Raum                  89 LWB 104  79  85  96  80  80 524  524  Reactions       3★ WF / Left
+Spinazzola            90 LWB 101  73  82  97  84  76 513  513  Reactions       4★ WF / Right
+Spinazzola            88 LWB  96  70  78  91  81  73 489  489  Balanced        4★ WF / Right
+Schulz                87 LWB  95  63  82  83  79  80 482  482  Pace            2★ WF / Left
+Targett               89 LWB  85  60  82  85  82  73 467  467  Balanced        2★ WF / Left
+Shaw                  86 LWB  80  58  80  81  82  83 464  464  Pace            2★ WF / Left
