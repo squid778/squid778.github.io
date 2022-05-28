@@ -1,61 +1,61 @@
-Davies                94 LB  110  82  90 106  92  91 571 (B 586 (B Balanced        4★ WF / Left
-Hernández             92 LB  102  81  88  99  87  91 548 (B 560 (B Balanced        3★ WF / Left
-Lahm                  95 LB   96  83 105 105 103  77 569 (B 552 (B Reactions       3★ WF / Right
-João_Cancelo          94 LB  103  85 105 108  93  80 574 (B 552 (B Reactions       4★ WF / Right
-Roussillon            93 LB  102  80  90  98  87  86 543 (B 550 (B Reactions       3★ WF / Left
-João_Cancelo          94 LB  102  84 104 107  93  80 570 (B 550 (B Balanced        4★ WF / Right
-Cole                  94 LB   96  75  93  96  96  82 538 (B 548 (B Pace            3★ WF / Left
-Shaw                  90 LB   85  63  88  90  93  94 513 (B 544 (B Balanced        2★ WF / Left
-Davies                90 LB  104  75  81  96  84  84 524 (B 544 (B Reactions       4★ WF / Left
-Acuña                 94 LB   89  88 103 106  92  91 569 (B 544 (B Reactions       3★ WF / Left
-Roberto_Carlos        90 LB   95  85  90  88  88  88 534 (B 542 (B Balanced        3★ WF / Left
-Reinildo              89 LB   91  65  76  87  88  90 497 (B 538 (B Balanced        3★ WF / Left
-Robinson              88 LB  102  58  73  92  83  82 490 (B 534 (B Pace            3★ WF / Left
-Hernández             89 LB   98  76  81  92  82  87 516 (B 534 (B Pace            3★ WF / Left
-João_Cancelo          93 LB   99  81 101 104  89  78 552 (B 532 (B Pace            4★ WF / Right
-Günter                89 LB   92  66  80  83  84  90 495 (B 532 (B Pace            2★ WF / Left
-Alex_Sandro           93 LB   90  75  89  94  88  88 524 (B 532 (B Balanced        3★ WF / Left
-Digne                 92 LB   88  79  92  93  90  87 529 (B 530 (B Reactions       2★ WF / Left
-Alioski               89 LB   94  85  87  93  82  89 530 (B 530 (B Balanced        3★ WF / Left
-Shaw                  88 LB   82  60  83  85  90  91 491 (B 526 (B Pace            2★ WF / Left
-Bensebaini            91 LB   83  69  84  87  89  91 503 (B 526 (B Balanced        4★ WF / Left
-Al_Shamrani           86 LB   99  69  73  80  73  89 483 (B 522 (B Pace            3★ WF / Left
-Davies                87 LB  100  71  75  89  80  80 495 (B 520 (B Pace            4★ WF / Left
-Grimaldo              90 LB   95  76  96  99  86  78 530 (B 518 (B Balanced        3★ WF / Left
-Wijndal               89 LB   94  65  87  95  84  80 505 (B 516 (B Reactions       3★ WF / Left
-Acuña                 92 LB   85  84  95 100  87  86 537 (B 516 (B Pace            3★ WF / Left
-Reinildo              86 LB   87  61  72  81  83  87 471 (B 514 (B Reactions       3★ WF / Left
-Jordi_Alba            92 LB   96  77  91  99  84  77 524 (B 514 (B Pace            3★ WF / Left
-Roberto_Carlos        86 LB   90  81  84  81  83  83 502 (B 512 (B Pace            2★ WF / Left
-Mitchell              90 LB   92  54  78  91  88  76 479 (B 512 (B Balanced        3★ WF / Left
-Cresswell             92 LB   83  73  91  95  90  83 515 (B 512 (B Balanced        3★ WF / Left
-Renan_Lodi            89 LB   90  74  84  92  84  81 505 (B 510 (B Reactions       3★ WF / Left
-Zambrotta             86 LB   86  71  81  79  85  83 485 (B 508 (B Reactions       5★ WF / Right
-Günter                86 LB   88  62  75  77  79  87 468 (B 508 (B Balanced        2★ WF / Left
-Hancko                86 LB   87  65  78  79  85  81 475 (B 506 (B Pace            3★ WF / Left
-Jordi_Alba            93 LB   92  75  89  95  83  76 510 (B 502 (B Balanced        3★ WF / Left
-Hernández             86 LB   94  73  76  82  79  78 482 (B 502 (B Reactions       3★ WF / Left
-Estupiñán             87 LB   89  43  74  81  83  79 449 (B 502 (B Pace            3★ WF / Left
-Chilwell              90 LB   83  62  85  87  86  82 485 (B 502 (B Pace            3★ WF / Left
-Nuno_Mendes           87 LB   93  67  76  86  81  76 479 (B 500 (B Reactions       4★ WF / Left
-Robertson             92 LB   89  68  87  88  85  75 492 (B 498 (B Pace            2★ WF / Left
-Jordi_Alba            90 LB   93  74  86  94  81  74 502 (B 496 (B Reactions       3★ WF / Left
-Hector                90 LB   72  71  89  90  88  87 497 (B 494 (B Reactions       4★ WF / Left
-Robertson             91 LB   88  67  85  86  84  74 484 (B 492 (B Reactions       2★ WF / Left
-Mauro_Júnior          86 LB   95  76  86  92  77  73 499 (B 490 (B Balanced        3★ WF / Left
-Carvajal              88 LB   82  58  79  83  83  80 465 (B 490 (B Balanced        3★ WF / Right
-Singh                 90 LB   97  71  80  97  70  77 492 (B 488 (B Pace            3★ WF / Left
-Mykolenko             89 LB   89  55  73  80  85  70 452 (B 488 (B Pace            2★ WF / Left
-Alex_Telles           87 LB   86  78  87  83  81  77 492 (B 488 (B Pace            2★ WF / Left
-Mishra                87 LB   94  62  75  93  73  76 473 (B 486 (B Reactions       4★ WF / Left
-Wijndal               85 LB   90  60  80  85  78  74 467 (B 484 (B Pace            2★ WF / Left
-Cole                  85 LB   85  67  81  82  84  72 471 (B 482 (B Balanced        2★ WF / Left
-Robertson             88 LB   85  64  81  81  81  71 463 (B 474 (B Balanced        2★ WF / Left
-Robertson             87 LB   85  64  81  81  81  71 463 (B 474 (B Balanced        2★ WF / Left
-Garcia                85 LB   85  53  70  79  76  76 439 (B 474 (B Balanced        3★ WF / Left
-Digne                 85 LB   79  71  80  80  80  78 468 (B 474 (B Pace            2★ WF / Left
-Angeliño              88 LB   83  75  87  90  81  73 489 (B 474 (B Reactions       3★ WF / Left
-Robertson             87 LB   84  63  80  80  80  70 457 (B 468 (B Pace            2★ WF / Left
-Jordi_Alba            86 LB   86  69  80  84  76  69 464 (B 462 (B Balanced        3★ WF / Left
-Cucurella             85 LB   81  71  81  83  75  74 465 (B 460 (B Pace            3★ WF / Left
-Blind                 91 LB   54  73  95  92  93  81 488 (B 456 (B Pace            3★ WF / Left
+Davies                94 LB  110  82  90 106  92  91 571  586  Balanced        4★ WF / Left
+Hernández             92 LB  102  81  88  99  87  91 548  560  Balanced        3★ WF / Left
+Lahm                  95 LB   96  83 105 105 103  77 569  552  Reactions       3★ WF / Right
+João_Cancelo          94 LB  103  85 105 108  93  80 574  552  Reactions       4★ WF / Right
+Roussillon            93 LB  102  80  90  98  87  86 543  550  Reactions       3★ WF / Left
+João_Cancelo          94 LB  102  84 104 107  93  80 570  550  Balanced        4★ WF / Right
+Cole                  94 LB   96  75  93  96  96  82 538  548  Pace            3★ WF / Left
+Shaw                  90 LB   85  63  88  90  93  94 513  544  Balanced        2★ WF / Left
+Davies                90 LB  104  75  81  96  84  84 524  544  Reactions       4★ WF / Left
+Acuña                 94 LB   89  88 103 106  92  91 569  544  Reactions       3★ WF / Left
+Roberto_Carlos        90 LB   95  85  90  88  88  88 534  542  Balanced        3★ WF / Left
+Reinildo              89 LB   91  65  76  87  88  90 497  538  Balanced        3★ WF / Left
+Robinson              88 LB  102  58  73  92  83  82 490  534  Pace            3★ WF / Left
+Hernández             89 LB   98  76  81  92  82  87 516  534  Pace            3★ WF / Left
+João_Cancelo          93 LB   99  81 101 104  89  78 552  532  Pace            4★ WF / Right
+Günter                89 LB   92  66  80  83  84  90 495  532  Pace            2★ WF / Left
+Alex_Sandro           93 LB   90  75  89  94  88  88 524  532  Balanced        3★ WF / Left
+Digne                 92 LB   88  79  92  93  90  87 529  530  Reactions       2★ WF / Left
+Alioski               89 LB   94  85  87  93  82  89 530  530  Balanced        3★ WF / Left
+Shaw                  88 LB   82  60  83  85  90  91 491  526  Pace            2★ WF / Left
+Bensebaini            91 LB   83  69  84  87  89  91 503  526  Balanced        4★ WF / Left
+Al_Shamrani           86 LB   99  69  73  80  73  89 483  522  Pace            3★ WF / Left
+Davies                87 LB  100  71  75  89  80  80 495  520  Pace            4★ WF / Left
+Grimaldo              90 LB   95  76  96  99  86  78 530  518  Balanced        3★ WF / Left
+Wijndal               89 LB   94  65  87  95  84  80 505  516  Reactions       3★ WF / Left
+Acuña                 92 LB   85  84  95 100  87  86 537  516  Pace            3★ WF / Left
+Reinildo              86 LB   87  61  72  81  83  87 471  514  Reactions       3★ WF / Left
+Jordi_Alba            92 LB   96  77  91  99  84  77 524  514  Pace            3★ WF / Left
+Roberto_Carlos        86 LB   90  81  84  81  83  83 502  512  Pace            2★ WF / Left
+Mitchell              90 LB   92  54  78  91  88  76 479  512  Balanced        3★ WF / Left
+Cresswell             92 LB   83  73  91  95  90  83 515  512  Balanced        3★ WF / Left
+Renan_Lodi            89 LB   90  74  84  92  84  81 505  510  Reactions       3★ WF / Left
+Zambrotta             86 LB   86  71  81  79  85  83 485  508  Reactions       5★ WF / Right
+Günter                86 LB   88  62  75  77  79  87 468  508  Balanced        2★ WF / Left
+Hancko                86 LB   87  65  78  79  85  81 475  506  Pace            3★ WF / Left
+Jordi_Alba            93 LB   92  75  89  95  83  76 510  502  Balanced        3★ WF / Left
+Hernández             86 LB   94  73  76  82  79  78 482  502  Reactions       3★ WF / Left
+Estupiñán             87 LB   89  43  74  81  83  79 449  502  Pace            3★ WF / Left
+Chilwell              90 LB   83  62  85  87  86  82 485  502  Pace            3★ WF / Left
+Nuno_Mendes           87 LB   93  67  76  86  81  76 479  500  Reactions       4★ WF / Left
+Robertson             92 LB   89  68  87  88  85  75 492  498  Pace            2★ WF / Left
+Jordi_Alba            90 LB   93  74  86  94  81  74 502  496  Reactions       3★ WF / Left
+Hector                90 LB   72  71  89  90  88  87 497  494  Reactions       4★ WF / Left
+Robertson             91 LB   88  67  85  86  84  74 484  492  Reactions       2★ WF / Left
+Mauro_Júnior          86 LB   95  76  86  92  77  73 499  490  Balanced        3★ WF / Left
+Carvajal              88 LB   82  58  79  83  83  80 465  490  Balanced        3★ WF / Right
+Singh                 90 LB   97  71  80  97  70  77 492  488  Pace            3★ WF / Left
+Mykolenko             89 LB   89  55  73  80  85  70 452  488  Pace            2★ WF / Left
+Alex_Telles           87 LB   86  78  87  83  81  77 492  488  Pace            2★ WF / Left
+Mishra                87 LB   94  62  75  93  73  76 473  486  Reactions       4★ WF / Left
+Wijndal               85 LB   90  60  80  85  78  74 467  484  Pace            2★ WF / Left
+Cole                  85 LB   85  67  81  82  84  72 471  482  Balanced        2★ WF / Left
+Robertson             88 LB   85  64  81  81  81  71 463  474  Balanced        2★ WF / Left
+Robertson             87 LB   85  64  81  81  81  71 463  474  Balanced        2★ WF / Left
+Garcia                85 LB   85  53  70  79  76  76 439  474  Balanced        3★ WF / Left
+Digne                 85 LB   79  71  80  80  80  78 468  474  Pace            2★ WF / Left
+Angeliño              88 LB   83  75  87  90  81  73 489  474  Reactions       3★ WF / Left
+Robertson             87 LB   84  63  80  80  80  70 457  468  Pace            2★ WF / Left
+Jordi_Alba            86 LB   86  69  80  84  76  69 464  462  Balanced        3★ WF / Left
+Cucurella             85 LB   81  71  81  83  75  74 465  460  Pace            3★ WF / Left
+Blind                 91 LB   54  73  95  92  93  81 488  456  Pace            3★ WF / Left
