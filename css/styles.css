@@ -15,7 +15,12 @@ a:link, a:visited,.btn {
     text-align: center;
     vertical-align: middle;
 }
-
+a:hover, a:active {
+  background-color: green;
+}
+body {
+  font-family: sans-serif;
+}
 /* Make content area fill the entire browser window */
 .fullscreen {
   display: flex;
@@ -38,6 +43,21 @@ table {
   font-size: 18px;
 }
 
+.title {
+  font-size: 2rem;
+}
+h1 {
+  font-size: 2.5em; /* 40px/16=2.5em */
+}
+
+h2 {
+  font-size: 1.875em; /* 30px/16=1.875em */
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+#  font-size: 2.5em;
+}
 th, td {
   padding: 8px;
 }
