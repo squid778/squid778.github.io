@@ -14,10 +14,10 @@ th {
   background-color: #4CAF50;
   color: white;
 }
-td { text-align: left;}
-td:nth-child(3)	{text-align: center;}
-td:nth-child(3) ~ td {text-align: right;}
-td:last-child 	{text-align: right;}
+td { text-align: right;}
+td:nth-child(1)	{text-align: left;}
+td:nth-last-child(2) {{text-align:left;}
+td:last-child 	{text-align:left;}
 
 td span {
     padding: 0;
