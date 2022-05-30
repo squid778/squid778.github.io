@@ -37,8 +37,8 @@ th {
   color: white;
 }
 td { text-align: right;}
-td:nth-child(1)	{text-align: left;}
-td:nth-last-child(2) {text-align:left;}
+td:nth-child(0)	{text-align: left;}
+td:nth-last-child(1) {text-align:left;}
 td:last-child 	{text-align:left;}
 
 td span {
