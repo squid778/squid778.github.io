@@ -16,7 +16,7 @@ th {
 }
 td { text-align: right;}
 td:nth-child(1)	{text-align: left;}
-td:nth-last-child(2) {{text-align:left;}
+td:nth-last-child(2) {text-align:left;}
 td:last-child 	{text-align:left;}
 
 td span {
