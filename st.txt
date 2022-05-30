@@ -1,3 +1,4 @@
+sortcol=12
 Fernando_Torres       99 ST  116 120  92 112  63  99 602  668  Finishing       4★ WF / Right
 Mbappé                95 ST  109 108  88 105  46  83 539  624  Finishing       4★ WF / Right
 C._Ronaldo            96 ST  104 113  90 106  46  92 551  623  Finishing       4★ WF / Right

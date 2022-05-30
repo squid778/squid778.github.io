@@ -1,3 +1,4 @@
+sortcol=12
 Vidić                100 CB   92  67  86  88 121 116 570  687  Tackling        3★ WF / Right
 Maldini               97 CB  102  69  94  88 125 104 582  685  Marking         4★ WF / Right
 Rúben_Dias            96 CB   88  51  82  89 117 108 535  655  Marking         4★ WF / Right

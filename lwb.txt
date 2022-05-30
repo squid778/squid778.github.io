@@ -1,3 +1,4 @@
+sortcol=12
 Raum                  89 LWB 104  79  85  96  80  80 524  524  Reactions       3★ WF / Left
 Spinazzola            90 LWB 101  73  82  97  84  76 513  513  Reactions       4★ WF / Right
 Spinazzola            88 LWB  96  70  78  91  81  73 489  489  Balanced        4★ WF / Right

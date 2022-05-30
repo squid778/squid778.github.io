@@ -1,3 +1,4 @@
+sortcol=12
 Davies                94 LB  110  82  90 106  92  91 571  586  Balanced        4★ WF / Left
 Hernández             92 LB  102  81  88  99  87  91 548  560  Balanced        3★ WF / Left
 Lahm                  95 LB   96  83 105 105 103  77 569  552  Reactions       3★ WF / Right

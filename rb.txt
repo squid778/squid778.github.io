@@ -1,3 +1,4 @@
+sortcol=12
 Lahm                 100 RB  103  91 117 118 112  89 630  608  Pace            3★ WF / Right
 Hakimi                94 RB  110  85  98 107  93  91 584  588  Balanced        4★ WF / Right
 Frimpong              94 RB  113  71  89 107  86  86 552  570  Reactions       3★ WF / Right

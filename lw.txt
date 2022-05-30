@@ -1,3 +1,4 @@
+sortcol=12
 Ronaldinho            98 LW  118 114 111 118  47  93 601  697  Agility         4★ WF / Right
 Vinícius_Jr.          98 LW  118 101  95 112  42  85 553  656  Agility         4★ WF / Right
 Vinícius_Jr.          98 LW  118 101  95 112  42  85 553  656  Agility         4★ WF / Right

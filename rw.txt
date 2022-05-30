@@ -1,3 +1,4 @@
+sortcol=12
 Garrincha            100 RW  117 116 117 119  55  80 604  705  Speed           4★ WF / Right
 Messi                 97 RW  109 113 111 114  42  71 560  670  Agility         4★ WF / Left
 Salah                 98 RW  107 109  99 112  54  84 565  646  Agility         4★ WF / Left

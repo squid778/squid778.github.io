@@ -1,3 +1,4 @@
+sortcol=12
 Nedvěd                95 LM  105 103 105 106  64  88 571  630  Counter         5★ WF / Right
 Muniain               95 LM  101  95 100 109  59  75 539  615  Longshots       3★ WF / Right
 Carrasco              94 LM  103  97  93 105  52  77 527  606  Longshots       4★ WF / Right

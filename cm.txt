@@ -1,3 +1,4 @@
+sortcol=12
 Gullit                99 CM  114 115 120 111 103 106 669  669  Vision          5★ WF / Right
 De_Bruyne             97 CM   98 109 116 110  76  85 594  594  Vision          5★ WF / Right
 Seedorf               95 CM   96 100 108 102  85  98 589  589  Vision          4★ WF / Right

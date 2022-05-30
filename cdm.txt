@@ -1,3 +1,4 @@
+sortcol=12
 Guardiola            100 CDM 100  88 118 108 119 104 637  637  Interceptions   3★ WF / Right
 Matthäus              98 CDM  99  96 103  93 108  98 597  597  Holding         4★ WF / Right
 Kanté                 96 CDM  91  79  93 109 114 108 594  594  Holding         3★ WF / Right

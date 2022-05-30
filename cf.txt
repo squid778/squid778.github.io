@@ -1,3 +1,4 @@
+sortcol=12
 Fernando_Torres       99 CF  116 117  98 116  63  99 609  679  Secondstriker   4★ WF / Right
 Bergkamp              95 CF   97 106  97 103  45  84 532  603  Secondstriker   4★ WF / Right
 João_Félix            94 CF   98  99  94 104  53  83 531  597  Secondstriker   4★ WF / Right

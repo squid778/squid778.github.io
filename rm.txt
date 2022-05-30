@@ -1,3 +1,4 @@
+sortcol=12
 Beckham               98 RM  107 115 119 114  87  94 636  676  Longshots       3★ WF / Right
 Gnabry                98 RM  106 105 100 111  53  81 556  639  Dribbling       4★ WF / Right
 Diaby                 96 RM  113  97  97 109  54  75 545  638  Shortpassing    3★ WF / Left
