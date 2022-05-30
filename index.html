@@ -1,23 +1,7 @@
 <html>
-<head>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-<script>
-var folder = "txt/";
-
-$.ajax({
-    url : folder,
-    success: function (data) {
-        $(data).find("a").attr("href", function (i, val) {
-            if( val.match(/*\.(txt)$/) ) { 
-                $("body").append( "<a href='"+ folder + val +"'/>" );
-            } 
-        });
-    }
-});
-</script>
-</head>
+<head><link rel="stylesheet" href="/css/styles.css"></head>
 <body>
-<a href="cb.txt">cb.txt</a><br>
+<a href="cb.html">cb.html</a><br>
 <a href="rb.txt">rb.txt</a><br>
 <a href="lb.txt">lb.txt</a><br>
 <a href="cdm.txt">cdm.txt</a><br>
