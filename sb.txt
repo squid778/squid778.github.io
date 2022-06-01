@@ -1,0 +1,25 @@
+Finishing 15 5 10 0 6 0 0
+Shooting 15 5 9.25 0 5 0 5
+Targetman 15 5 10.75 0 0 3 0
+Second Striker 15 5 11.5 0 5 0 0
+Speed 15 10 3.5 2.75 5 0 0
+Agility 15 10 3.5 0.75 6.5 0 0
+Ball Control 15 10 2 5.5 5 0 0
+Long Shots 15 7.5 4 5 5 0 0
+Counter 15 7.5 3.5 4.5 5 0 0
+Dribbling 15 7.5 2 3 7.5 0 0
+Short Passing 15 7.5 3.5 8.5 5 0 0
+Interceptions 15 5 0 2 4.25 4 0
+Holding 15 5 0 3 0 8 6
+Long Passing 15 5 0 10.75 5 0 0
+Vision 15 5 2 9.5 3 0 0
+Pace 15 20 0 3 3.75 2 0
+Balanced 15 10 0 1.5 6.5 2 0
+Reactions 15 10 0 6.5 2.25 2 0
+Strength 15 0 0 0 2.25 6.5 12
+Tackling 15 5 0 0 2.25 11 0
+Marking 15 5 0 0 0 8 13
+Defending 15 5 0 2 0 12 0
+Reflexes 15 0 0 0 5 0 0
+Handling 15 0 0 0 2.5 0 0
+Number 1 15 0 0 4 2.25 0 0
