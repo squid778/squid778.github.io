@@ -1,4 +1,5 @@
 sortcol=12
+Maignan              100 GK   69  16  58  62  23  84 312  312  Reflexes       4★WF/Right
 Schmeichel            95 GK   59  30  49  54  26  80 298  298  Number1        3★WF/Right
 Riemann               89 GK   61  15  60  58  24  72 290  290  Number1        5★WF/Right
 Maignan               98 GK   63  16  55  56  22  78 290  290  Handling       4★WF/Right
@@ -24,6 +25,7 @@ Ramsdale              89 GK   60  20  41  52  20  69 262  262  Handling       3�
 M'Bolhi               88 GK   58  13  48  50  14  79 262  262  Handling       3★WF/Right
 Donnarumma            95 GK   60  16  42  55  19  68 260  260  Reflexes       3★WF/Right
 Martínez              89 GK   64  16  51  46  18  64 259  259  Number1        4★WF/Right
+Courtois              98 GK   59  19  40  51  18  72 259  259  Number1        3★WF/Left
 Lafont                95 GK   60  10  48  49  17  74 258  258  Reflexes       3★WF/Right
 Areola                89 GK   61  19  43  47  17  70 257  257  Handling       3★WF/Right
 Čech                  94 GK   57  10  44  52  24  69 256  256  Reflexes       3★WF/Left
@@ -31,6 +33,7 @@ Neuer                 90 GK   57  17  52  48  18  63 255  255  Handling       4�
 Maignan               88 GK   55  16  48  48  20  67 254  254  Handling       4★WF/Right
 Çakır                 91 GK   63  17  36  48  19  71 254  254  Reflexes       3★WF/Right
 Benítez               94 GK   58  17  37  48  19  74 253  253  Number1        2★WF/Right
+Rossi                 91 GK   51  17  43  46  24  71 252  252  Number1        2★WF/Right
 Navas                 93 GK   57  16  43  51  19  66 252  252  Number1        3★WF/Right
 Pasveer               88 GK   54  17  47  46  17  69 250  250  Number1        4★WF/Right
 Donnarumma            94 GK   58  16  40  52  19  65 250  250  Handling       3★WF/Right
@@ -48,6 +51,7 @@ Rulli                 90 GK   60  17  37  45  17  66 242  242  Handling       3�
 Çakır                 88 GK   60  17  34  45  19  66 241  241  Number1        3★WF/Right
 Lafont                91 GK   54  10  45  46  17  67 239  239  Handling       3★WF/Right
 Butez                 89 GK   54  17  40  51  16  61 239  239  Number1        4★WF/Right
+Devecchi              88 GK   57  18  34  42  20  67 238  238  Handling       2★WF/Right
 Ochoa                 90 GK   54  21  39  46  18  59 237  237  Handling       3★WF/Right
 Oblak                 92 GK   52  13  41  46  19  66 237  237  Number1        3★WF/Right
 Szczęsny              95 GK   56  13  37  46  16  68 236  236  Reflexes       3★WF/Right

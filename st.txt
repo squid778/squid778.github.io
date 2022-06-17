@@ -1,5 +1,8 @@
 sortcol=12
+Mbappé               100 ST  116 117 100 116  50  91 590  681  Secondstriker  5★WF/Right
 Fernando_Torres       99 ST  116 120  92 112  63  99 602  668  Finishing      4★WF/Right
+C._Ronaldo           100 ST  110 117 100 110  53  99 589  657  Targetman      5★WF/Right
+Ben_Yedder            98 ST  106 110 100 110  56  93 575  642  Shooting       5★WF/Right
 Mbappé                95 ST  109 108  88 105  46  83 539  624  Finishing      4★WF/Right
 C._Ronaldo            96 ST  104 113  90 106  46  92 551  623  Finishing      4★WF/Right
 Eto'o                 98 ST  104 109  97 103  64  96 573  620  Targetman      4★WF/Right
@@ -19,6 +22,7 @@ Romarinho             93 ST  104  98  90 100  45  84 521  596  Secondstriker  4�
 Iago_Aspas            95 ST   96 102  95 101  48  77 519  591  Shooting       4★WF/Left
 Vlahović              95 ST  100 104  88  99  48  95 534  590  Shooting       3★WF/Left
 Martínez              93 ST   99  99  88 102  63 102 553  589  Finishing      4★WF/Right
+Álvarez               93 ST  103  99  92  96  61  90 541  589  Secondstriker  3★WF/Right
 Mané                  93 ST  101  98  87 100  54  86 526  587  Secondstriker  5★WF/Right
 Muriel                94 ST  101  99  87  98  39  76 500  584  Shooting       5★WF/Right
 Núñez                 93 ST  103  99  90  94  54 101 541  583  Shooting       3★WF/Right
@@ -74,6 +78,7 @@ Eusébio               89 ST   92  92  87  90  44  72 477  543  Shooting       5
 Bale                  92 ST   90  96  91  88  64  84 513  543  Shooting       3★WF/Left
 Muleka                88 ST   95  91  75  93  40  85 479  542  Finishing      3★WF/Right
 Morales               91 ST   93  91  83  91  58  72 488  542  Secondstriker  4★WF/Right
+Benedetto             89 ST   92  94  84  90  51  91 502  542  Targetman      3★WF/Right
 van_Persie            90 ST   87  98  91  89  48  75 488  541  Targetman      3★WF/Left
 Ronaldo               90 ST   93  93  80  91  47  77 481  541  Finishing      5★WF/Right
 Martínez              90 ST   91  90  80  94  56  94 505  540  Targetman      4★WF/Right
@@ -126,6 +131,7 @@ Volland               90 ST   80  95  87  87  48  90 487  516  Shooting       4�
 Taremi                89 ST   86  91  79  87  45  75 463  516  Shooting       4★WF/Right
 Siebatcheu            93 ST   85  94  77  87  45  89 477  515  Finishing      3★WF/Right
 Inzaghi               89 ST   86  94  72  88  43  73 456  514  Targetman      3★WF/Right
+Cauteruccio           89 ST   82  94  80  87  53  93 489  512  Finishing      3★WF/Right
 Borja_Mayoral         89 ST   81  91  81  89  47  80 469  512  Shooting       4★WF/Right
 Scamacca              90 ST   88  95  70  85  45  91 474  511  Finishing      3★WF/Right
 Ibrahimović           93 ST   75 100  89  86  43  94 487  511  Targetman      4★WF/Right

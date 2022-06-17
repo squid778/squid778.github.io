@@ -1,6 +1,11 @@
 sortcol=12
+van_Dijk             100 CB  100  80  96  95 122 116 609  698  Marking        3★WF/Right
+van_Dijk             100 CB  100  80  96  95 122 116 609  698  Marking        3★WF/Right
 Vidić                100 CB   92  67  86  88 121 116 570  687  Tackling       3★WF/Right
 Maldini               97 CB  102  69  94  88 125 104 582  685  Marking        4★WF/Right
+Marquinhos            99 CB  102  70  99  96 119 110 596  679  Defending      3★WF/Right
+Rúben_Dias            98 CB   91  54  87  91 120 111 554  673  Tackling       4★WF/Right
+Koulibaly             98 CB  101  49  75  84 115 113 537  672  Defending      3★WF/Right
 Rúben_Dias            96 CB   88  51  82  89 117 108 535  655  Marking        4★WF/Right
 Schlotterbeck         98 CB   95  54  78  85 113 106 531  646  Tackling       3★WF/Left
 Koulibaly             97 CB   97  45  70  79 111 108 510  646  Marking        3★WF/Right
@@ -43,10 +48,12 @@ Schlotterbeck         93 CB   87  45  67  74  99  94 466  572  Marking        3�
 Hummels               93 CB   75  66  92  80 101  97 511  572  Defending      3★WF/Right
 Botman                93 CB   79  49  76  75  99  98 476  572  Marking        3★WF/Left
 Pau_Torres            93 CB   82  49  81  82 100  94 488  570  Defending      3★WF/Left
+Izquierdoz            91 CB   69  67  73  71  99 101 480  568  Marking        3★WF/Right
 Hegazi                91 CB   74  33  68  70  98 100 443  568  Defending      2★WF/Right
 Bremer                89 CB   80  50  69  81  98  97 475  568  Strength       3★WF/Right
 Söyüncü               92 CB   87  57  73  79  96  96 488  567  Tackling       4★WF/Right
 Kim_Min_Jae           90 CB   93  49  76  82  94  96 490  567  Defending      3★WF/Right
+Sigali                90 CB   82  61  65  78  96  98 480  566  Defending      3★WF/Right
 Mario_Hermoso         93 CB   86  59  84  83  97  94 503  565  Strength       3★WF/Left
 Sergio_Ramos          93 CB   78  76  84  83  98  96 515  564  Marking        3★WF/Right
 Sergio_Ramos          93 CB   78  76  84  83  98  96 515  564  Marking        3★WF/Right

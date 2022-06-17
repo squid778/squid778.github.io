@@ -1,6 +1,8 @@
 sortcol=12
 Zambrotta            100 LB  110  93 112 113 112 108 648  660  Balanced       5★WF/Right
+Hernández             99 LB  116  94 105 117 100 101 633  634  Reactions      3★WF/Left
 Hernández             96 LB  109  87  96 109  95  95 591  598  Pace           3★WF/Left
+João_Cancelo          98 LB  107  89 112 116  99  87 610  586  Pace           4★WF/Right
 Davies                94 LB  110  82  90 106  92  91 571  586  Balanced       4★WF/Left
 Hernández             92 LB  102  81  88  99  87  91 548  560  Balanced       3★WF/Left
 Pedraza               94 LB   96  90  93 100  91  90 560  554  Reactions      4★WF/Left
@@ -11,6 +13,7 @@ Roussillon            93 LB  102  80  90  98  87  86 543  550  Reactions      3�
 João_Cancelo          94 LB  102  84 104 107  93  80 570  550  Balanced       4★WF/Right
 Cole                  94 LB   96  75  93  96  96  82 538  548  Pace           3★WF/Left
 Shaw                  90 LB   85  63  88  90  93  94 513  544  Balanced       2★WF/Left
+Díaz                  89 LB   92  67  87  93  89  91 519  544  Balanced       3★WF/Left
 Davies                90 LB  104  75  81  96  84  84 524  544  Reactions      4★WF/Left
 Acuña                 94 LB   89  88 103 106  92  91 569  544  Reactions      3★WF/Left
 Roberto_Carlos        90 LB   95  85  90  88  88  88 534  542  Balanced       3★WF/Left

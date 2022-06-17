@@ -1,11 +1,14 @@
 sortcol=12
+Nkunku                99 CAM 106 113 116 116  86  88 625  673  Counter        5★WF/Right
 Zidane                98 CAM 102 115 117 111  82  95 622  658  Shortpassing   5★WF/Right
+Lucas_Paquetá         98 CAM 100 108 109 112  85 101 615  641  Dribbling      4★WF/Left
 De_Bruyne             98 CAM  97 110 113 111  75  85 591  639  Dribbling      5★WF/Right
 De_Bruyne             98 CAM  97 110 113 111  75  85 591  639  Dribbling      5★WF/Right
 Nkunku                98 CAM  98 105 107 111  83  84 588  630  Dribbling      4★WF/Right
 Nkunku                98 CAM  98 105 107 111  83  84 588  630  Dribbling      4★WF/Right
 Rooney                98 CAM 102 111 100 107  61  98 579  629  Shortpassing   4★WF/Right
 Fekir                 97 CAM 101 104 102 107  48  91 553  622  Dribbling      4★WF/Left
+Ronaldinho            95 CAM 102 101 100 105  44  88 540  615  Dribbling      4★WF/Right
 Nakata                95 CAM  96 102 105 104  73  71 551  607  Counter        4★WF/Right
 Sócrates              95 CAM  94 107 105 102  56  88 552  604  Longshots      5★WF/Right
 Deco                  95 CAM  94  99 106 105  55  65 524  603  Dribbling      3★WF/Right
@@ -47,6 +50,7 @@ Savanier              91 CAM  80  93  99 100  77  74 523  552  Shortpassing   4�
 Kamada                92 CAM  89  86  93  97  49  66 480  551  Counter        4★WF/Right
 Fekir                 89 CAM  91  92  89  94  41  81 488  551  Longshots      4★WF/Left
 Shaqiri               91 CAM  87  91  93  96  54  73 494  550  Counter        4★WF/Left
+Cristaldo             88 CAM  92  90  88  93  71  82 516  548  Counter        3★WF/Right
 Son                   93 CAM  93  93  86  91  46  66 475  547  Longshots      5★WF/Right
 Mount                 90 CAM  82  92  97  97  59  66 493  547  Shortpassing   4★WF/Right
 Mercier               89 CAM  85  94  97  91  58  73 498  543  Counter        3★WF/Right

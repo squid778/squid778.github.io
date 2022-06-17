@@ -1,5 +1,7 @@
 sortcol=12
 Guardiola            100 CDM 100  88 118 108 119 104 637  637  Interceptions  3★WF/Right
+Kimmich               98 CDM  96  98 115 112 111 103 635  635  Longpassing    4★WF/Right
+Tchouaméni            98 CDM  98  93 108 110 108 111 628  628  Holding        3★WF/Right
 Matthäus              98 CDM  99  96 103  93 108  98 597  597  Holding        4★WF/Right
 Kanté                 96 CDM  91  79  93 109 114 108 594  594  Holding        3★WF/Right
 Kimmich               96 CDM  85  88 106 102 100  94 575  575  Vision         4★WF/Right
@@ -28,6 +30,7 @@ Sangaré               89 CDM  79  77  89  85  94  95 519  519  Holding        4
 Casemiro              93 CDM  76  80  86  79  99  99 519  519  Vision         3★WF/Right
 Rice                  91 CDM  78  66  89  88 101  96 518  518  Holding        3★WF/Right
 Vinicius_Souza        89 CDM  80  68  90  87  89 101 515  515  Interceptions  3★WF/Right
+Lértora               88 CDM  79  75  86  86  94  94 514  514  Holding        3★WF/Right
 Kimmich               92 CDM  75  78  97  95  87  82 514  514  Longpassing    4★WF/Right
 Pavelka               90 CDM  84  75  88  89  87  89 512  512  Interceptions  4★WF/Right
 Locatelli             90 CDM  74  80  96  85  94  83 512  512  Interceptions  4★WF/Right

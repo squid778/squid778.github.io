@@ -1,5 +1,6 @@
 sortcol=12
 Lahm                 100 RB  103  91 117 118 112  89 630  608  Pace           3★WF/Right
+Alexander-Arnold      99 RB  107  91 117 115 105  91 626  606  Balanced       4★WF/Right
 Hakimi                94 RB  110  85  98 107  93  91 584  588  Balanced       4★WF/Right
 Tavernier             93 RB  102  90  97 106  91  96 582  578  Reactions      3★WF/Right
 Frimpong              94 RB  113  71  89 107  86  86 552  570  Reactions      3★WF/Right
@@ -13,6 +14,7 @@ Walker                90 RB   98  70  83  86  86  93 516  554  Pace           2�
 Bye                   89 RB   97  78  86  93  90  89 533  552  Reactions      3★WF/Right
 Muñoz                 90 RB   91  66  85  92  90  90 514  542  Balanced       3★WF/Right
 Dodô                  93 RB  105  76  84  98  84  82 529  542  Balanced       3★WF/Right
+Mac_Allister          89 RB   94  62  76  89  93  81 495  536  Reactions      3★WF/Right
 Walker                88 RB   94  67  79  81  83  90 494  534  Reactions      2★WF/Right
 Toköz                 89 RB   87  80  87  90  91  89 524  534  Reactions      3★WF/Right
 Klostermann           89 RB   92  59  72  80  91  84 478  534  Balanced       3★WF/Right
