@@ -1,2 +1,6 @@
 sortcol=12
 Clauss                94 RWB 107  89  95 108  87  86 572  572  Balanced       3★WF/Right
+Kristensen            89 RWB  95  79  88  90  86  95 533  533  Pace           3★WF/Right
+Meunier               89 RWB  84  85  84  82  84  87 506  506  Pace           4★WF/Right
+Trippier              89 RWB  80  71  94  86  90  76 497  497  Balanced       4★WF/Right
+James                 89 RWB  84  66  84  85  81  83 483  483  Balanced       3★WF/Right
