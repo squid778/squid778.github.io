@@ -1,10 +1,14 @@
 sortcol=12
+Ronaldo              102 ST  119 123 110 120  73 108 653  711  Secondstriker  5★WF/Right
 Mbappé               100 ST  116 117 100 116  50  91 590  681  Secondstriker  5★WF/Right
 Fernando_Torres       99 CF  116 117  98 116  63  99 609  679  Secondstriker  4★WF/Right
 Nkunku                99 CAM 106 113 116 116  86  88 625  673  Counter        5★WF/Right
 Fernando_Torres       99 ST  116 120  92 112  63  99 602  668  Finishing      4★WF/Right
+Benzema              101 ST  105 119 107 113  59 104 607  662  Secondstriker  5★WF/Right
+Benzema              101 ST  105 119 107 113  59 104 607  662  Secondstriker  5★WF/Right
 Zidane                98 CAM 102 115 117 111  82  95 622  658  Shortpassing   5★WF/Right
 C._Ronaldo           100 ST  110 117 100 110  53  99 589  657  Targetman      5★WF/Right
+Lewandowski          101 ST  105 120 102 111  57 112 607  654  Finishing      5★WF/Right
 van_Dijk              97 CB   93  73  88  88 112 108 562  645  Strength       3★WF/Right
 Ben_Yedder            98 ST  106 110 100 110  56  93 575  642  Shooting       5★WF/Right
 Lucas_Paquetá         98 CAM 100 108 109 112  85 101 615  641  Dribbling      4★WF/Left

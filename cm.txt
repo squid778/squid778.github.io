@@ -1,5 +1,6 @@
 sortcol=12
 Gullit                99 CM  114 115 120 111 103 106 669  669  Vision         5★WF/Right
+De_Bruyne            101 CM  104 117 123 118  81  92 635  635  Vision         5★WF/Right
 Modrić                98 CM   99 108 119 114  95  90 625  625  Vision         5★WF/Right
 Bellingham            98 CM  105  95 106 107 101 104 618  618  Interceptions  4★WF/Right
 De_Bruyne             97 CM   98 109 116 110  76  85 594  594  Vision         5★WF/Right
