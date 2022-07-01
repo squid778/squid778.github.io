@@ -29,6 +29,7 @@ Laporte               98 CB   83  62  87  81 109 105 527  620  Defending      3�
 Matthäus              98 CDM  99  96 103  93 108  98 597  619  Holding        4★WF/Right
 Desailly              95 CB   94  65  84  80 106 102 531  616  Strength       3★WF/Right
 Škriniar              95 CB   93  50  66  79 106 102 496  615  Tackling       3★WF/Right
+Keane                 97 CDM  90  90 104  97 105 104 590  613  Holding        3★WF/Right
 Chiellini             95 CB   85  61  76  74 106 105 507  613  Defending      3★WF/Left
 Araujo                94 CB   95  53  75  74 105 101 503  612  Tackling       3★WF/Right
 Saliba                95 CB   92  54  86  86 105 102 525  611  Tackling       3★WF/Right
@@ -41,6 +42,8 @@ Süle                  94 CB   80  57  78  65 105 101 486  597  Marking        3
 Matip                 94 CB   81  58  83  78 105 100 505  596  Marking        3★WF/Right
 Casemiro              95 CDM  80  87  92  85 103 102 549  593  Holding        3★WF/Right
 Alaba                 93 CB   93  83  99  93 104  94 566  593  Defending      4★WF/Left
+Ferdinand             94 CB   91  56  76  75 103  96 497  592  Tackling       3★WF/Right
+Tomori                95 CB   96  49  72  83 100  97 497  590  Strength       4★WF/Right
 Manolas               93 CB   92  34  56  76 100  99 457  590  Marking        2★WF/Right
 Škriniar              93 CB   89  47  62  75 101  98 472  588  Marking        3★WF/Right
 Coady                 94 CB   77  71  93  82 104  99 526  587  Tackling       3★WF/Right
@@ -48,6 +51,7 @@ Tchouaméni            94 CDM  88  86  99 101  98 102 574  586  Longpassing    3
 Makélélé              94 CDM  90  60  92  94  99  99 534  585  Interceptions  3★WF/Right
 Rijkaard              94 CDM  88  85  95  91 102  95 556  584  Interceptions  4★WF/Right
 Koulibaly             93 CB   90  36  62  70  99  98 455  583  Marking        3★WF/Right
+Smalling              95 CB   78  60  75  75 101 100 489  581  Marking        3★WF/Right
 Pepe                  93 CB   91  59  72  72  96 101 491  581  Defending      3★WF/Right
 Chiellini             93 CB   77  53  69  68 100 100 467  577  Tackling       3★WF/Left
 Rodri                 93 CDM  80  82  96  92 102  95 547  576  Interceptions  4★WF/Right
@@ -64,13 +68,17 @@ Hummels               93 CB   75  66  92  80 101  97 511  572  Defending      3�
 Botman                93 CB   79  49  76  75  99  98 476  572  Marking        3★WF/Left
 Casemiro              93 CDM  76  80  86  79  99  99 519  571  Vision         3★WF/Right
 Pau_Torres            93 CB   82  49  81  82 100  94 488  570  Defending      3★WF/Left
+Mings                 93 CB   85  58  82  79  97  97 498  570  Defending      2★WF/Left
+Chalobah              95 CB   84  60  84  85  98  96 507  570  Marking        3★WF/Right
 Can                   92 CDM  86  86  92  89  96  98 547  570  Holding        4★WF/Right
+Noble                 94 CDM  76  87 105  97  99  98 562  569  Interceptions  3★WF/Right
 Izquierdoz            91 CB   69  67  73  71  99 101 480  568  Marking        3★WF/Right
 Hegazi                91 CB   74  33  68  70  98 100 443  568  Defending      2★WF/Right
 Bremer                89 CB   80  50  69  81  98  97 475  568  Strength       3★WF/Right
 Söyüncü               92 CB   87  57  73  79  96  96 488  567  Tackling       4★WF/Right
 Kim_Min_Jae           90 CB   93  49  76  82  94  96 490  567  Defending      3★WF/Right
 Sigali                90 CB   82  61  65  78  96  98 480  566  Defending      3★WF/Right
+Tierney               93 CB   96  72  87  90  95  92 532  565  Strength       3★WF/Left
 Mario_Hermoso         93 CB   86  59  84  83  97  94 503  565  Strength       3★WF/Left
 Fabinho               92 CDM  74  77  88  85  99  97 520  565  Holding        2★WF/Right
 Sergio_Ramos          93 CB   78  76  84  83  98  96 515  564  Marking        3★WF/Right
@@ -79,10 +87,12 @@ Le_Normand            89 CB   79  38  65  69  99  94 444  564  Strength       3�
 Gvardiol              90 CB   96  68  83  85  90  99 521  564  Strength       4★WF/Left
 Timber                90 CB   97  59  80  89  92  95 512  563  Tackling       3★WF/Right
 Romero                90 CB   85  52  61  75  96  95 464  563  Defending      2★WF/Right
+Egan                  92 CB   80  59  71  80  97  96 483  563  Tackling       3★WF/Right
 van_Dijk              93 CB   83  64  78  74  97  94 490  562  Defending      3★WF/Right
 Hong_Jeong_Ho         90 CB   90  62  71  77  92  98 490  562  Defending      4★WF/Right
 Brozović              94 CDM  83  88 104  99  99  91 564  562  Interceptions  4★WF/Right
 Rüdiger               90 CB   82  50  76  71  95  97 471  561  Strength       3★WF/Right
+Duffy                 93 CB   64  64  69  64  97 103 461  561  Defending      3★WF/Right
 Bonucci               92 CB   73  63  80  77  98  97 488  561  Defending      4★WF/Right
 Otamendi              89 CB   73  67  74  73  97  98 482  560  Marking        3★WF/Right
 Koundé                89 CB   88  50  72  80  96  92 478  560  Marking        3★WF/Right
@@ -116,6 +126,7 @@ Petit                 90 CDM  80  83  88  84  94  93 522  548  Holding        3�
 Lopes                 89 CB   70  50  69  73  96  95 453  548  Marking        3★WF/Right
 Bailly                90 CB   82  51  69  78  92  95 467  548  Defending      3★WF/Right
 Lacroix               89 CB   96  40  66  75  91  89 457  547  Tackling       2★WF/Right
+Guéhi                 90 CB   84  45  64  80  93  92 458  547  Marking        2★WF/Right
 Camara                93 CDM  98  73  88  97  89  91 536  547  Interceptions  3★WF/Right
 Matip                 93 CB   68  55  79  74  98  92 466  546  Tackling       2★WF/Right
 Matip                 93 CB   68  55  79  74  98  92 466  546  Tackling       2★WF/Right
@@ -124,11 +135,13 @@ Juanan                90 CB   73  65  76  71  95  94 474  546  Marking        3�
 Martínez              89 CB   84  67  83  85  93  91 503  545  Defending      3★WF/Left
 Casemiro              91 CDM  73  77  81  75  94  95 495  545  Holding        3★WF/Right
 Bruno_Henrique        89 CDM  77  82  91  84  94  93 521  545  Interceptions  3★WF/Right
+Phillips              93 CDM  78  77  94  88  92  95 524  544  Holding        3★WF/Right
 Badiashile            90 CB   75  52  79  68  95  92 461  544  Tackling       3★WF/Left
 Azpilicueta           89 CB   73  62  83  80  95  93 486  544  Strength       3★WF/Right
 Witsel                93 CDM  71  83  96  90  96  92 528  543  Holding        4★WF/Right
 Coates                91 CB   76  55  66  65  95  91 448  543  Strength       3★WF/Right
 Bonucci               90 CB   70  60  76  74  95  94 469  543  Marking        4★WF/Right
+Davies                93 CB   81  69  94  88  96  86 514  541  Strength       3★WF/Left
 Hartley               89 CB   65  55  76  65  91 101 453  540  Defending      3★WF/Left
 Dier                  90 CB   64  73  81  70  94  97 479  540  Strength       2★WF/Right
 Ndicka                89 CB   86  60  82  81  92  88 489  538  Marking        3★WF/Left
@@ -136,10 +149,13 @@ João_Victor           90 CDM  70  71  90  80  94  93 498  538  Holding        3
 Eric_García           90 CB   77  54  79  79  95  88 472  538  Defending      3★WF/Right
 Bonucci               93 CB   70  63  78  76  94  93 474  538  Strength       4★WF/Right
 Süle                  91 CB   73  50  70  59  96  88 436  537  Defending      3★WF/Right
+Keane                 91 CB   64  56  77  75  95  94 461  537  Tackling       3★WF/Right
 Friedrich             90 CB   74  49  70  67  95  89 444  537  Strength       3★WF/Right
+Ferguson              89 CDM  85  84  87  86  90  91 523  537  Vision         4★WF/Right
 Price                 90 CDM  72  72  99  92  91  95 521  535  Interceptions  3★WF/Right
 Fernando_Hierro       89 CB   75  69  79  75  94  89 481  535  Defending      3★WF/Right
 Andrich               91 CDM  73  86  95  85  90  96 525  535  Holding        4★WF/Right
+Adarabioyo            89 CB   79  42  69  73  92  90 445  535  Marking        3★WF/Right
 Tarkowski             90 CB   64  51  76  72  94  94 451  534  Defending      4★WF/Right
 Fabinho               89 CDM  70  73  82  79  93  92 489  533  Interceptions  2★WF/Right
 Bruno_Guimarães       94 CDM  82  78 100  95  92  87 534  532  Holding        4★WF/Right
@@ -152,6 +168,7 @@ Syrota                89 CB   84  35  52  69  92  85 417  530  Tackling       2�
 Thiago_Silva          92 CB   61  62  81  79  96  90 469  529  Marking        3★WF/Right
 Fernandinho           93 CDM  68  80  87  87  93  91 506  529  Interceptions  4★WF/Right
 Fernandinho           93 CDM  68  80  87  87  93  91 506  529  Interceptions  4★WF/Right
+Kilman                90 CB   71  57  76  76  91  91 462  526  Defending      4★WF/Left
 Wieteska              89 CB   73  47  63  67  89  92 431  524  Strength       3★WF/Right
 Pavelka               90 CDM  84  75  88  89  87  89 512  523  Interceptions  4★WF/Right
 Locatelli             90 CDM  74  80  96  85  94  83 512  522  Interceptions  4★WF/Right
@@ -170,6 +187,7 @@ Kimmich               92 CDM  75  78  97  95  87  82 514  500  Longpassing    4�
 Koné                  89 CDM  91  73  90  87  80  84 505  499  Longpassing    3★WF/Right
 Casemiro              89 CDM  64  73  77  71  85  89 459  497  Interceptions  3★WF/Right
 Kanté                 90 CDM  78  66  75  83  84  79 465  488  Holding        3★WF/Right
+Lopez                 90 CDM  84  78  94  97  82  71 506  472  Interceptions  3★WF/Right
 Kimmich               89 CDM  71  73  86  84  81  77 472  468  Holding        4★WF/Right
 Ricci                 89 CDM  81  60  86  84  79  74 464  466  Interceptions  3★WF/Right
 Verratti              90 CDM  66  65  90  94  82  71 468  454  Interceptions  4★WF/Right

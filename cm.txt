@@ -1,5 +1,6 @@
 sortcol=12
 Gullit                99 CM  114 115 120 111 103 106 669  669  Vision         5★WF/Right
+Lampard              100 CM   93 116 125 109  98 105 646  646  Longpassing    4★WF/Right
 De_Bruyne            101 CM  104 117 123 118  81  92 635  635  Vision         5★WF/Right
 Modrić                98 CM   99 108 119 114  95  90 625  625  Vision         5★WF/Right
 Bellingham            98 CM  105  95 106 107 101 104 618  618  Interceptions  4★WF/Right
@@ -23,9 +24,11 @@ Fernández             91 CM   92  80 101  95  89  90 547  547  Vision         3
 Barella               92 CM   92  83  99 100  86  87 547  547  Longpassing    3★WF/Right
 Verón                 94 CM   85  96 101  90  85  89 546  546  Longpassing    4★WF/Right
 João_Paulo            91 CM   91  84 100  96  89  86 546  546  Longpassing    3★WF/Right
+Milner                96 CM   72  86 104  94  99  90 545  545  Holding        4★WF/Right
 Merino                92 CM   84  87  97  92  92  92 544  544  Vision         3★WF/Left
 Fofana                90 CM   94  86  90  97  87  90 544  544  Vision         4★WF/Right
 Christiansen          93 CM   93  88  96  97  83  87 544  544  Longpassing    3★WF/Right
+McTominay             95 CM   79  88  96  89  93  98 543  543  Vision         3★WF/Right
 Vanaken               93 CM   80 100 105  94  81  82 542  542  Vision         5★WF/Right
 Bernardo_Silva        95 CM   95  95 105 108  66  73 542  542  Vision         3★WF/Left
 Nainggolan            92 CM   82  95  97  88  85  94 541  541  Longpassing    3★WF/Right
@@ -47,11 +50,15 @@ Goretzka              90 CM   85  86  88  92  85  94 530  530  Holding        4�
 Gravenberch           89 CM   91  87  92  93  83  82 528  528  Interceptions  4★WF/Right
 Banega                91 CM   77  90 100  95  85  81 528  528  Longpassing    4★WF/Right
 Dahoud                93 CM   85  83  98  99  81  81 527  527  Vision         4★WF/Right
+McGregor              90 CM   94  83  91  93  83  82 526  526  Vision         4★WF/Left
 Caqueret              91 CM   90  76  95  96  88  81 526  526  Interceptions  3★WF/Right
 Zakaria               92 CM   93  73  88  85  91  93 523  523  Longpassing    3★WF/Right
 Billing               89 CM   79  84  93  84  92  91 523  523  Vision         3★WF/Left
 Barella               90 CM   86  79  97  96  82  83 523  523  Vision         3★WF/Right
 van_de_Beek           92 CM   79  89  94  90  84  86 522  522  Vision         3★WF/Right
+Doucouré              90 CM   79  85  90  86  92  87 519  519  Holding        3★WF/Right
+Ward-Prowse           94 CM   73  85 104  95  80  81 518  518  Longpassing    3★WF/Right
+Turnbull              92 CM   88  87  98  93  76  76 518  518  Interceptions  4★WF/Right
 Pogba                 93 CM   77  88  98  90  72  92 517  517  Vision         4★WF/Right
 Kessié                91 CM   85  81  85  87  89  90 517  517  Vision         4★WF/Right
 Bellingham            89 CM   86  78  87  92  84  90 517  517  Vision         4★WF/Right
@@ -61,6 +68,7 @@ Vitinha               89 CM   90  80  94  94  81  76 515  515  Holding        3�
 Verratti              93 CM   77  71 102 100  87  77 514  514  Holding        4★WF/Right
 André                 91 CM   77  74  90  86  91  96 514  514  Interceptions  3★WF/Right
 Gündoğan              92 CM   74  89  98  93  80  79 513  513  Vision         4★WF/Right
+Brannagan             91 CM   80  82  95  92  80  84 513  513  Interceptions  3★WF/Right
 Keane                 90 CM   78  77  91  83  90  92 511  511  Longpassing    3★WF/Right
 Modrić                92 CM   80  84 101  97  78  69 509  509  Interceptions  4★WF/Right
 Koke                  91 CM   77  83  95  87  84  80 506  506  Longpassing    4★WF/Right
@@ -71,6 +79,7 @@ Gündoğan              93 CM   71  87  95  91  79  78 501  501  Longpassing    
 Arnold                90 CM   73  88  91  85  84  80 501  501  Vision         2★WF/Left
 Henderson             90 CM   73  80  92  84  84  87 500  500  Longpassing    3★WF/Right
 Gerson                89 CM   81  72  90  89  85  83 500  500  Longpassing    2★WF/Left
+Davis                 90 CM   70  76  93  91  87  82 499  499  Longpassing    3★WF/Right
 Tielemans             91 CM   71  87  97  86  79  77 497  497  Vision         5★WF/Right
 Moriba                90 CM   87  84  85  87  78  74 495  495  Vision         4★WF/Right
 Bruno_Guimarães       90 CM   78  73  93  87  83  79 493  493  Longpassing    3★WF/Right

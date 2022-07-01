@@ -12,14 +12,20 @@ Diaby                 96 RM  113  97  97 109  54  75 545  638  Shortpassing   3�
 Messi                 96 RW  102 107 106 108  40  67 530  633  Ballcontrol    4★WF/Left
 Luís_Figo             95 RW  104 102 101 106  48  86 547  623  Ballcontrol    4★WF/Right
 Dembélé               96 RW  110  99  94 104  44  71 522  621  Ballcontrol    5★WF/Left
+Bale                  95 RM  102 105 102 101  67  90 567  613  Longshots      4★WF/Left
 Mahrez                94 RM   99  99  99 107  46  66 516  610  Longshots      4★WF/Left
 Bourigeaud            96 RM   97  99 104 106  78  88 572  609  Dribbling      3★WF/Right
+Sarr                  95 RW  113  99  85  99  33  76 505  608  Ballcontrol    3★WF/Right
 Di_María              94 RW   99 100 101 104  57  82 543  607  Speed          4★WF/Left
 Višća                 93 RW  104  99  94 100  55  74 526  601  Agility        4★WF/Right
+Edwards               94 RW  105  90  87 107  41  57 487  601  Speed          3★WF/Left
+Madueke               92 RW  108  92  85 101  44  78 508  595  Ballcontrol    4★WF/Left
+Sterling              96 RW  102  97  89 102  49  70 509  594  Ballcontrol    3★WF/Right
 Rodrygo               94 RW  104  97  87 101  42  68 499  594  Agility        5★WF/Right
 Best                  92 RM   99  98  93 102  65  75 532  593  Dribbling      4★WF/Right
 Narey                 90 RM  107  89  94  97  77  92 556  591  Longshots      5★WF/Right
 Gnabry                94 RM   96  97  94 103  52  76 518  589  Longshots      4★WF/Right
+Marco_Asensio         95 RM   97  96  97 100  53  69 512  587  Longshots      3★WF/Left
 Antony                90 RW  106  89  86 100  42  73 496  587  Ballcontrol    3★WF/Left
 Vela                  94 RW   95 102  92 101  39  78 507  586  Ballcontrol    3★WF/Left
 Raphinha              92 RM  103  90  90 100  56  81 520  586  Dribbling      4★WF/Left
@@ -44,6 +50,7 @@ Višća                 91 RM   99  90  90  96  54  68 497  570  Counter        
 Marcos_Llorente       92 RM   98  91  97  93  83  85 547  570  Dribbling      4★WF/Right
 Hagi                  91 RW   96  93  91  97  46  74 497  570  Agility        5★WF/Right
 González              90 RM  101  94  80  97  55  81 508  570  Longshots      3★WF/Left
+Hoskins               91 RW  106  84  79  97  57  77 500  569  Agility        3★WF/Right
 Portu                 90 RM  101  90  90  93  67  86 527  568  Shortpassing   4★WF/Right
 Chiesa                90 RW  101  92  83  95  51  74 496  567  Agility        4★WF/Right
 Tsygankov             93 RW   98  90  92  94  52  63 489  566  Agility        4★WF/Left
@@ -76,6 +83,7 @@ Otávio                91 RW   89  83  90  95  66  70 493  541  Ballcontrol    3
 Messi                 93 RW   85  91  91  94  35  61 457  540  Speed          4★WF/Left
 Garrincha             90 RW   90  85  92  91  42  61 461  539  Agility        4★WF/Right
 Pedro_Gonçalves       89 RW   86  92  88  93  59  63 481  538  Agility        4★WF/Right
+Jones                 92 RM   94  77  79  93  41  61 445  530  Shortpassing   4★WF/Left
 Salah                 89 RW   90  87  80  90  46  69 462  527  Agility        3★WF/Left
 Marega                89 RW  100  94  73  80  46  97 490  527  Agility        3★WF/Right
 Di_María              89 RW   85  85  88  90  48  70 466  523  Agility        2★WF/Left

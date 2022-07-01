@@ -8,8 +8,12 @@ Berardi               98 RW  102 106 107 111  50  87 563  639  Speed          3�
 Messi                 96 RW  102 107 106 108  40  67 530  633  Ballcontrol    4★WF/Left
 Luís_Figo             95 RW  104 102 101 106  48  86 547  623  Ballcontrol    4★WF/Right
 Dembélé               96 RW  110  99  94 104  44  71 522  621  Ballcontrol    5★WF/Left
+Sarr                  95 RW  113  99  85  99  33  76 505  608  Ballcontrol    3★WF/Right
 Di_María              94 RW   99 100 101 104  57  82 543  607  Speed          4★WF/Left
 Višća                 93 RW  104  99  94 100  55  74 526  601  Agility        4★WF/Right
+Edwards               94 RW  105  90  87 107  41  57 487  601  Speed          3★WF/Left
+Madueke               92 RW  108  92  85 101  44  78 508  595  Ballcontrol    4★WF/Left
+Sterling              96 RW  102  97  89 102  49  70 509  594  Ballcontrol    3★WF/Right
 Rodrygo               94 RW  104  97  87 101  42  68 499  594  Agility        5★WF/Right
 Antony                90 RW  106  89  86 100  42  73 496  587  Ballcontrol    3★WF/Left
 Vela                  94 RW   95 102  92 101  39  78 507  586  Ballcontrol    3★WF/Left
@@ -22,6 +26,7 @@ Pavón                 89 RW  104  92  86  95  54  76 507  576  Agility        3
 Politano              91 RW   97  93  90  98  47  61 486  573  Speed          4★WF/Left
 Ikoné                 91 RW  103  87  86  97  42  63 478  573  Agility        3★WF/Left
 Hagi                  91 RW   96  93  91  97  46  74 497  570  Agility        5★WF/Right
+Hoskins               91 RW  106  84  79  97  57  77 500  569  Agility        3★WF/Right
 Chiesa                90 RW  101  92  83  95  51  74 496  567  Agility        4★WF/Right
 Tsygankov             93 RW   98  90  92  94  52  63 489  566  Agility        4★WF/Left
 Gabriel_Jesus         93 RW   95  95  83  99  46  82 500  566  Ballcontrol    3★WF/Right

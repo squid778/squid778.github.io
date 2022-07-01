@@ -4,6 +4,7 @@ Kanté                 96 CDM  91  79  93 109 114 108 594  649  Holding        3
 Tchouaméni            98 CDM  98  93 108 110 108 111 628  644  Holding        3★WF/Right
 Kimmich               98 CDM  96  98 115 112 111 103 635  635  Longpassing    4★WF/Right
 Matthäus              98 CDM  99  96 103  93 108  98 597  619  Holding        4★WF/Right
+Keane                 97 CDM  90  90 104  97 105 104 590  613  Holding        3★WF/Right
 Kanté                 95 CDM  86  76  87 104 106 101 560  606  Interceptions  3★WF/Right
 Fernandinho           95 CDM  80  92  99  99 105 103 578  601  Holding        4★WF/Right
 Casemiro              95 CDM  80  87  92  85 103 102 549  593  Holding        3★WF/Right
@@ -15,6 +16,7 @@ Rice                  91 CDM  78  66  89  88 101  96 518  573  Holding        3�
 Kimmich               96 CDM  85  88 106 102 100  94 575  573  Vision         4★WF/Right
 Casemiro              93 CDM  76  80  86  79  99  99 519  571  Vision         3★WF/Right
 Can                   92 CDM  86  86  92  89  96  98 547  570  Holding        4★WF/Right
+Noble                 94 CDM  76  87 105  97  99  98 562  569  Interceptions  3★WF/Right
 Fabinho               92 CDM  74  77  88  85  99  97 520  565  Holding        2★WF/Right
 Brozović              94 CDM  83  88 104  99  99  91 564  562  Interceptions  4★WF/Right
 Zambo_Anguissa        91 CDM  90  77  89  95  91  97 539  557  Holding        3★WF/Right
@@ -27,8 +29,10 @@ Petit                 90 CDM  80  83  88  84  94  93 522  548  Holding        3�
 Camara                93 CDM  98  73  88  97  89  91 536  547  Interceptions  3★WF/Right
 Casemiro              91 CDM  73  77  81  75  94  95 495  545  Holding        3★WF/Right
 Bruno_Henrique        89 CDM  77  82  91  84  94  93 521  545  Interceptions  3★WF/Right
+Phillips              93 CDM  78  77  94  88  92  95 524  544  Holding        3★WF/Right
 Witsel                93 CDM  71  83  96  90  96  92 528  543  Holding        4★WF/Right
 João_Victor           90 CDM  70  71  90  80  94  93 498  538  Holding        3★WF/Right
+Ferguson              89 CDM  85  84  87  86  90  91 523  537  Vision         4★WF/Right
 Price                 90 CDM  72  72  99  92  91  95 521  535  Interceptions  3★WF/Right
 Andrich               91 CDM  73  86  95  85  90  96 525  535  Holding        4★WF/Right
 Fabinho               89 CDM  70  73  82  79  93  92 489  533  Interceptions  2★WF/Right
@@ -49,6 +53,7 @@ Kimmich               92 CDM  75  78  97  95  87  82 514  500  Longpassing    4�
 Koné                  89 CDM  91  73  90  87  80  84 505  499  Longpassing    3★WF/Right
 Casemiro              89 CDM  64  73  77  71  85  89 459  497  Interceptions  3★WF/Right
 Kanté                 90 CDM  78  66  75  83  84  79 465  488  Holding        3★WF/Right
+Lopez                 90 CDM  84  78  94  97  82  71 506  472  Interceptions  3★WF/Right
 Kimmich               89 CDM  71  73  86  84  81  77 472  468  Holding        4★WF/Right
 Ricci                 89 CDM  81  60  86  84  79  74 464  466  Interceptions  3★WF/Right
 Verratti              90 CDM  66  65  90  94  82  71 468  454  Interceptions  4★WF/Right

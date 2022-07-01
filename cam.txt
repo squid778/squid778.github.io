@@ -21,12 +21,15 @@ Bruno_Fernandes       94 CAM  92 104 104  98  76  83 557  588  Counter        3�
 Maddison              94 CAM  90  99 101 102  62  71 525  584  Dribbling      5★WF/Right
 Stewart               93 CAM  95  99  94 100  47  85 520  583  Longshots      3★WF/Left
 Reus                  95 CAM  86 104 101 103  57  75 526  583  Longshots      4★WF/Right
+Mount                 97 CAM  87 102 103 102  64  73 531  583  Dribbling      4★WF/Right
+Mount                 97 CAM  87 102 103 102  64  73 531  583  Dribbling      4★WF/Right
 Carles_Gil            93 CAM  88  99 101 103  47  72 510  582  Counter        4★WF/Left
 Fekir                 92 CAM  95  95  94 100  43  85 512  579  Counter        4★WF/Left
 Pellegrini            91 CAM  91  93 101 100  83  87 555  576  Shortpassing   3★WF/Right
 Caprari               89 CAM  99  90  87 100  30  60 466  575  Counter        3★WF/Right
 Oscar                 91 CAM  89  96  99 100  67  75 526  573  Dribbling      3★WF/Right
 Dybala                93 CAM  91  96  95 100  46  66 494  573  Dribbling      3★WF/Left
+Draxler               95 CAM  88  97  98 101  66  79 529  573  Dribbling      5★WF/Right
 Bernardo_Silva        93 CAM  89  91  94 103  58  67 502  569  Counter        3★WF/Left
 Pep_Biel              89 CAM  95  92  89  96  57  76 505  563  Shortpassing   3★WF/Left
 Weimann               90 CAM  99  92  84  94  59  82 510  562  Dribbling      3★WF/Right
@@ -36,6 +39,7 @@ Hagi                  89 CAM  90  96  94  95  44  67 486  560  Dribbling      4�
 Anderson_Talisca      90 CAM  88  97  94  96  60  80 515  559  Dribbling      4★WF/Left
 Trejo                 89 CAM  86  93  95  99  79  86 538  558  Shortpassing   4★WF/Right
 Reus                  93 CAM  83  99  97  98  54  72 503  558  Dribbling      5★WF/Right
+Gauld                 89 CAM  93  83  91  99  52  60 478  558  Counter        3★WF/Left
 Ballack               94 CAM  88  99  99  92  85  95 558  558  Longshots      4★WF/Right
 Swift                 91 CAM  85  93  98  98  72  75 521  557  Longshots      3★WF/Right
 Coutinho              93 CAM  80  95  94 103  58  66 496  555  Dribbling      4★WF/Right
@@ -54,6 +58,7 @@ Mount                 90 CAM  82  92  97  97  59  66 493  547  Shortpassing   4�
 Mercier               89 CAM  85  94  97  91  58  73 498  543  Counter        3★WF/Right
 Brahim                89 CAM  89  84  87  97  36  57 450  543  Dribbling      5★WF/Right
 Ribéry                91 CAM  82  91  95  96  39  59 462  542  Dribbling      5★WF/Right
+Lewis-Potter          90 CAM  97  86  80  91  43  71 468  542  Shortpassing   3★WF/Right
 Dani_Olmo             90 CAM  81  88  95  98  55  62 479  541  Counter        4★WF/Right
 Akbaba                89 CAM  85  94  95  90  66  73 503  539  Longshots      3★WF/Left
 Mertens               89 CAM  88  88  85  94  38  53 446  537  Dribbling      4★WF/Right

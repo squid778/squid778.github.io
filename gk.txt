@@ -35,6 +35,7 @@ Rossi                 91 GK   51  17  43  46  24  71 252  252  Number1        2�
 Navas                 93 GK   57  16  43  51  19  66 252  252  Number1        3★WF/Right
 Donnarumma            94 GK   58  16  40  52  19  65 250  250  Handling       3★WF/Right
 Adán                  89 GK   61  14  37  43  20  74 249  249  Number1        3★WF/Left
+Pope                  95 GK   59  15  38  43  16  75 246  246  Reflexes       3★WF/Right
 Casillas              96 GK   56   9  48  49  14  70 246  246  Number1        2★WF/Left
 Alisson               94 GK   57  15  48  46  18  62 246  246  Reflexes       3★WF/Right
 Fernando              89 GK   58  20  37  47  18  65 245  245  Number1        3★WF/Right
@@ -44,6 +45,7 @@ Oblak                 93 GK   54  13  43  48  19  67 244  244  Reflexes       3�
 ter_Stegen            93 GK   45  14  54  42  17  70 242  242  Reflexes       4★WF/Right
 Sels                  93 GK   46  21  42  47  16  70 242  242  Reflexes       2★WF/Right
 Rulli                 90 GK   60  17  37  45  17  66 242  242  Handling       3★WF/Right
+Trapp                 95 GK   59  14  32  44  16  74 239  239  Handling       4★WF/Right
 Lafont                91 GK   54  10  45  46  17  67 239  239  Handling       3★WF/Right
 Butez                 89 GK   54  17  40  51  16  61 239  239  Number1        4★WF/Right
 Ochoa                 90 GK   54  21  39  46  18  59 237  237  Handling       3★WF/Right

@@ -21,7 +21,10 @@ Carrasco              94 LM  103  97  93 105  52  77 527  606  Longshots      4�
 Sinisterra            91 LW  109  88  87 103  61  81 529  599  Speed          4★WF/Right
 Neymar_Jr             94 LW   99  98  97 102  42  65 503  597  Ballcontrol    5★WF/Right
 Kostić                93 LM  102  92  97 101  78  90 560  595  Longshots      3★WF/Left
+Grealish              97 LW   95  98  99 104  52  69 517  595  Agility        3★WF/Right
+Grealish              97 LW   95  98  99 104  52  69 517  595  Agility        3★WF/Right
 Foden                 92 LM  100  94  93 104  64  63 518  595  Dribbling      3★WF/Left
+Barnes                95 LM  102  95  94 101  55  71 518  595  Longshots      4★WF/Right
 Oršić                 91 LW  107 100  85  97  63  70 522  593  Speed          4★WF/Right
 Luna                  91 LM  107  89  90  98  56  73 513  589  Dribbling      3★WF/Right
 Zaha                  93 LW  103  93  86 100  41  82 505  585  Ballcontrol    3★WF/Right
@@ -33,7 +36,9 @@ Gakpo                 91 LM  101  94  90  98  51  82 516  582  Counter        4�
 Bamba                 93 LM  103  90  90  98  49  77 507  582  Dribbling      4★WF/Right
 Neymar_Jr             93 LW   96  96  95  99  40  62 488  581  Speed          5★WF/Right
 Ansu_Fati             91 LM  105  90  85  98  39  68 485  581  Longshots      4★WF/Right
+Smith_Rowe            94 LM   99  87  95 100  44  69 494  580  Dribbling      4★WF/Right
 Selemani              90 LW  105  94  86  95  67  74 521  580  Agility        3★WF/Right
+Mavididi              92 LW  107  94  84  94  38  81 498  580  Speed          3★WF/Right
 De_la_Cruz            89 LM   99  91  93  99  77  83 542  580  Dribbling      4★WF/Right
 Al_Dawsari            90 LM  101  90  88 100  61  85 525  580  Longshots      5★WF/Right
 Sané                  93 LW  101  95  89  96  45  76 502  578  Speed          2★WF/Left

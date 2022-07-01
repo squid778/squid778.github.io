@@ -13,12 +13,15 @@ Mané                  95 LW  107 103  92 104  55  89 550  617  Speed          4
 Zaha                  96 LW  108 100  89 105  42  86 530  615  Agility        3★WF/Right
 Sinisterra            91 LW  109  88  87 103  61  81 529  599  Speed          4★WF/Right
 Neymar_Jr             94 LW   99  98  97 102  42  65 503  597  Ballcontrol    5★WF/Right
+Grealish              97 LW   95  98  99 104  52  69 517  595  Agility        3★WF/Right
+Grealish              97 LW   95  98  99 104  52  69 517  595  Agility        3★WF/Right
 Oršić                 91 LW  107 100  85  97  63  70 522  593  Speed          4★WF/Right
 Zaha                  93 LW  103  93  86 100  41  82 505  585  Ballcontrol    3★WF/Right
 Martial               93 LW  101  96  87  99  44  80 507  583  Agility        4★WF/Right
 Martial               93 LW  101  96  87  99  44  80 507  583  Agility        4★WF/Right
 Neymar_Jr             93 LW   96  96  95  99  40  62 488  581  Speed          5★WF/Right
 Selemani              90 LW  105  94  86  95  67  74 521  580  Agility        3★WF/Right
+Mavididi              92 LW  107  94  84  94  38  81 498  580  Speed          3★WF/Right
 Sané                  93 LW  101  95  89  96  45  76 502  578  Speed          2★WF/Left
 Ricardo_Horta         91 LW   96  97  91  99  52  80 515  578  Ballcontrol    3★WF/Right
 Twine                 90 LW  103  92  87  96  67  62 507  577  Speed          3★WF/Right
