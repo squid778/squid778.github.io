@@ -21,14 +21,15 @@ for(let i = 0; i < th.length; i++)
 
     /* tell table which column is currently sorted */
     table.dataset.sort = e.target.cellIndex;
-    sortColumn();
+document.getElementById("log").innerHTML = 'sort on ' + i;
+    sortColumn(i);
   });
 }
 }
 
-function sortColumn()
+function sortColumn(n)
 {
-window.alert('sort column ' + table.dataset.sort);
+document.getElementById("log").innerHTML ='sort column ' + table.dataset.sort;
 
   const rows = Array.from(table.children);
   rows.splice(0, 1); //remove header from the list
