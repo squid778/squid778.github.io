@@ -1,4 +1,3 @@
-sortcol=12
 Ronaldo              102 ST  119 123 110 120  73 108 653  711  Secondstriker  5★WF/Right
 Mbappé               100 ST  116 117 100 116  50  91 590  681  Secondstriker  5★WF/Right
 Fernando_Torres       99 CF  116 117  98 116  63  99 609  679  Secondstriker  4★WF/Right

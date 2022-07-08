@@ -1,4 +1,3 @@
-sortcol=12
 Pirès                100 LM  116 114 117 119  61  85 612  701  Dribbling      4★WF/Right
 Son                   98 LM  111 113 103 108  55  80 570  654  Shortpassing   5★WF/Right
 Nedvěd                95 LM  105 103 105 106  64  88 571  630  Counter        5★WF/Right

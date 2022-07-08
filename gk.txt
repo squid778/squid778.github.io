@@ -1,4 +1,3 @@
-sortcol=12
 Maignan              100 GK   69  16  58  62  23  84 312  312  Reflexes       4★WF/Right
 Schmeichel            95 GK   59  30  49  54  26  80 298  298  Number1        3★WF/Right
 Riemann               89 GK   61  15  60  58  24  72 290  290  Number1        5★WF/Right

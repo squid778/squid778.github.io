@@ -1,4 +1,3 @@
-sortcol=12
 Pirès                100 LM  116 114 117 119  61  85 612  701  Dribbling      4★WF/Right
 Ronaldinho            98 LW  118 114 111 118  47  93 601  697  Agility        4★WF/Right
 Vinícius_Jr.         100 LW  123 110 101 119  44  90 587  695  Ballcontrol    5★WF/Right

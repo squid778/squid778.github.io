@@ -1,4 +1,3 @@
-sortcol=12
 van_Dijk             100 CB  100  80  96  95 122 116 609  698  Marking        3★WF/Right
 van_Dijk             100 CB  100  80  96  95 122 116 609  698  Marking        3★WF/Right
 Vidić                100 CB   92  67  86  88 121 116 570  687  Tackling       3★WF/Right
