@@ -21,7 +21,6 @@ for(let i = 0; i < th.length; i++)
 
     /* tell table which column is currently sorted */
     table.dataset.sort = e.target.cellIndex;
-document.getElementById("log").innerHTML = 'sort on ' + i;
     sortColumn(i);
   });
 }
@@ -34,7 +33,6 @@ table.dataset.sort = n;
 
   const rows = Array.from(table.children);
   rows.splice(0, 1); //remove header from the list
-window.alert(rows);
   rows.sort((a, b) => 
   {
     a = a.children[table.dataset.sort].textContent;
@@ -49,7 +47,6 @@ window.alert(rows);
   if (+table.dataset.order)
     rows.reverse();
 
- window.alert(rows);
   for(let i = 0; i < rows.length; i++)
   {
     table.appendChild(rows[i]);
