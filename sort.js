@@ -5,7 +5,7 @@ function addlistener()
 const table = document.getElementById("test"),
       th = test.querySelectorAll("th"),
       sortDefault = 0, //default sorted column number
-      orderDefault = 0; //default order: 0 = ascending, 1 = descending
+      orderDefault = 1; //default order: 0 = ascending, 1 = descending
 
 table.dataset.sort = sortDefault;
 table.dataset.order = orderDefault;
