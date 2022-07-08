@@ -1,3 +1,4 @@
+function addlistener() {
 const table = document.getElementById("test"),
       th = test.querySelectorAll("th"),
       sortDefault = 0, //default sorted column number
@@ -15,7 +16,7 @@ for(let i = 0; i < th.length; i++)
     sortTable(i);
   });
 }
-
+}
 function sortTable(n) {
   var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
   table = document.getElementById("myTable2");
