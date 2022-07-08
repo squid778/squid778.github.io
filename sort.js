@@ -28,8 +28,11 @@ for(let i = 0; i < th.length; i++)
 
 function sortColumn()
 {
+window.alert('sort column ' + table.dataset.sort);
+
   const rows = Array.from(table.children);
   rows.splice(0, 1); //remove header from the list
+window.alert(rows);
   rows.sort((a, b) => 
   {
     a = a.children[table.dataset.sort].textContent;
