@@ -21,16 +21,18 @@ for(let i = 0; i < th.length; i++)
 
     /* tell table which column is currently sorted */
     table.dataset.sort = e.target.cellIndex;
-    //sortColumn(i);
-    sortTable(i);
+    sortColumn(i);
+    //sortTable(i);
   });
 }
 }
 
 function sortColumn(n)
 {
-document.getElementById("log").innerHTML ='sort column ' + table.dataset.sort;
-table.dataset.sort = n;
+  document.getElementById("log").innerHTML ='sort column ' + table.dataset.sort;
+
+  const table = document.getElementById("test");
+  table.dataset.sort = n;
 
   const rows = Array.from(table.children);
   rows.splice(0, 1); //remove header from the list
