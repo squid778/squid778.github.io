@@ -1,4 +1,7 @@
 /* source: https://stackoverflow.com/questions/67913593/how-to-sort-an-html-table */
+
+function addlistner()
+{
 const table = document.getElementById("test"),
       th = test.querySelectorAll("th"),
       sortDefault = 0, //default sorted column number
@@ -22,8 +25,7 @@ for(let i = 0; i < th.length; i++)
     sortColumn();
   });
 }
-
-sortColumn(); //initial sort of the table
+}
 
 function sortColumn()
 {
