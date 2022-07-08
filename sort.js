@@ -1,6 +1,6 @@
 /* source: https://stackoverflow.com/questions/67913593/how-to-sort-an-html-table */
 
-function addlistner()
+function addlistener()
 {
 const table = document.getElementById("test"),
       th = test.querySelectorAll("th"),
