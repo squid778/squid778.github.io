@@ -112,9 +112,18 @@ span {
 {
   content: "▼";
 }
+
 #test[data-sort="0"] th:nth-child(1):after,
 #test[data-sort="1"] th:nth-child(2):after,
-#test[data-sort="2"] th:nth-child(3):after
+#test[data-sort="2"] th:nth-child(3):after,
+#test[data-sort="3"] th:nth-child(4):after,
+#test[data-sort="4"] th:nth-child(5):after,
+#test[data-sort="5"] th:nth-child(6):after,
+#test[data-sort="6"] th:nth-child(7):after,
+#test[data-sort="7"] th:nth-child(8):after,
+#test[data-sort="8"] th:nth-child(9):after,
+#test[data-sort="9"] th:nth-child(10):after,
+#test[data-sort="10"] th:nth-child(11):after
 {
   visibility: visible;
 }
