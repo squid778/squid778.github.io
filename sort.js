@@ -30,6 +30,7 @@ document.getElementById("log").innerHTML = 'sort on ' + i;
 function sortColumn(n)
 {
 document.getElementById("log").innerHTML ='sort column ' + table.dataset.sort;
+table.dataset.sort = n;
 
   const rows = Array.from(table.children);
   rows.splice(0, 1); //remove header from the list
