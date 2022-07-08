@@ -21,7 +21,6 @@ for(let i = 0; i < th.length; i++)
 
     /* tell table which column is currently sorted */
     table.dataset.sort = e.target.cellIndex;
-	window.alert('sort on ' + table.dataset.sort);
     sortColumn();
   });
 }
