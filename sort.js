@@ -38,15 +38,13 @@ function sortColumn()
     a = a.replace(/\W/g, ""); //remove non alphanumerical characters
     b = b.replace(/\W/g, ""); //remove non alphanumerical characters
 
-    a = a.replace(/0x[a-fA-F0-9]+/, n => Number(n)); //convert 0xHEX to decimal
-    b = b.replace(/0x[a-fA-F0-9]+/, n => Number(n)); //convert 0xHEX to decimal
-
     return a.localeCompare(b, undefined, {numeric: true, sensitivity: 'base'})
   });
 
   if (+table.dataset.order)
     rows.reverse();
 
+ window.alert(rows);
   for(let i = 0; i < rows.length; i++)
   {
     table.appendChild(rows[i]);
