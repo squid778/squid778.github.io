@@ -1,60 +1,65 @@
-Ronaldinho            98 LW  118 114 111 118  47  93 601  697  Agility        4★WF/Right
-Vinícius_Jr.         100 LW  123 110 101 119  44  90 587  695  Ballcontrol    5★WF/Right
-Rafael_Leão           98 LW  115 107  98 111  42  96 569  657  Agility        5★WF/Right
-Vinícius_Jr.          98 LW  118 101  95 112  42  85 553  656  Agility        4★WF/Right
-Vinícius_Jr.          98 LW  118 101  95 112  42  85 553  656  Agility        4★WF/Right
-Saint-Maximin         97 LW  115 100  93 113  39  78 538  649  Agility        4★WF/Right
-Forsberg              99 LW   98 108 111 113  51  84 565  641  Ballcontrol    4★WF/Right
-Stoichkov             95 LW  106 108 101 106  56  95 572  633  Agility        4★WF/Left
-Neymar_Jr             96 LW  106 100 100 108  47  71 532  628  Agility        5★WF/Right
-Rafael_Leão           96 LW  110 100  90 105  40  90 535  620  Ballcontrol    4★WF/Right
-Trossard              95 LW  105 103  96 105  41  80 530  619  Speed          4★WF/Right
-Son                   97 LW  105 109  95 102  51  75 537  618  Ballcontrol    5★WF/Right
-Son                   97 LW  105 109  95 102  51  75 537  618  Ballcontrol    5★WF/Right
-Mané                  95 LW  107 103  92 104  55  89 550  617  Speed          4★WF/Right
-Zaha                  96 LW  108 100  89 105  42  86 530  615  Agility        3★WF/Right
-Sinisterra            91 LW  109  88  87 103  61  81 529  599  Speed          4★WF/Right
-Neymar_Jr             94 LW   99  98  97 102  42  65 503  597  Ballcontrol    5★WF/Right
-Grealish              97 LW   95  98  99 104  52  69 517  595  Agility        3★WF/Right
-Grealish              97 LW   95  98  99 104  52  69 517  595  Agility        3★WF/Right
-Oršić                 91 LW  107 100  85  97  63  70 522  593  Speed          4★WF/Right
-Pedro_Neto            93 LW  104  96  85 101  40  68 494  591  Agility        4★WF/Left
-Zaha                  93 LW  103  93  86 100  41  82 505  585  Ballcontrol    3★WF/Right
-Braithwaite           94 LW   99  99  90  99  45  91 523  585  Speed          4★WF/Right
-Martial               93 LW  101  96  87  99  44  80 507  583  Agility        4★WF/Right
-Martial               93 LW  101  96  87  99  44  80 507  583  Agility        4★WF/Right
-Neymar_Jr             93 LW   96  96  95  99  40  62 488  581  Speed          5★WF/Right
-Selemani              90 LW  105  94  86  95  67  74 521  580  Agility        3★WF/Right
-Mavididi              92 LW  107  94  84  94  38  81 498  580  Speed          3★WF/Right
-Sané                  93 LW  101  95  89  96  45  76 502  578  Speed          2★WF/Left
-Ricardo_Horta         91 LW   96  97  91  99  52  80 515  578  Ballcontrol    3★WF/Right
-Twine                 90 LW  103  92  87  96  67  62 507  577  Speed          3★WF/Right
-Nwakaeme              91 LW   97  96  90  98  48  90 519  576  Speed          4★WF/Right
-Toko_Ekambi           92 LW  102  97  86  94  35  80 494  575  Ballcontrol    4★WF/Right
-Cueva                 91 LW   95  93  90 101  51  73 503  575  Speed          4★WF/Right
-Vinícius_Jr.          90 LW  106  84  81  97  34  73 475  571  Speed          4★WF/Right
-Danjuma               91 LW  100  93  86  96  49  78 502  571  Speed          4★WF/Right
-Neymar_Jr             92 LW   94  92  93  96  39  60 474  565  Agility        5★WF/Right
-Henry                 90 LW   96  97  90  93  54  78 508  565  Agility        4★WF/Right
-Ferran_Torres         92 LW   95  94  91  95  43  74 492  565  Ballcontrol    4★WF/Right
-Rotondi               89 LW   99  91  82  96  64  75 507  563  Agility        3★WF/Left
-Toko_Ekambi           91 LW  100  95  83  92  34  78 482  562  Ballcontrol    4★WF/Right
-Gonçalo_Guedes        91 LW   98  93  87  93  43  76 490  562  Speed          4★WF/Right
-Insigne               90 LW   94  88  91  97  39  44 453  561  Agility        4★WF/Right
-Oyarzabal             90 LW   94  92  88  96  44  66 480  560  Agility        3★WF/Left
-Elyounoussi           91 LW   92  94  88  96  61  84 515  558  Speed          4★WF/Right
-Mbappé                93 LW   99  90  81  93  39  74 476  555  Speed          4★WF/Right
-Colaco                89 LW  100  84  81  95  35  75 470  555  Agility        4★WF/Right
-Grealish              90 LW   89  88  94  97  48  62 478  554  Ballcontrol    3★WF/Right
-Grifo                 91 LW   85  93  96  97  49  70 490  553  Agility        3★WF/Right
-Lang                  89 LW   95  88  83  95  55  74 490  551  Ballcontrol    3★WF/Right
-Mané                  92 LW   96  88  82  94  47  80 487  550  Agility        4★WF/Right
-Sterling              91 LW   96  87  82  94  46  64 469  549  Agility        3★WF/Right
-Sisto                 90 LW   89  91  86  97  55  75 493  549  Agility        4★WF/Right
-Son                   92 LW   92  92  84  90  45  65 468  540  Agility        5★WF/Right
-Tadić                 89 LW   81  91  94  95  46  74 481  537  Ballcontrol    3★WF/Left
-Ronaldinho            89 LW   91  86  87  91  35  77 467  537  Ballcontrol    4★WF/Right
-Payet                 89 LW   85  90  93  92  45  68 473  537  Speed          4★WF/Right
-Neymar_Jr             91 LW   91  83  86  93  37  58 448  537  Ballcontrol    5★WF/Right
-Larin                 93 LW   90  95  76  88  37  91 477  527  Ballcontrol    4★WF/Right
-Mané                  89 LW   91  83  79  90  46  76 465  524  Ballcontrol    4★WF/Right
+Ronaldinho            98 LW  118 114 111 118  47  93 601  697  Agility        4★WF/Right
+Vinícius_Jr.         100 LW  123 110 101 119  44  90 587  695  Ballcontrol    5★WF/Right
+Rafael_Leão           98 LW  115 107  98 111  42  96 569  657  Agility        5★WF/Right
+Vinícius_Jr.          98 LW  118 101  95 112  42  85 553  656  Agility        4★WF/Right
+Vinícius_Jr.          98 LW  118 101  95 112  42  85 553  656  Agility        4★WF/Right
+Saint-Maximin         97 LW  115 100  93 113  39  78 538  649  Agility        4★WF/Right
+Forsberg              99 LW   98 108 111 113  51  84 565  641  Ballcontrol    4★WF/Right
+Stoichkov             95 LW  106 108 101 106  56  95 572  633  Agility        4★WF/Left
+Neymar_Jr             96 LW  106 100 100 108  47  71 532  628  Agility        5★WF/Right
+Díaz                  96 LW  111 104  89 105  42  87 538  625  Speed          4★WF/Right
+Díaz                  96 LW  111 104  89 105  42  87 538  625  Speed          4★WF/Right
+Rafael_Leão           96 LW  110 100  90 105  40  90 535  620  Ballcontrol    4★WF/Right
+Trossard              95 LW  105 103  96 105  41  80 530  619  Speed          4★WF/Right
+Son                   97 LW  105 109  95 102  51  75 537  618  Ballcontrol    5★WF/Right
+Son                   97 LW  105 109  95 102  51  75 537  618  Ballcontrol    5★WF/Right
+Coutinho              95 LW   99 106  98 108  66  75 552  618  Ballcontrol    4★WF/Right
+Mané                  95 LW  107 103  92 104  55  89 550  617  Speed          4★WF/Right
+Zaha                  96 LW  108 100  89 105  42  86 530  615  Agility        3★WF/Right
+Zaccagni              95 LW  101 100  97 104  72  83 557  607  Ballcontrol    4★WF/Right
+Sinisterra            91 LW  109  88  87 103  61  81 529  599  Speed          4★WF/Right
+Neymar_Jr             94 LW   99  98  97 102  42  65 503  597  Ballcontrol    5★WF/Right
+Grealish              97 LW   95  98  99 104  52  69 517  595  Agility        3★WF/Right
+Grealish              97 LW   95  98  99 104  52  69 517  595  Agility        3★WF/Right
+Oršić                 91 LW  107 100  85  97  63  70 522  593  Speed          4★WF/Right
+Pedro_Neto            93 LW  104  96  85 101  40  68 494  591  Agility        4★WF/Left
+Zaha                  93 LW  103  93  86 100  41  82 505  585  Ballcontrol    3★WF/Right
+Braithwaite           94 LW   99  99  90  99  45  91 523  585  Speed          4★WF/Right
+Martial               93 LW  101  96  87  99  44  80 507  583  Agility        4★WF/Right
+Martial               93 LW  101  96  87  99  44  80 507  583  Agility        4★WF/Right
+Gabriel_Martinelli    92 LW  106  91  83  98  54  79 511  582  Agility        3★WF/Right
+Neymar_Jr             93 LW   96  96  95  99  40  62 488  581  Speed          5★WF/Right
+Selemani              90 LW  105  94  86  95  67  74 521  580  Agility        3★WF/Right
+Mavididi              92 LW  107  94  84  94  38  81 498  580  Speed          3★WF/Right
+Sané                  93 LW  101  95  89  96  45  76 502  578  Speed          2★WF/Left
+Ricardo_Horta         91 LW   96  97  91  99  52  80 515  578  Ballcontrol    3★WF/Right
+Twine                 90 LW  103  92  87  96  67  62 507  577  Speed          3★WF/Right
+Nwakaeme              91 LW   97  96  90  98  48  90 519  576  Speed          4★WF/Right
+Toko_Ekambi           92 LW  102  97  86  94  35  80 494  575  Ballcontrol    4★WF/Right
+Cueva                 91 LW   95  93  90 101  51  73 503  575  Speed          4★WF/Right
+Vinícius_Jr.          90 LW  106  84  81  97  34  73 475  571  Speed          4★WF/Right
+Danjuma               91 LW  100  93  86  96  49  78 502  571  Speed          4★WF/Right
+Neymar_Jr             92 LW   94  92  93  96  39  60 474  565  Agility        5★WF/Right
+Henry                 90 LW   96  97  90  93  54  78 508  565  Agility        4★WF/Right
+Ferran_Torres         92 LW   95  94  91  95  43  74 492  565  Ballcontrol    4★WF/Right
+Rotondi               89 LW   99  91  82  96  64  75 507  563  Agility        3★WF/Left
+Toko_Ekambi           91 LW  100  95  83  92  34  78 482  562  Ballcontrol    4★WF/Right
+Gonçalo_Guedes        91 LW   98  93  87  93  43  76 490  562  Speed          4★WF/Right
+Insigne               90 LW   94  88  91  97  39  44 453  561  Agility        4★WF/Right
+Oyarzabal             90 LW   94  92  88  96  44  66 480  560  Agility        3★WF/Left
+Elyounoussi           91 LW   92  94  88  96  61  84 515  558  Speed          4★WF/Right
+Mbappé                93 LW   99  90  81  93  39  74 476  555  Speed          4★WF/Right
+Colaco                89 LW  100  84  81  95  35  75 470  555  Agility        4★WF/Right
+Grealish              90 LW   89  88  94  97  48  62 478  554  Ballcontrol    3★WF/Right
+Grifo                 91 LW   85  93  96  97  49  70 490  553  Agility        3★WF/Right
+Lang                  89 LW   95  88  83  95  55  74 490  551  Ballcontrol    3★WF/Right
+Mané                  92 LW   96  88  82  94  47  80 487  550  Agility        4★WF/Right
+Sterling              91 LW   96  87  82  94  46  64 469  549  Agility        3★WF/Right
+Sisto                 90 LW   89  91  86  97  55  75 493  549  Agility        4★WF/Right
+Son                   92 LW   92  92  84  90  45  65 468  540  Agility        5★WF/Right
+Tadić                 89 LW   81  91  94  95  46  74 481  537  Ballcontrol    3★WF/Left
+Ronaldinho            89 LW   91  86  87  91  35  77 467  537  Ballcontrol    4★WF/Right
+Payet                 89 LW   85  90  93  92  45  68 473  537  Speed          4★WF/Right
+Neymar_Jr             91 LW   91  83  86  93  37  58 448  537  Ballcontrol    5★WF/Right
+Larin                 93 LW   90  95  76  88  37  91 477  527  Ballcontrol    4★WF/Right
+Mané                  89 LW   91  83  79  90  46  76 465  524  Ballcontrol    4★WF/Right
