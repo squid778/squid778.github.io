@@ -9,6 +9,7 @@ Ederson               93 GK   67  23  57  53  20  67 287  287  Handling       3�
 Neuer                 97 GK   64  17  58  55  19  73 286  286  Reflexes       4★WF/Right
 Stojković             89 GK   64  26  43  48  24  79 284  284  Reflexes       3★WF/Right
 Yashin                89 GK   61  23  42  56  23  76 281  281  Reflexes       3★WF/Right
+Schmeichel            98 GK   63  18  52  57  17  72 279  279  Reflexes       3★WF/Right
 Čech                  99 GK   62  10  49  56  25  76 278  278  Number1        3★WF/Left
 Ederson               91 GK   64  23  55  51  19  65 277  277  Number1        3★WF/Left
 Ortega                92 GK   61  15  50  52  22  74 274  274  Number1        4★WF/Right

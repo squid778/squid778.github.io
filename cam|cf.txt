@@ -19,6 +19,7 @@ Sócrates              95 CAM  94 107 105 102  56  88 552  604  Longshots      5
 Deco                  95 CAM  94  99 106 105  55  65 524  603  Dribbling      3★WF/Right
 Bergkamp              95 CF   97 106  97 103  45  84 532  603  Secondstriker  4★WF/Right
 Boga                  94 CAM 103  96  92 103  49  76 519  600  Longshots      3★WF/Right
+Thomasson             96 CAM  90 102 104 106  80  91 573  598  Dribbling      4★WF/Right
 Dani_Olmo             96 CAM  85 104 104 110  62  70 535  598  Shortpassing   4★WF/Right
 Lucas_Paquetá         95 CAM  91 100 103 106  79  91 570  597  Counter        3★WF/Left
 João_Félix            94 CF   98  99  94 104  53  83 531  597  Secondstriker  4★WF/Right
@@ -30,6 +31,7 @@ Luis_Alberto          98 CAM  82 103 111 106  70  70 542  590  Longshots      3�
 Payet                 95 CF   88 102 103 104  52  75 524  589  Secondstriker  4★WF/Right
 Müller                95 CAM  87 106 104 102  66  81 546  588  Dribbling      4★WF/Right
 Bruno_Fernandes       94 CAM  92 104 104  98  76  83 557  588  Counter        3★WF/Right
+Wind                  96 CF   94 101  97 100  58 100 550  586  Secondstriker  3★WF/Right
 Maddison              94 CAM  90  99 101 102  62  71 525  584  Dribbling      5★WF/Right
 Stewart               93 CAM  95  99  94 100  47  85 520  583  Longshots      3★WF/Left
 Reus                  95 CAM  86 104 101 103  57  75 526  583  Longshots      4★WF/Right

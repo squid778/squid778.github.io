@@ -1,5 +1,6 @@
 Beckham               98 RM  107 115 119 114  87  94 636  676  Longshots      3★WF/Right
 Berardi               98 RM  106 111 111 116  54  92 590  666  Longshots      4★WF/Left
+Marcos_Llorente      100 RM  111 106 104 109  92  97 619  650  Longshots      4★WF/Right
 Gelson_Martins        95 RM  115  99  98 109  69  79 569  645  Dribbling      3★WF/Right
 Gnabry                98 RM  106 105 100 111  53  81 556  639  Dribbling      4★WF/Right
 Diaby                 96 RM  113  97  97 109  54  75 545  638  Shortpassing   3★WF/Left

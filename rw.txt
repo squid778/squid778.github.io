@@ -6,6 +6,7 @@ Salah                 98 RW  107 109  99 112  54  84 565  646  Agility        4�
 Berardi               98 RW  102 106 107 111  50  87 563  639  Speed          3★WF/Left
 Messi                 96 RW  102 107 106 108  40  67 530  633  Ballcontrol    4★WF/Left
 Candreva              99 RW  100 107 106 110  75  79 577  633  Speed          4★WF/Right
+Honorat               98 RW  106 109  98 106  60  83 562  631  Agility        4★WF/Right
 Luís_Figo             95 RW  104 102 101 106  48  86 547  623  Ballcontrol    4★WF/Right
 Kulusevski            95 RW  106 103  98 104  69  91 571  621  Ballcontrol    4★WF/Left
 Dembélé               96 RW  110  99  94 104  44  71 522  621  Ballcontrol    5★WF/Left

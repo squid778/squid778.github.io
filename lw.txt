@@ -4,7 +4,9 @@ Rafael_Leão           98 LW  115 107  98 111  42  96 569  657  Agility        5
 Vinícius_Jr.          98 LW  118 101  95 112  42  85 553  656  Agility        4★WF/Right
 Vinícius_Jr.          98 LW  118 101  95 112  42  85 553  656  Agility        4★WF/Right
 Saint-Maximin         97 LW  115 100  93 113  39  78 538  649  Agility        4★WF/Right
+Oyarzabal             98 LW  108 107 102 109  50  77 553  643  Speed          4★WF/Left
 Forsberg              99 LW   98 108 111 113  51  84 565  641  Ballcontrol    4★WF/Right
+Laudrup               99 LW  101 107 107 109  46  77 547  634  Speed          4★WF/Right
 Stoichkov             95 LW  106 108 101 106  56  95 572  633  Agility        4★WF/Left
 Neymar_Jr             96 LW  106 100 100 108  47  71 532  628  Agility        5★WF/Right
 Díaz                  96 LW  111 104  89 105  42  87 538  625  Speed          4★WF/Right

@@ -2,6 +2,7 @@ Lahm                 100 RB  103  91 117 118 112  89 630  608  Pace           3�
 Alexander-Arnold      99 RB  107  91 117 115 105  91 626  606  Balanced       4★WF/Right
 Meunier               96 RB   95  96 100 102  99 103 595  594  Reactions      4★WF/Right
 Hakimi                94 RB  110  85  98 107  93  91 584  588  Balanced       4★WF/Right
+Azpilicueta           97 RB   85  71  99  97 105 100 557  580  Pace           3★WF/Right
 Tavernier             93 RB  102  90  97 106  91  96 582  578  Reactions      3★WF/Right
 Emerson               95 RB   98  81  93  97  91  97 557  572  Reactions      3★WF/Right
 Frimpong              94 RB  113  71  89 107  86  86 552  570  Reactions      3★WF/Right

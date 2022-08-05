@@ -2,6 +2,7 @@ Pirès                100 LM  116 114 117 119  61  85 612  701  Dribbling      4
 Coman                 99 LM  115 102 100 114  45  76 552  660  Shortpassing   4★WF/Right
 Son                   98 LM  111 113 103 108  55  80 570  654  Shortpassing   5★WF/Right
 Simon                 96 LM  114  98  98 111  55  89 565  646  Longshots      4★WF/Right
+Lemar                 97 LM  104 101 104 113  74  80 576  639  Longshots      4★WF/Left
 Juanmi                98 LM  104 107  99 112  50  78 550  638  Longshots      3★WF/Right
 Nedvěd                95 LM  105 103 105 106  64  88 571  630  Counter        5★WF/Right
 Terrier               98 LM  109 105  99 103  52  86 554  628  Longshots      3★WF/Right

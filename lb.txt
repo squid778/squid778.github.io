@@ -18,6 +18,7 @@ Castagne              95 LB   98  75  93 100  94  85 545  554  Reactions      3�
 Lahm                  95 LB   96  83 105 105 103  77 569  552  Reactions      3★WF/Right
 João_Cancelo          94 LB  103  85 105 108  93  80 574  552  Reactions      4★WF/Right
 Roussillon            93 LB  102  80  90  98  87  86 543  550  Reactions      3★WF/Left
+Marcos_Alonso         95 LB   84  91  99 100  96  95 565  550  Pace           3★WF/Left
 João_Cancelo          94 LB  102  84 104 107  93  80 570  550  Balanced       4★WF/Right
 Guerreiro             98 LB   94  95 109 115  95  85 593  548  Pace           3★WF/Left
 Cole                  94 LB   96  75  93  96  96  82 538  548  Pace           3★WF/Left

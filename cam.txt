@@ -15,6 +15,7 @@ Nakata                95 CAM  96 102 105 104  73  71 551  607  Counter        4�
 Sócrates              95 CAM  94 107 105 102  56  88 552  604  Longshots      5★WF/Right
 Deco                  95 CAM  94  99 106 105  55  65 524  603  Dribbling      3★WF/Right
 Boga                  94 CAM 103  96  92 103  49  76 519  600  Longshots      3★WF/Right
+Thomasson             96 CAM  90 102 104 106  80  91 573  598  Dribbling      4★WF/Right
 Dani_Olmo             96 CAM  85 104 104 110  62  70 535  598  Shortpassing   4★WF/Right
 Lucas_Paquetá         95 CAM  91 100 103 106  79  91 570  597  Counter        3★WF/Left
 Litmanen              95 CAM  95 107  98 100  45  67 512  595  Shortpassing   4★WF/Right

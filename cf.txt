@@ -4,6 +4,7 @@ Dybala                97 CF   95 106 103 107  50  72 533  613  Secondstriker  3�
 Bergkamp              95 CF   97 106  97 103  45  84 532  603  Secondstriker  4★WF/Right
 João_Félix            94 CF   98  99  94 104  53  83 531  597  Secondstriker  4★WF/Right
 Payet                 95 CF   88 102 103 104  52  75 524  589  Secondstriker  4★WF/Right
+Wind                  96 CF   94 101  97 100  58 100 550  586  Secondstriker  3★WF/Right
 Mukhtar               90 CF   98  91  93  99  58  72 511  578  Targetman      5★WF/Right
 Igor_Coronado         89 CF   94  92  90  99  60  74 509  568  Finishing      4★WF/Right
 Stindl                96 CF   77 106 103 102  74  91 553  567  Shooting       4★WF/Right

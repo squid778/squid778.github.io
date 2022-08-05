@@ -6,6 +6,7 @@ Benzema              101 ST  105 119 107 113  59 104 607  662  Secondstriker  5�
 Benzema              101 ST  105 119 107 113  59 104 607  662  Secondstriker  5★WF/Right
 C._Ronaldo           100 ST  110 117 100 110  53  99 589  657  Targetman      5★WF/Right
 Lewandowski          101 ST  105 120 102 111  57 112 607  654  Finishing      5★WF/Right
+Suárez                98 ST  101 117 105 111  68 111 613  646  Finishing      5★WF/Right
 Ben_Yedder            98 ST  106 110 100 110  56  93 575  642  Shooting       5★WF/Right
 Roberto_Firmino       96 ST  104  99 103 107  69  98 580  624  Shooting       4★WF/Right
 Mbappé                95 ST  109 108  88 105  46  83 539  624  Finishing      4★WF/Right
@@ -43,6 +44,7 @@ Martínez              93 ST   99  99  88 102  63 102 553  589  Finishing      4
 Pukki                 96 ST   99 104  85 100  52  89 529  587  Secondstriker  3★WF/Right
 Mané                  93 ST  101  98  87 100  54  86 526  587  Secondstriker  5★WF/Right
 Džeko                 99 ST   85 108 100 104  62  99 558  586  Shooting       5★WF/Right
+Volland               98 ST   90 108  99  99  57 102 555  585  Finishing      4★WF/Left
 Muriel                94 ST  101  99  87  98  39  76 500  584  Shooting       5★WF/Right
 Núñez                 93 ST  103  99  90  94  54 101 541  583  Shooting       3★WF/Right
 Klose                 95 ST  101 108  85  94  56  93 537  583  Finishing      4★WF/Right

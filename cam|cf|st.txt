@@ -10,6 +10,7 @@ Benzema              101 ST  105 119 107 113  59 104 607  662  Secondstriker  5�
 Zidane                98 CAM 102 115 117 111  82  95 622  658  Shortpassing   5★WF/Right
 C._Ronaldo           100 ST  110 117 100 110  53  99 589  657  Targetman      5★WF/Right
 Lewandowski          101 ST  105 120 102 111  57 112 607  654  Finishing      5★WF/Right
+Suárez                98 ST  101 117 105 111  68 111 613  646  Finishing      5★WF/Right
 Ben_Yedder            98 ST  106 110 100 110  56  93 575  642  Shooting       5★WF/Right
 Lucas_Paquetá         98 CAM 100 108 109 112  85 101 615  641  Dribbling      4★WF/Left
 De_Bruyne             98 CAM  97 110 113 111  75  85 591  639  Dribbling      5★WF/Right
@@ -51,6 +52,7 @@ Rush                  98 ST  100 108  91 101  61  99 560  601  Finishing      4�
 Burkardt              95 ST  105 100  88 101  59  96 549  600  Targetman      3★WF/Right
 Boga                  94 CAM 103  96  92 103  49  76 519  600  Longshots      3★WF/Right
 Mbappé                94 ST  105 102  85 101  43  79 515  599  Targetman      4★WF/Right
+Thomasson             96 CAM  90 102 104 106  80  91 573  598  Dribbling      4★WF/Right
 Dani_Olmo             96 CAM  85 104 104 110  62  70 535  598  Shortpassing   4★WF/Right
 Yaremchuk             95 ST  102 105  96  96  64  99 562  597  Finishing      3★WF/Right
 Lucas_Paquetá         95 CAM  91 100 103 106  79  91 570  597  Counter        3★WF/Left
@@ -75,7 +77,9 @@ Müller                95 CAM  87 106 104 102  66  81 546  588  Dribbling      4
 Bruno_Fernandes       94 CAM  92 104 104  98  76  83 557  588  Counter        3★WF/Right
 Pukki                 96 ST   99 104  85 100  52  89 529  587  Secondstriker  3★WF/Right
 Mané                  93 ST  101  98  87 100  54  86 526  587  Secondstriker  5★WF/Right
+Wind                  96 CF   94 101  97 100  58 100 550  586  Secondstriker  3★WF/Right
 Džeko                 99 ST   85 108 100 104  62  99 558  586  Shooting       5★WF/Right
+Volland               98 ST   90 108  99  99  57 102 555  585  Finishing      4★WF/Left
 Muriel                94 ST  101  99  87  98  39  76 500  584  Shooting       5★WF/Right
 Maddison              94 CAM  90  99 101 102  62  71 525  584  Dribbling      5★WF/Right
 Stewart               93 CAM  95  99  94 100  47  85 520  583  Longshots      3★WF/Left
