@@ -49,6 +49,7 @@ Son                   91 LM   96  94  85  90  46  65 476  551  Dribbling      5�
 Mané                  90 LM   96  88  83  94  48  80 489  551  Dribbling      4★WF/Right
 Bryan_Gil             89 LM   93  83  87  97  32  47 439  550  Counter        3★WF/Left
 Gosens                92 LM   94  88  86  92  86  90 536  546  Dribbling      3★WF/Left
+Ginola                89 LM   92  90  89  91  57  87 506  545  Dribbling      5★WF/Left
 Saka                  89 LM   94  79  86  93  69  67 488  539  Longshots      3★WF/Left
 Insigne               89 LM   90  82  89  93  38  41 433  537  Counter        4★WF/Right
 Muniain               89 LM   87  82  88  95  52  65 469  534  Dribbling      3★WF/Right

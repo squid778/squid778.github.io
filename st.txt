@@ -8,6 +8,9 @@ C._Ronaldo           100 ST  110 117 100 110  53  99 589  657  Targetman      5�
 Lewandowski          101 ST  105 120 102 111  57 112 607  654  Finishing      5★WF/Right
 Suárez                98 ST  101 117 105 111  68 111 613  646  Finishing      5★WF/Right
 Ben_Yedder            98 ST  106 110 100 110  56  93 575  642  Shooting       5★WF/Right
+Gomez                100 ST  107 117  92 105  61 112 594  633  Finishing      5★WF/Right
+Gomez                100 ST  107 117  92 105  61 112 594  633  Finishing      5★WF/Right
+Griezmann             99 ST   99 109 106 109  71  95 589  631  Shooting       4★WF/Left
 Roberto_Firmino       96 ST  104  99 103 107  69  98 580  624  Shooting       4★WF/Right
 Mbappé                95 ST  109 108  88 105  46  83 539  624  Finishing      4★WF/Right
 C._Ronaldo            96 ST  104 113  90 106  46  92 551  623  Finishing      4★WF/Right
@@ -53,6 +56,7 @@ Hauche                93 ST  103  95  88  97  55  86 524  583  Secondstriker  4�
 Suárez                98 ST   90 107  94 100  57 100 548  581  Secondstriker  4★WF/Right
 Suárez                98 ST   90 107  94 100  57 100 548  581  Secondstriker  4★WF/Right
 Diogo_Jota            91 ST   97  97  88 101  69  92 544  581  Finishing      5★WF/Right
+Kramarić              97 ST   88 107  93 102  47  90 527  580  Targetman      4★WF/Right
 Deulofeu              93 ST  102  91  87  98  40  71 489  578  Shooting       4★WF/Right
 Kluivert              95 ST   98 100  93  94  53  95 533  577  Secondstriker  4★WF/Right
 Haaland               97 ST  101 108  79  94  55 100 537  577  Finishing      3★WF/Left
@@ -113,6 +117,7 @@ Laborde               90 ST   89  96  89  90  52  96 512  543  Secondstriker  4�
 Gabriel_Jesus         90 ST   92  91  80  94  46  81 484  543  Secondstriker  3★WF/Right
 Eusébio               89 ST   92  92  87  90  44  72 477  543  Shooting       5★WF/Right
 Bale                  92 ST   90  96  91  88  64  84 513  543  Shooting       3★WF/Left
+Zeneli                89 ST   94  85  83  93  43  64 462  542  Shooting       3★WF/Right
 Moukoko               90 ST  100  87  69  93  45  74 468  542  Finishing      4★WF/Left
 Morales               91 ST   93  91  83  91  58  72 488  542  Secondstriker  4★WF/Right
 Benedetto             89 ST   92  94  84  90  51  91 502  542  Targetman      3★WF/Right
@@ -188,6 +193,7 @@ Immobile              89 ST   89  93  69  84  44  81 460  508  Secondstriker  4�
 Dessers               89 ST   91  92  69  82  40  84 458  507  Secondstriker  4★WF/Right
 Quagliarella          90 ST   72  98  86  89  40  73 458  506  Secondstriker  4★WF/Right
 Paulinho              93 ST   80  95  77  87  55  93 487  506  Secondstriker  4★WF/Left
+Morientes             89 ST   85  92  78  83  49  90 477  506  Targetman      4★WF/Right
 Haaland               90 ST   91  94  66  82  46  88 467  506  Shooting       3★WF/Left
 Lukaku                90 ST   90  94  76  77  43  86 466  504  Shooting       4★WF/Left
 Zapata                91 ST   88  92  69  83  43  92 467  503  Secondstriker  4★WF/Right

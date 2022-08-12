@@ -15,6 +15,9 @@ Ben_Yedder            98 ST  106 110 100 110  56  93 575  642  Shooting       5�
 Lucas_Paquetá         98 CAM 100 108 109 112  85 101 615  641  Dribbling      4★WF/Left
 De_Bruyne             98 CAM  97 110 113 111  75  85 591  639  Dribbling      5★WF/Right
 De_Bruyne             98 CAM  97 110 113 111  75  85 591  639  Dribbling      5★WF/Right
+Gomez                100 ST  107 117  92 105  61 112 594  633  Finishing      5★WF/Right
+Gomez                100 ST  107 117  92 105  61 112 594  633  Finishing      5★WF/Right
+Griezmann             99 ST   99 109 106 109  71  95 589  631  Shooting       4★WF/Left
 Nkunku                98 CAM  98 105 107 111  83  84 588  630  Dribbling      4★WF/Right
 Nkunku                98 CAM  98 105 107 111  83  84 588  630  Dribbling      4★WF/Right
 Rooney                98 CAM 102 111 100 107  61  98 579  629  Shortpassing   4★WF/Right
@@ -43,6 +46,7 @@ Adeyemi               94 ST  113  98  86  99  43  83 522  608  Targetman      3�
 Nakata                95 CAM  96 102 105 104  73  71 551  607  Counter        4★WF/Right
 Lewandowski           96 ST   95 114  88 107  53 107 564  606  Secondstriker  4★WF/Right
 Trezeguet             98 ST  101 107  90 103  62  89 552  605  Targetman      4★WF/Right
+David_Silva           99 CAM  86 103 110 110  63  72 544  605  Longshots      4★WF/Left
 Werner                97 ST  106 105  87 100  50  85 533  604  Secondstriker  4★WF/Right
 Sócrates              95 CAM  94 107 105 102  56  88 552  604  Longshots      5★WF/Right
 Deco                  95 CAM  94  99 106 105  55  65 524  603  Dribbling      3★WF/Right
@@ -93,7 +97,9 @@ Hauche                93 ST  103  95  88  97  55  86 524  583  Secondstriker  4�
 Carles_Gil            93 CAM  88  99 101 103  47  72 510  582  Counter        4★WF/Left
 Suárez                98 ST   90 107  94 100  57 100 548  581  Secondstriker  4★WF/Right
 Suárez                98 ST   90 107  94 100  57 100 548  581  Secondstriker  4★WF/Right
+Jonathan_Viera        93 CAM  96  95  94 100  72  77 534  581  Counter        4★WF/Right
 Diogo_Jota            91 ST   97  97  88 101  69  92 544  581  Finishing      5★WF/Right
+Kramarić              97 ST   88 107  93 102  47  90 527  580  Targetman      4★WF/Right
 Fekir                 92 CAM  95  95  94 100  43  85 512  579  Counter        4★WF/Left
 Mukhtar               90 CF   98  91  93  99  58  72 511  578  Targetman      5★WF/Right
 Deulofeu              93 ST  102  91  87  98  40  71 489  578  Shooting       4★WF/Right
@@ -180,6 +186,7 @@ Nkunku                92 ST   90  88  92  95  77  71 513  550  Finishing      3�
 Benzema               93 ST   83 101  87  98  46  82 497  550  Targetman      4★WF/Right
 Arnautović            93 ST   91  96  91  90  55  94 517  549  Targetman      4★WF/Right
 Barrow                90 ST   97  89  81  92  41  69 469  548  Secondstriker  4★WF/Right
+Abedi_Pelé            89 CAM  93  85  89  94  50  64 475  548  Longshots      4★WF/Left
 Son                   93 CAM  93  93  86  91  46  66 475  547  Longshots      5★WF/Right
 Mount                 90 CAM  82  92  97  97  59  66 493  547  Shortpassing   4★WF/Right
 De_Tomás              91 ST   88  98  83  95  47  84 495  547  Targetman      4★WF/Right
@@ -200,6 +207,7 @@ Gabriel_Jesus         90 ST   92  91  80  94  46  81 484  543  Secondstriker  3�
 Eusébio               89 ST   92  92  87  90  44  72 477  543  Shooting       5★WF/Right
 Brahim                89 CAM  89  84  87  97  36  57 450  543  Dribbling      5★WF/Right
 Bale                  92 ST   90  96  91  88  64  84 513  543  Shooting       3★WF/Left
+Zeneli                89 ST   94  85  83  93  43  64 462  542  Shooting       3★WF/Right
 Ribéry                91 CAM  82  91  95  96  39  59 462  542  Dribbling      5★WF/Right
 Moukoko               90 ST  100  87  69  93  45  74 468  542  Finishing      4★WF/Left
 Morales               91 ST   93  91  83  91  58  72 488  542  Secondstriker  4★WF/Right
@@ -310,6 +318,7 @@ Immobile              89 ST   89  93  69  84  44  81 460  508  Secondstriker  4�
 Dessers               89 ST   91  92  69  82  40  84 458  507  Secondstriker  4★WF/Right
 Quagliarella          90 ST   72  98  86  89  40  73 458  506  Secondstriker  4★WF/Right
 Paulinho              93 ST   80  95  77  87  55  93 487  506  Secondstriker  4★WF/Left
+Morientes             89 ST   85  92  78  83  49  90 477  506  Targetman      4★WF/Right
 Haaland               90 ST   91  94  66  82  46  88 467  506  Shooting       3★WF/Left
 Lukaku                90 ST   90  94  76  77  43  86 466  504  Shooting       4★WF/Left
 Zapata                91 ST   88  92  69  83  43  92 467  503  Secondstriker  4★WF/Right

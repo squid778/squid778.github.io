@@ -1,5 +1,8 @@
+Carles_Puyol         101 CB   96  69  92  85 123 117 582  699  Defending      3★WF/Right
 van_Dijk             100 CB  100  80  96  95 122 116 609  698  Marking        3★WF/Right
 van_Dijk             100 CB  100  80  96  95 122 116 609  698  Marking        3★WF/Right
+Córdoba              100 CB  106  81  86  94 119 114 600  691  Marking        3★WF/Right
+Córdoba              100 CB  106  81  86  94 119 114 600  691  Marking        3★WF/Right
 Vidić                100 CB   92  67  86  88 121 116 570  687  Tackling       3★WF/Right
 Maldini               97 CB  102  69  94  88 125 104 582  685  Marking        4★WF/Right
 Marquinhos            99 CB  102  70  99  96 119 110 596  679  Defending      3★WF/Right
@@ -48,6 +51,7 @@ Gabriel               96 CB   92  55  83  78 105 102 515  611  Defending      2�
 Rúben_Dias            95 CB   83  48  78  85 107 103 504  610  Strength       4★WF/Right
 Marquinhos            94 CB   94  63  89  87 105 100 538  609  Marking        3★WF/Right
 Ndicka                95 CB   93  67  91  89 105 100 545  608  Defending      3★WF/Left
+Bednarek              95 CB   75  43  78  82 107 105 490  606  Strength       3★WF/Right
 Süle                  94 CB   80  57  78  65 105 101 486  597  Marking        3★WF/Right
 Matip                 94 CB   81  58  83  78 105 100 505  596  Marking        3★WF/Right
 Alaba                 93 CB   93  83  99  93 104  94 566  593  Defending      4★WF/Left
@@ -152,6 +156,7 @@ Bonucci               93 CB   70  63  78  76  94  93 474  538  Strength       4�
 Süle                  91 CB   73  50  70  59  96  88 436  537  Defending      3★WF/Right
 Keane                 91 CB   64  56  77  75  95  94 461  537  Tackling       3★WF/Right
 Friedrich             90 CB   74  49  70  67  95  89 444  537  Strength       3★WF/Right
+Kohler                89 CB   72  52  64  68  93  92 441  535  Marking        3★WF/Right
 Fernando_Hierro       89 CB   75  69  79  75  94  89 481  535  Defending      3★WF/Right
 Adarabioyo            89 CB   79  42  69  73  92  90 445  535  Marking        3★WF/Right
 Tarkowski             90 CB   64  51  76  72  94  94 451  534  Defending      4★WF/Right
@@ -163,6 +168,7 @@ Alaba                 89 CB   83  75  90  85  94  83 510  531  Strength       4�
 Syrota                89 CB   84  35  52  69  92  85 417  530  Tackling       2★WF/Left
 Thiago_Silva          92 CB   61  62  81  79  96  90 469  529  Marking        3★WF/Right
 Senesi                89 CB   69  47  74  79  93  90 452  528  Strength       3★WF/Left
+Struijk               89 CB   70  47  74  74  92  90 447  526  Strength       4★WF/Left
 Kilman                90 CB   71  57  76  76  91  91 462  526  Defending      4★WF/Left
 Andrei_Girotto        89 CB   67  76  78  80  93  90 484  526  Tackling       3★WF/Right
 Wieteska              89 CB   73  47  63  67  89  92 431  524  Strength       3★WF/Right

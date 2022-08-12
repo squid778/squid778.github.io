@@ -1,5 +1,8 @@
+Carles_Puyol         101 CB   96  69  92  85 123 117 582  699  Defending      3★WF/Right
 van_Dijk             100 CB  100  80  96  95 122 116 609  698  Marking        3★WF/Right
 van_Dijk             100 CB  100  80  96  95 122 116 609  698  Marking        3★WF/Right
+Córdoba              100 CB  106  81  86  94 119 114 600  691  Marking        3★WF/Right
+Córdoba              100 CB  106  81  86  94 119 114 600  691  Marking        3★WF/Right
 Vidić                100 CB   92  67  86  88 121 116 570  687  Tackling       3★WF/Right
 Maldini               97 CB  102  69  94  88 125 104 582  685  Marking        4★WF/Right
 Marquinhos            99 CB  102  70  99  96 119 110 596  679  Defending      3★WF/Right
@@ -56,6 +59,7 @@ Marquinhos            94 CB   94  63  89  87 105 100 538  609  Marking        3�
 Ndicka                95 CB   93  67  91  89 105 100 545  608  Defending      3★WF/Left
 Kanté                 95 CDM  86  76  87 104 106 101 560  606  Interceptions  3★WF/Right
 Fabinho               97 CDM  87  85 105 101 105 102 585  606  Vision         3★WF/Right
+Bednarek              95 CB   75  43  78  82 107 105 490  606  Strength       3★WF/Right
 Fernandinho           95 CDM  80  92  99  99 105 103 578  601  Holding        4★WF/Right
 Süle                  94 CB   80  57  78  65 105 101 486  597  Marking        3★WF/Right
 Laimer                95 CDM  99  86 101  99 102  96 583  597  Longpassing    3★WF/Right
@@ -74,6 +78,7 @@ Makélélé              94 CDM  90  60  92  94  99  99 534  585  Interceptions 
 Rijkaard              94 CDM  88  85  95  91 102  95 556  584  Interceptions  4★WF/Right
 Koulibaly             93 CB   90  36  62  70  99  98 455  583  Marking        3★WF/Right
 Smalling              95 CB   78  60  75  75 101 100 489  581  Marking        3★WF/Right
+Schweinsteiger        95 CDM  78  93 102  97 101 100 571  581  Longpassing    3★WF/Right
 Pepe                  93 CB   91  59  72  72  96 101 491  581  Defending      3★WF/Right
 Locatelli             98 CDM  84  96 108 101 102  95 586  580  Holding        4★WF/Right
 Højbjerg              97 CDM  85  89 103  96 100  97 570  579  Interceptions  4★WF/Right
@@ -105,6 +110,7 @@ Bremer                89 CB   80  50  69  81  98  97 475  568  Strength       3�
 Söyüncü               92 CB   87  57  73  79  96  96 488  567  Tackling       4★WF/Right
 Kim_Min_Jae           90 CB   93  49  76  82  94  96 490  567  Defending      3★WF/Right
 Sigali                90 CB   82  61  65  78  96  98 480  566  Defending      3★WF/Right
+Rúben_Neves           98 CDM  80  96 110 102  98  96 582  566  Holding        4★WF/Right
 Tierney               93 CB   96  72  87  90  95  92 532  565  Strength       3★WF/Left
 Mario_Hermoso         93 CB   86  59  84  83  97  94 503  565  Strength       3★WF/Left
 Fabinho               92 CDM  74  77  88  85  99  97 520  565  Holding        2★WF/Right
@@ -195,6 +201,7 @@ Friedrich             90 CB   74  49  70  67  95  89 444  537  Strength       3�
 Ferguson              89 CDM  85  84  87  86  90  91 523  537  Vision         4★WF/Right
 Milivojević           92 CDM  75  82  94  85  93  91 520  536  Holding        3★WF/Right
 Price                 90 CDM  72  72  99  92  91  95 521  535  Interceptions  3★WF/Right
+Kohler                89 CB   72  52  64  68  93  92 441  535  Marking        3★WF/Right
 Fernando_Hierro       89 CB   75  69  79  75  94  89 481  535  Defending      3★WF/Right
 Andrich               91 CDM  73  86  95  85  90  96 525  535  Holding        4★WF/Right
 Adarabioyo            89 CB   79  42  69  73  92  90 445  535  Marking        3★WF/Right
@@ -214,6 +221,7 @@ Senesi                89 CB   69  47  74  79  93  90 452  528  Strength       3�
 Höfler                89 CDM  76  60  83  82  90  91 482  528  Interceptions  3★WF/Right
 Rodríguez             89 CDM  68  66  81  75  93  90 473  527  Interceptions  4★WF/Right
 Dorsch                91 CDM  82  77  92  94  89  89 523  527  Vision         3★WF/Right
+Struijk               89 CB   70  47  74  74  92  90 447  526  Strength       4★WF/Left
 Kilman                90 CB   71  57  76  76  91  91 462  526  Defending      4★WF/Left
 Andrei_Girotto        89 CB   67  76  78  80  93  90 484  526  Tackling       3★WF/Right
 Wieteska              89 CB   73  47  63  67  89  92 431  524  Strength       3★WF/Right

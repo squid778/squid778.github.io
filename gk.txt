@@ -23,6 +23,7 @@ Martínez              94 GK   67  16  53  49  18  68 271  271  Handling       4
 De_Gea                93 GK   66  17  49  54  23  62 271  271  Number1        3★WF/Right
 Ederson               89 GK   63  23  53  48  19  63 269  269  Reflexes       3★WF/Left
 Sommer                98 GK   63  15  46  52  16  75 267  267  Reflexes       4★WF/Right
+Omlin                 91 GK   59  19  45  48  24  71 266  266  Number1        4★WF/Right
 Lloris                97 GK   72  14  48  51  21  59 265  265  Reflexes       3★WF/Left
 Lloris                97 GK   72  14  48  51  21  59 265  265  Reflexes       3★WF/Left
 Oblak                 99 GK   59  13  46  52  20  74 264  264  Handling       3★WF/Right
@@ -69,6 +70,7 @@ Vaclík                92 GK   47  15  40  44  21  71 238  238  Number1        3
 Ochoa                 90 GK   54  21  39  46  18  59 237  237  Handling       3★WF/Right
 Oblak                 92 GK   52  13  41  46  19  66 237  237  Number1        3★WF/Right
 Szczęsny              95 GK   56  13  37  46  16  68 236  236  Reflexes       3★WF/Right
+Hrádecký              96 GK   54  12  41  45  14  67 233  233  Handling       3★WF/Right
 Turner                90 GK   48  17  39  47  16  65 232  232  Number1        4★WF/Right
 ter_Stegen            90 GK   44  14  52  39  16  67 232  232  Handling       4★WF/Right
 Dahlin                89 GK   47  13  35  42  17  78 232  232  Reflexes       3★WF/Right

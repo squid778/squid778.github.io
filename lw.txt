@@ -1,10 +1,13 @@
 Ronaldinho            98 LW  118 114 111 118  47  93 601  697  Agility        4★WF/Right
 Vinícius_Jr.         100 LW  123 110 101 119  44  90 587  695  Ballcontrol    5★WF/Right
+Dempsey              100 LW  111 115 110 115  61 102 614  677  Agility        5★WF/Right
+Dempsey              100 LW  111 115 110 115  61 102 614  677  Agility        5★WF/Right
 Rafael_Leão           98 LW  115 107  98 111  42  96 569  657  Agility        5★WF/Right
 Vinícius_Jr.          98 LW  118 101  95 112  42  85 553  656  Agility        4★WF/Right
 Vinícius_Jr.          98 LW  118 101  95 112  42  85 553  656  Agility        4★WF/Right
 Saint-Maximin         97 LW  115 100  93 113  39  78 538  649  Agility        4★WF/Right
 Oyarzabal             98 LW  108 107 102 109  50  77 553  643  Speed          4★WF/Left
+Chiesa                98 LW  110 107  99 108  56  84 564  642  Agility        4★WF/Right
 Forsberg              99 LW   98 108 111 113  51  84 565  641  Ballcontrol    4★WF/Right
 Laudrup               99 LW  101 107 107 109  46  77 547  634  Speed          4★WF/Right
 Stoichkov             95 LW  106 108 101 106  56  95 572  633  Agility        4★WF/Left

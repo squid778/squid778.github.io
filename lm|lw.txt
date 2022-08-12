@@ -1,6 +1,8 @@
 Pirès                100 LM  116 114 117 119  61  85 612  701  Dribbling      4★WF/Right
 Ronaldinho            98 LW  118 114 111 118  47  93 601  697  Agility        4★WF/Right
 Vinícius_Jr.         100 LW  123 110 101 119  44  90 587  695  Ballcontrol    5★WF/Right
+Dempsey              100 LW  111 115 110 115  61 102 614  677  Agility        5★WF/Right
+Dempsey              100 LW  111 115 110 115  61 102 614  677  Agility        5★WF/Right
 Coman                 99 LM  115 102 100 114  45  76 552  660  Shortpassing   4★WF/Right
 Rafael_Leão           98 LW  115 107  98 111  42  96 569  657  Agility        5★WF/Right
 Vinícius_Jr.          98 LW  118 101  95 112  42  85 553  656  Agility        4★WF/Right
@@ -9,6 +11,7 @@ Son                   98 LM  111 113 103 108  55  80 570  654  Shortpassing   5�
 Saint-Maximin         97 LW  115 100  93 113  39  78 538  649  Agility        4★WF/Right
 Simon                 96 LM  114  98  98 111  55  89 565  646  Longshots      4★WF/Right
 Oyarzabal             98 LW  108 107 102 109  50  77 553  643  Speed          4★WF/Left
+Chiesa                98 LW  110 107  99 108  56  84 564  642  Agility        4★WF/Right
 Forsberg              99 LW   98 108 111 113  51  84 565  641  Ballcontrol    4★WF/Right
 Lemar                 97 LM  104 101 104 113  74  80 576  639  Longshots      4★WF/Left
 Juanmi                98 LM  104 107  99 112  50  78 550  638  Longshots      3★WF/Right
@@ -109,6 +112,7 @@ Bryan_Gil             89 LM   93  83  87  97  32  47 439  550  Counter        3�
 Sterling              91 LW   96  87  82  94  46  64 469  549  Agility        3★WF/Right
 Sisto                 90 LW   89  91  86  97  55  75 493  549  Agility        4★WF/Right
 Gosens                92 LM   94  88  86  92  86  90 536  546  Dribbling      3★WF/Left
+Ginola                89 LM   92  90  89  91  57  87 506  545  Dribbling      5★WF/Left
 Son                   92 LW   92  92  84  90  45  65 468  540  Agility        5★WF/Right
 Saka                  89 LM   94  79  86  93  69  67 488  539  Longshots      3★WF/Left
 Tadić                 89 LW   81  91  94  95  46  74 481  537  Ballcontrol    3★WF/Left

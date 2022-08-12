@@ -13,6 +13,7 @@ Casemiro              95 CDM  80  87  92  85 103 102 549  593  Holding        3�
 Tchouaméni            94 CDM  88  86  99 101  98 102 574  586  Longpassing    3★WF/Right
 Makélélé              94 CDM  90  60  92  94  99  99 534  585  Interceptions  3★WF/Right
 Rijkaard              94 CDM  88  85  95  91 102  95 556  584  Interceptions  4★WF/Right
+Schweinsteiger        95 CDM  78  93 102  97 101 100 571  581  Longpassing    3★WF/Right
 Locatelli             98 CDM  84  96 108 101 102  95 586  580  Holding        4★WF/Right
 Højbjerg              97 CDM  85  89 103  96 100  97 570  579  Interceptions  4★WF/Right
 Rodri                 93 CDM  80  82  96  92 102  95 547  576  Interceptions  4★WF/Right
@@ -21,6 +22,7 @@ Kimmich               96 CDM  85  88 106 102 100  94 575  573  Vision         4�
 Casemiro              93 CDM  76  80  86  79  99  99 519  571  Vision         3★WF/Right
 Can                   92 CDM  86  86  92  89  96  98 547  570  Holding        4★WF/Right
 Noble                 94 CDM  76  87 105  97  99  98 562  569  Interceptions  3★WF/Right
+Rúben_Neves           98 CDM  80  96 110 102  98  96 582  566  Holding        4★WF/Right
 Fabinho               92 CDM  74  77  88  85  99  97 520  565  Holding        2★WF/Right
 Brozović              94 CDM  83  88 104  99  99  91 564  562  Interceptions  4★WF/Right
 Zambo_Anguissa        91 CDM  90  77  89  95  91  97 539  557  Holding        3★WF/Right
