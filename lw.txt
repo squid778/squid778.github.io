@@ -1,5 +1,7 @@
 Ronaldinho            98 LW  118 114 111 118  47  93 601  697  Agility        4★WF/Right
 Vinícius_Jr.         100 LW  123 110 101 119  44  90 587  695  Ballcontrol    5★WF/Right
+Dempsey              100 LW  111 115 110 115  61 102 614  677  Agility        5★WF/Right
+Dempsey              100 LW  111 115 110 115  61 102 614  677  Agility        5★WF/Right
 Ribéry                98 LW  104 112 116 114  50  77 573  664  Ballcontrol    5★WF/Right
 Rashford             102 LW  113 112 101 110  59  99 594  659  Agility        4★WF/Right
 Rafael_Leão           98 LW  115 107  98 111  42  96 569  657  Agility        5★WF/Right

@@ -5,6 +5,8 @@ Vinícius_Jr.         100 LW  123 110 101 119  44  90 587  695  Ballcontrol    5
 Salah                100 RW  117 116 105 120  56  90 604  695  Speed          5★WF/Left
 Hazard               100 LM  115 112 113 120  56  82 598  695  Longshots      5★WF/Right
 Hazard               100 LM  115 112 113 120  56  82 598  695  Longshots      5★WF/Right
+Dempsey              100 LW  111 115 110 115  61 102 614  677  Agility        5★WF/Right
+Dempsey              100 LW  111 115 110 115  61 102 614  677  Agility        5★WF/Right
 Beckham               98 RM  107 115 119 114  87  94 636  676  Longshots      3★WF/Right
 Messi                 97 RW  109 113 111 114  42  71 560  670  Agility        4★WF/Left
 Berardi               98 RM  106 111 111 116  54  92 590  666  Longshots      4★WF/Left

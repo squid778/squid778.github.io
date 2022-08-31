@@ -23,6 +23,8 @@ De_Bruyne             98 CAM  97 110 113 111  75  85 591  639  Dribbling      5�
 De_Bruyne             98 CAM  97 110 113 111  75  85 591  639  Dribbling      5★WF/Right
 Lingard               98 CAM 101 110 103 111  76  88 589  637  Shortpassing   4★WF/Right
 Werner               101 ST  111 109  92 105  54  90 561  633  Shooting       5★WF/Right
+Gomez                100 ST  107 117  92 105  61 112 594  633  Finishing      5★WF/Right
+Gomez                100 ST  107 117  92 105  61 112 594  633  Finishing      5★WF/Right
 Griezmann             99 ST   99 109 106 109  71  95 589  631  Shooting       4★WF/Left
 Nkunku                98 CAM  98 105 107 111  83  84 588  630  Dribbling      4★WF/Right
 Nkunku                98 CAM  98 105 107 111  83  84 588  630  Dribbling      4★WF/Right

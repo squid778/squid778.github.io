@@ -2,6 +2,8 @@ Carles_Puyol         101 CB   96  69  92  85 123 117 582  699  Defending      3�
 van_Dijk             100 CB  100  80  96  95 122 116 609  698  Marking        3★WF/Right
 van_Dijk             100 CB  100  80  96  95 122 116 609  698  Marking        3★WF/Right
 Varane               100 CB  105  68  91  89 121 113 587  694  Defending      3★WF/Right
+Córdoba              100 CB  106  81  86  94 119 114 600  691  Marking        3★WF/Right
+Córdoba              100 CB  106  81  86  94 119 114 600  691  Marking        3★WF/Right
 Vidić                100 CB   92  67  86  88 121 116 570  687  Tackling       3★WF/Right
 Maldini               97 CB  102  69  94  88 125 104 582  685  Marking        4★WF/Right
 Marquinhos            99 CB  102  70  99  96 119 110 596  679  Defending      3★WF/Right

@@ -14,6 +14,8 @@ Suárez                98 ST  101 117 105 111  68 111 613  646  Finishing      5
 Ibrahimović          101 ST  100 120 109 107  59 114 609  643  Finishing      5★WF/Right
 Ben_Yedder            98 ST  106 110 100 110  56  93 575  642  Shooting       5★WF/Right
 Werner               101 ST  111 109  92 105  54  90 561  633  Shooting       5★WF/Right
+Gomez                100 ST  107 117  92 105  61 112 594  633  Finishing      5★WF/Right
+Gomez                100 ST  107 117  92 105  61 112 594  633  Finishing      5★WF/Right
 Griezmann             99 ST   99 109 106 109  71  95 589  631  Shooting       4★WF/Left
 Roberto_Firmino       96 ST  104  99 103 107  69  98 580  624  Shooting       4★WF/Right
 Mbappé                95 ST  109 108  88 105  46  83 539  624  Finishing      4★WF/Right
