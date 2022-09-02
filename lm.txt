@@ -7,6 +7,7 @@ Son                   98 LM  111 113 103 108  55  80 570  654  Shortpassing   5�
 Simon                 96 LM  114  98  98 111  55  89 565  646  Longshots      4★WF/Right
 Lemar                 97 LM  104 101 104 113  74  80 576  639  Longshots      4★WF/Left
 Juanmi                98 LM  104 107  99 112  50  78 550  638  Longshots      3★WF/Right
+Malen                 96 LM  111 101  96 109  45  90 552  637  Longshots      3★WF/Right
 Nedvěd                95 LM  105 103 105 106  64  88 571  630  Counter        5★WF/Right
 Terrier               98 LM  109 105  99 103  52  86 554  628  Longshots      3★WF/Right
 Rivaldo               99 LM   99 109 104 108  55  88 563  627  Counter        4★WF/Left

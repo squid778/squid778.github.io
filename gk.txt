@@ -39,6 +39,7 @@ José_Sá               94 GK   55  23  36  51  18  70 253  253  Reflexes       
 Benítez               94 GK   58  17  37  48  19  74 253  253  Number1        2★WF/Right
 Navas                 93 GK   57  16  43  51  19  66 252  252  Number1        3★WF/Right
 Fabiański             96 GK   61  15  38  48  15  75 252  252  Handling       3★WF/Right
+Rønnow                95 GK   64  13  41  45  15  73 251  251  Number1        2★WF/Right
 Dúbravka              93 GK   54  14  47  51  19  66 251  251  Number1        2★WF/Right
 Donnarumma            94 GK   58  16  40  52  19  65 250  250  Handling       3★WF/Right
 Pope                  95 GK   59  15  38  43  16  75 246  246  Reflexes       3★WF/Right

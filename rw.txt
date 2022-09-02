@@ -15,6 +15,7 @@ Kulusevski            95 RW  106 103  98 104  69  91 571  621  Ballcontrol    4�
 Dembélé               96 RW  110  99  94 104  44  71 522  621  Ballcontrol    5★WF/Left
 Correa                97 RW  103 105  95 107  58  86 554  620  Ballcontrol    4★WF/Right
 Zaniolo               97 RW  105 104  94 105  71  99 578  618  Agility        3★WF/Left
+Lukébakio             95 RW  107 104  91 104  45  85 536  617  Speed          3★WF/Left
 Yeremy_Pino           96 RW   99 100  98 106  46  64 513  608  Agility        4★WF/Right
 Sarr                  95 RW  113  99  85  99  33  76 505  608  Ballcontrol    3★WF/Right
 Di_María              94 RW   99 100 101 104  57  82 543  607  Speed          4★WF/Left

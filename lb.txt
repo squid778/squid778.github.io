@@ -26,6 +26,7 @@ Cole                  94 LB   96  75  93  96  96  82 538  548  Pace           3�
 Alex_Telles           95 LB   96  84  95  96  90  88 549  548  Reactions      3★WF/Left
 Robertson             97 LB   99  73  95 100  92  82 541  546  Balanced       3★WF/Left
 Sessegnon             92 LB   99  81  90 101  89  84 544  544  Balanced       3★WF/Left
+Plattenhardt          92 LB   90  75  94  95  93  89 536  544  Reactions      3★WF/Left
 Acuña                 94 LB   89  88 103 106  92  91 569  544  Reactions      3★WF/Left
 Walker-Peters         94 LB   96  56  87  98  90  83 510  538  Reactions      4★WF/Right
 João_Cancelo          93 LB   99  81 101 104  89  78 552  532  Pace           4★WF/Right

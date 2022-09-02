@@ -1,3 +1,4 @@
+Pelé                 105 CAM 121 127 125 128  72  96 669  750  Dribbling      5★WF/Right
 Cruyff               101 CAM 114 120 118 123  62  91 628  712  Dribbling      5★WF/Right
 Fernando_Torres       99 CF  116 117  98 116  63  99 609  679  Secondstriker  4★WF/Right
 Nkunku                99 CAM 106 113 116 116  86  88 625  673  Counter        5★WF/Right
@@ -6,6 +7,7 @@ Zidane                98 CAM 102 115 117 111  82  95 622  658  Shortpassing   5�
 Lucas_Paquetá         98 CAM 100 108 109 112  85 101 615  641  Dribbling      4★WF/Left
 De_Bruyne             98 CAM  97 110 113 111  75  85 591  639  Dribbling      5★WF/Right
 De_Bruyne             98 CAM  97 110 113 111  75  85 591  639  Dribbling      5★WF/Right
+Musiala               98 CAM 102 105  98 115  49  73 542  637  Counter        3★WF/Right
 Lingard               98 CAM 101 110 103 111  76  88 589  637  Shortpassing   4★WF/Right
 Nkunku                98 CAM  98 105 107 111  83  84 588  630  Dribbling      4★WF/Right
 Nkunku                98 CAM  98 105 107 111  83  84 588  630  Dribbling      4★WF/Right
@@ -22,8 +24,10 @@ Gerson                96 CAM  93  96 106 111  78  81 565  610  Longshots      3�
 Nakata                95 CAM  96 102 105 104  73  71 551  607  Counter        4★WF/Right
 David_Silva           99 CAM  86 103 110 110  63  72 544  605  Longshots      4★WF/Left
 Sócrates              95 CAM  94 107 105 102  56  88 552  604  Longshots      5★WF/Right
+Caprari               93 CF  104  95  93 104  34  64 494  604  Shooting       3★WF/Right
 Deco                  95 CAM  94  99 106 105  55  65 524  603  Dribbling      3★WF/Right
 Bergkamp              95 CF   97 106  97 103  45  84 532  603  Secondstriker  4★WF/Right
+Fulgini               95 CAM  95 100 100 105  83  90 573  600  Dribbling      4★WF/Right
 Boga                  94 CAM 103  96  92 103  49  76 519  600  Longshots      3★WF/Right
 Thomasson             96 CAM  90 102 104 106  80  91 573  598  Dribbling      4★WF/Right
 Dani_Olmo             96 CAM  85 104 104 110  62  70 535  598  Shortpassing   4★WF/Right

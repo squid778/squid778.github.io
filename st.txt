@@ -1,6 +1,7 @@
 Ronaldo              102 ST  119 123 110 120  73 108 653  711  Secondstriker  5★WF/Right
 Puskás               101 ST  112 124 114 116  68  94 628  694  Secondstriker  5★WF/Left
 Mbappé               100 ST  116 117 100 116  50  91 590  681  Secondstriker  5★WF/Right
+Klose                105 ST  112 125 101 110  68 112 628  670  Secondstriker  5★WF/Right
 Havertz               99 ST  110 113 111 112  71  92 609  668  Secondstriker  5★WF/Left
 Fernando_Torres       99 ST  116 120  92 112  63  99 602  668  Finishing      4★WF/Right
 Benzema              101 ST  105 119 107 113  59 104 607  662  Secondstriker  5★WF/Right
@@ -27,6 +28,7 @@ Mbappé                98 ST  108 107  87 104  45  83 534  618  Shooting       4
 Mbappé                98 ST  108 107  87 104  45  83 534  618  Shooting       4★WF/Right
 Eusébio               95 ST  104 109  97 102  53  84 549  618  Secondstriker  5★WF/Right
 Depay                 98 ST  100 107 103 104  48  97 559  618  Finishing      4★WF/Right
+Richarlison           99 ST  103 105  96 105  72 105 586  617  Finishing      5★WF/Right
 Antonio               96 ST  105 103  98 103  69 100 578  617  Finishing      3★WF/Right
 Benzema               98 ST   96 111 101 105  54  98 565  614  Finishing      4★WF/Right
 Larsson               98 ST  103 108  95 100  61  90 557  609  Finishing      4★WF/Right
@@ -36,6 +38,7 @@ Aubameyang            97 ST  107 105  91  99  50  84 536  608  Shooting       4�
 Adeyemi               94 ST  113  98  86  99  43  83 522  608  Targetman      3★WF/Left
 Lewandowski           96 ST   95 114  88 107  53 107 564  606  Secondstriker  4★WF/Right
 Trezeguet             98 ST  101 107  90 103  62  89 552  605  Targetman      4★WF/Right
+Thuram                97 ST  103 105  94 100  67  95 564  605  Finishing      3★WF/Right
 Werner                97 ST  106 105  87 100  50  85 533  604  Secondstriker  4★WF/Right
 Podolski              96 ST   92 113 105 100  60 103 573  602  Targetman      4★WF/Left
 Lukaku               101 ST  103 111  95  95  58 107 569  602  Secondstriker  4★WF/Left
@@ -75,6 +78,7 @@ Lewandowski           95 ST   90 107  85 102  50 101 535  576  Finishing      4�
 Kalajdžić             97 ST   85 104  96 103  67  90 545  576  Shooting       3★WF/Right
 Yılmaz                97 ST   96 108  89  93  52 101 539  575  Targetman      4★WF/Right
 Šuker                 94 ST   95 102  89  97  51  84 518  575  Secondstriker  4★WF/Left
+Haller                99 ST   88 109  90 100  75 109 571  575  Secondstriker  4★WF/Right
 Gerard_Moreno         95 ST   90 103  91 100  57  83 524  574  Shooting       4★WF/Left
 Dalglish              94 ST   95 101  86  98  50  77 507  573  Shooting       5★WF/Right
 Borré                 94 ST   97  98  89  96  56  94 530  573  Shooting       3★WF/Right
@@ -100,8 +104,10 @@ Abraham               97 ST   98 100  81  89  47  87 502  555  Secondstriker  3�
 Toney                 93 ST   98  97  76  92  60  99 522  553  Finishing      4★WF/Right
 C._Ronaldo            92 ST   93  98  81  94  38  79 483  553  Targetman      4★WF/Right
 Dolberg               94 ST   88 100  85  95  42  78 488  551  Secondstriker  4★WF/Right
+Bülter                92 ST   95  95  84  91  59  83 507  551  Targetman      3★WF/Right
 Nkunku                92 ST   90  88  92  95  77  71 513  550  Finishing      3★WF/Right
 Benzema               93 ST   83 101  87  98  46  82 497  550  Targetman      4★WF/Right
+Onisiwo               92 ST   95  93  84  91  66  93 522  549  Shooting       3★WF/Right
 Arnautović            93 ST   91  96  91  90  55  94 517  549  Targetman      4★WF/Right
 Richarlison           92 ST   93  91  83  92  62  92 513  544  Shooting       5★WF/Right
 Drogba                92 ST   93 102  82  87  55  95 514  544  Shooting       4★WF/Right
