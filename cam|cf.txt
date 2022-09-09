@@ -21,6 +21,7 @@ Götze                 98 CAM  91 105 109 109  71  84 569  614  Dribbling      4
 Dybala                97 CF   95 106 103 107  50  72 533  613  Secondstriker  3★WF/Left
 Berghuis              97 CAM  95 107 104 105  48  77 536  611  Dribbling      3★WF/Left
 Gerson                96 CAM  93  96 106 111  78  81 565  610  Longshots      3★WF/Left
+Blas                  95 CAM  96 103 100 107  72  82 560  609  Dribbling      3★WF/Left
 Nakata                95 CAM  96 102 105 104  73  71 551  607  Counter        4★WF/Right
 David_Silva           99 CAM  86 103 110 110  63  72 544  605  Longshots      4★WF/Left
 Sócrates              95 CAM  94 107 105 102  56  88 552  604  Longshots      5★WF/Right
@@ -52,6 +53,7 @@ Carles_Gil            93 CAM  88  99 101 103  47  72 510  582  Counter        4�
 Jonathan_Viera        93 CAM  96  95  94 100  72  77 534  581  Counter        4★WF/Right
 Fekir                 92 CAM  95  95  94 100  43  85 512  579  Counter        4★WF/Left
 Gómez                 92 CAM  95  92  95 100  45  63 490  577  Counter        4★WF/Right
+Carvalho              93 CAM  97  95  91  98  47  62 490  576  Counter        4★WF/Right
 Dybala                93 CAM  91  96  95 100  46  66 494  573  Dribbling      3★WF/Left
 Draxler               95 CAM  88  97  98 101  66  79 529  573  Dribbling      5★WF/Right
 Barák                 95 CAM  85 103 100 100  76  82 546  573  Counter        3★WF/Left

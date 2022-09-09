@@ -1,3 +1,4 @@
+Petit                105 CDM 101 105 118 112 126 119 681  717  Holding        4★WF/Left
 Guardiola            100 CDM 100  88 118 108 119 104 637  665  Interceptions  3★WF/Right
 Kanté                 96 CDM  91  79  93 109 114 108 594  649  Holding        3★WF/Right
 Tchouaméni            98 CDM  98  93 108 110 108 111 628  644  Holding        3★WF/Right
@@ -8,6 +9,7 @@ Matthäus              98 CDM  99  96 103  93 108  98 597  619  Holding        4
 Kohr                  95 CDM  99  82  93  96 102 104 576  613  Holding        3★WF/Right
 Keane                 97 CDM  90  90 104  97 105 104 590  613  Holding        3★WF/Right
 Phillips              99 CDM  87  85 105 100 104 106 587  611  Interceptions  3★WF/Right
+Camara                98 CDM 106  81  99 108 100 102 596  610  Holding        3★WF/Right
 Kanté                 95 CDM  86  76  87 104 106 101 560  606  Interceptions  3★WF/Right
 Fabinho               97 CDM  87  85 105 101 105 102 585  606  Vision         3★WF/Right
 Fernandinho           95 CDM  80  92  99  99 105 103 578  601  Holding        4★WF/Right
@@ -28,6 +30,7 @@ Casemiro              93 CDM  76  80  86  79  99  99 519  571  Vision         3�
 Can                   92 CDM  86  86  92  89  96  98 547  570  Holding        4★WF/Right
 Noble                 94 CDM  76  87 105  97  99  98 562  569  Interceptions  3★WF/Right
 Rúben_Neves           98 CDM  80  96 110 102  98  96 582  566  Holding        4★WF/Right
+Rongier               95 CDM  90  87 103 102  96  94 572  566  Interceptions  4★WF/Right
 Fabinho               92 CDM  74  77  88  85  99  97 520  565  Holding        2★WF/Right
 Brozović              94 CDM  83  88 104  99  99  91 564  562  Interceptions  4★WF/Right
 Ndidi                 93 CDM  75  72  81  85  97  94 504  554  Vision         4★WF/Right

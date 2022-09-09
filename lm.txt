@@ -1,6 +1,7 @@
 Pirès                100 LM  116 114 117 119  61  85 612  701  Dribbling      4★WF/Right
 Hazard               100 LM  115 112 113 120  56  82 598  695  Longshots      5★WF/Right
 Hazard               100 LM  115 112 113 120  56  82 598  695  Longshots      5★WF/Right
+Kostić               101 LM  116 108 109 114  86  99 632  677  Dribbling      4★WF/Left
 Coman                 99 LM  115 102 100 114  45  76 552  660  Shortpassing   4★WF/Right
 Gonçalo_Guedes       100 LM  111 107 102 112  55  87 574  655  Dribbling      4★WF/Right
 Son                   98 LM  111 113 103 108  55  80 570  654  Shortpassing   5★WF/Right
@@ -31,5 +32,6 @@ Rashford              92 LM  100  95  89  96  51  83 514  576  Longshots      3�
 Son                   93 LM   99  98  89  94  49  68 497  573  Longshots      5★WF/Right
 Renan_Lodi            93 LM   98  85  93  99  87  86 548  572  Dribbling      3★WF/Left
 Hazard                93 LM   93  90  94 101  60  72 510  572  Longshots      4★WF/Right
+Aouchiche             92 LM   92  91  96  98  67  74 518  567  Shortpassing   3★WF/Right
 Perišić               92 LM   95  94  91  95  73  86 534  565  Longshots      5★WF/Left
 Gosens                92 LM   94  88  86  92  86  90 536  546  Dribbling      3★WF/Left

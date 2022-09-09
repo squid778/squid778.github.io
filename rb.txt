@@ -1,6 +1,7 @@
 Pavard               102 RB   95  80 106 108 106 103 598  608  Pace           3★WF/Right
 Nélson_Semedo         95 RB  104  82  97 114 100 100 597  608  Pace           4★WF/Right
 Lahm                 100 RB  103  91 117 118 112  89 630  608  Pace           3★WF/Right
+Mukiele               99 RB   98  70  94 101 102 103 568  606  Reactions      3★WF/Right
 Alexander-Arnold      99 RB  107  91 117 115 105  91 626  606  Balanced       4★WF/Right
 Meunier               96 RB   95  96 100 102  99 103 595  594  Reactions      4★WF/Right
 Hakimi                94 RB  110  85  98 107  93  91 584  588  Balanced       4★WF/Right

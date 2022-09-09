@@ -10,12 +10,14 @@ Neuer                 97 GK   64  17  58  55  19  73 286  286  Reflexes       4�
 Donnarumma           101 GK   66  16  47  59  20  75 283  283  Number1        3★WF/Right
 Schmeichel            98 GK   63  18  52  57  17  72 279  279  Reflexes       3★WF/Right
 Čech                  99 GK   62  10  49  56  25  76 278  278  Number1        3★WF/Left
+Pau_López             98 GK   64  19  53  49  19  73 277  277  Number1        3★WF/Left
 Buffon                99 GK   51  19  48  60  18  80 276  276  Reflexes       3★WF/Right
 Ortega                92 GK   61  15  50  52  22  74 274  274  Number1        4★WF/Right
 Navas                 97 GK   63  16  47  55  20  73 274  274  Handling       3★WF/Right
 van_der_Sar           98 GK   60  13  57  56  14  73 273  273  Reflexes       3★WF/Right
 Maignan               93 GK   58  16  52  53  21  72 272  272  Number1        4★WF/Right
 Lopes                 92 GK   71  16  38  52  18  77 272  272  Reflexes       2★WF/Left
+Benítez               98 GK   63  17  41  51  20  80 272  272  Reflexes       2★WF/Right
 Rui_Patrício          94 GK   64  18  43  52  16  78 271  271  Number1        3★WF/Left
 Martínez              94 GK   67  16  53  49  18  68 271  271  Handling       4★WF/Right
 De_Gea                93 GK   66  17  49  54  23  62 271  271  Number1        3★WF/Right
@@ -51,6 +53,7 @@ Oblak                 93 GK   54  13  43  48  19  67 244  244  Reflexes       3�
 Meslier               94 GK   49  16  48  50  20  60 243  243  Handling       2★WF/Left
 ter_Stegen            93 GK   45  14  54  42  17  70 242  242  Reflexes       4★WF/Right
 Sels                  93 GK   46  21  42  47  16  70 242  242  Reflexes       2★WF/Right
+Léo_Jardim            93 GK   55  16  41  47  18  65 242  242  Handling       3★WF/Right
 David_Soria           93 GK   50  24  35  46  19  68 242  242  Reflexes       3★WF/Right
 Trapp                 95 GK   59  14  32  44  16  74 239  239  Handling       4★WF/Right
 Vaclík                92 GK   47  15  40  44  21  71 238  238  Number1        3★WF/Right

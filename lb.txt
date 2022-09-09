@@ -1,6 +1,7 @@
 Zambrotta            100 LB  110  93 112 113 112 108 648  660  Balanced       5★WF/Right
 Roberto_Carlos       103 LB  110 102 114 114 105 105 650  640  Reactions      4★WF/Left
 Hernández             99 LB  116  94 105 117 100 101 633  634  Reactions      3★WF/Left
+Tagliafico            98 LB  100  77  98 106 100 101 582  602  Reactions      3★WF/Left
 Hernández             96 LB  109  87  96 109  95  95 591  598  Pace           3★WF/Left
 Gayà                  96 LB  105  84 105 113 103  91 601  598  Balanced       4★WF/Left
 Tsimikas              95 LB  106  80  96 104  92  95 573  586  Pace           3★WF/Left
@@ -25,6 +26,7 @@ Guerreiro             98 LB   94  95 109 115  95  85 593  548  Pace           3�
 Cole                  94 LB   96  75  93  96  96  82 538  548  Pace           3★WF/Left
 Alex_Telles           95 LB   96  84  95  96  90  88 549  548  Reactions      3★WF/Left
 Robertson             97 LB   99  73  95 100  92  82 541  546  Balanced       3★WF/Left
+Bard                  92 LB   96  68  90  97  89  88 528  546  Pace           3★WF/Left
 Sessegnon             92 LB   99  81  90 101  89  84 544  544  Balanced       3★WF/Left
 Plattenhardt          92 LB   90  75  94  95  93  89 536  544  Reactions      3★WF/Left
 Acuña                 94 LB   89  88 103 106  92  91 569  544  Reactions      3★WF/Left
