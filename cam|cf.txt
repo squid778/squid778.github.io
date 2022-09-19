@@ -1,5 +1,7 @@
 Pelé                 105 CAM 121 127 125 128  72  96 669  750  Dribbling      5★WF/Right
 Cruyff               101 CAM 114 120 118 123  62  91 628  712  Dribbling      5★WF/Right
+Kaká                 101 CAM 114 116 118 120  59  88 615  702  Dribbling      4★WF/Right
+Reyna                101 CAM 108 112 114 120  63 100 617  682  Dribbling      4★WF/Right
 Fernando_Torres       99 CF  116 117  98 116  63  99 609  679  Secondstriker  4★WF/Right
 Nkunku                99 CAM 106 113 116 116  86  88 625  673  Counter        5★WF/Right
 Zidane                98 CAM 102 115 117 111  82  95 622  658  Shortpassing   5★WF/Right
@@ -9,14 +11,17 @@ De_Bruyne             98 CAM  97 110 113 111  75  85 591  639  Dribbling      5�
 De_Bruyne             98 CAM  97 110 113 111  75  85 591  639  Dribbling      5★WF/Right
 Musiala               98 CAM 102 105  98 115  49  73 542  637  Counter        3★WF/Right
 Lingard               98 CAM 101 110 103 111  76  88 589  637  Shortpassing   4★WF/Right
+Isco                  98 CAM  96 111 107 113  77  83 587  636  Dribbling      4★WF/Right
 Nkunku                98 CAM  98 105 107 111  83  84 588  630  Dribbling      4★WF/Right
 Nkunku                98 CAM  98 105 107 111  83  84 588  630  Dribbling      4★WF/Right
 Rooney                98 CAM 102 111 100 107  61  98 579  629  Shortpassing   4★WF/Right
 Cantona               99 CF   98 110 108 107  67 106 596  628  Finishing      4★WF/Right
 Brandt                98 CAM  95 107 109 111  66  82 570  628  Dribbling      4★WF/Right
+Kamada                99 CAM  95 104 108 111  61  81 560  624  Longshots      4★WF/Right
 Fekir                 97 CAM 101 104 102 107  48  91 553  622  Dribbling      4★WF/Left
 Ronaldinho            95 CAM 102 101 100 105  44  88 540  615  Dribbling      4★WF/Right
 Rodrigo               95 CAM 105 104  95 103  58  88 553  615  Longshots      3★WF/Left
+Aaronson              96 CAM  97 104  97 110  72  81 561  615  Shortpassing   3★WF/Right
 Götze                 98 CAM  91 105 109 109  71  84 569  614  Dribbling      4★WF/Right
 Dybala                97 CF   95 106 103 107  50  72 533  613  Secondstriker  3★WF/Left
 Berghuis              97 CAM  95 107 104 105  48  77 536  611  Dribbling      3★WF/Left
@@ -30,12 +35,15 @@ Deco                  95 CAM  94  99 106 105  55  65 524  603  Dribbling      3�
 Bergkamp              95 CF   97 106  97 103  45  84 532  603  Secondstriker  4★WF/Right
 Fulgini               95 CAM  95 100 100 105  83  90 573  600  Dribbling      4★WF/Right
 Boga                  94 CAM 103  96  92 103  49  76 519  600  Longshots      3★WF/Right
+Driussi               95 CAM  98 104  97 101  46  84 530  599  Longshots      3★WF/Right
 Thomasson             96 CAM  90 102 104 106  80  91 573  598  Dribbling      4★WF/Right
 Dani_Olmo             96 CAM  85 104 104 110  62  70 535  598  Shortpassing   4★WF/Right
 Lucas_Paquetá         95 CAM  91 100 103 106  79  91 570  597  Counter        3★WF/Left
 João_Félix            94 CF   98  99  94 104  53  83 531  597  Secondstriker  4★WF/Right
+Cesinha               95 CAM  96 106  97 101  49  85 534  597  Counter        5★WF/Right
 Litmanen              95 CAM  95 107  98 100  45  67 512  595  Shortpassing   4★WF/Right
 Kaká                  94 CAM  95  98 101 103  50  70 517  595  Counter        4★WF/Right
+Özil                  95 CAM  87 102 108 104  44  74 519  592  Counter        3★WF/Left
 Wirtz                 94 CAM  92  94 102 105  62  70 525  590  Counter        4★WF/Right
 Raspadori             95 CAM  98 101  87 103  40  69 498  590  Shortpassing   5★WF/Right
 Luis_Alberto          98 CAM  82 103 111 106  70  70 542  590  Longshots      3★WF/Right
@@ -52,6 +60,7 @@ Ramsey                95 CAM  85 100 104 104  80  84 557  582  Counter        3�
 Carles_Gil            93 CAM  88  99 101 103  47  72 510  582  Counter        4★WF/Left
 Jonathan_Viera        93 CAM  96  95  94 100  72  77 534  581  Counter        4★WF/Right
 Fekir                 92 CAM  95  95  94 100  43  85 512  579  Counter        4★WF/Left
+Raúl_García           95 CAM  82 108 103 101  83 103 580  577  Longshots      3★WF/Right
 Gómez                 92 CAM  95  92  95 100  45  63 490  577  Counter        4★WF/Right
 Carvalho              93 CAM  97  95  91  98  47  62 490  576  Counter        4★WF/Right
 Dybala                93 CAM  91  96  95 100  46  66 494  573  Dribbling      3★WF/Left
@@ -60,6 +69,7 @@ Barák                 95 CAM  85 103 100 100  76  82 546  573  Counter        3
 Bernardo_Silva        93 CAM  89  91  94 103  58  67 502  569  Counter        3★WF/Left
 Stindl                96 CF   77 106 103 102  74  91 553  567  Shooting       4★WF/Right
 Del_Piero             92 CF   90  98  93  96  46  67 490  563  Secondstriker  5★WF/Right
+Besara                94 CAM  90  98  93  96  52  75 504  563  Counter        3★WF/Right
 Maddison              92 CAM  86  94  98  99  58  67 502  562  Longshots      4★WF/Right
 Mihailovic            94 CAM  87  95  96  98  69  76 521  561  Shortpassing   5★WF/Right
 Mantalos              92 CAM  89  93  94  98  62  73 509  561  Shortpassing   4★WF/Right

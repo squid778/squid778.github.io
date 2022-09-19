@@ -1,7 +1,10 @@
 Zambrotta            100 LB  110  93 112 113 112 108 648  660  Balanced       5★WF/Right
+Davies               101 LB  121  95 109 120 104 104 653  658  Reactions      5★WF/Left
 Roberto_Carlos       103 LB  110 102 114 114 105 105 650  640  Reactions      4★WF/Left
 Hernández             99 LB  116  94 105 117 100 101 633  634  Reactions      3★WF/Left
+Mendy                 98 LB  107  81  99 107  99 102 595  616  Balanced       5★WF/Left
 Tagliafico            98 LB  100  77  98 106 100 101 582  602  Reactions      3★WF/Left
+Zinchenko            100 LB  100  95 112 116 104  96 623  600  Pace           4★WF/Left
 Hernández             96 LB  109  87  96 109  95  95 591  598  Pace           3★WF/Left
 Gayà                  96 LB  105  84 105 113 103  91 601  598  Balanced       4★WF/Left
 Tsimikas              95 LB  106  80  96 104  92  95 573  586  Pace           3★WF/Left
@@ -29,11 +32,14 @@ Robertson             97 LB   99  73  95 100  92  82 541  546  Balanced       3�
 Bard                  92 LB   96  68  90  97  89  88 528  546  Pace           3★WF/Left
 Sessegnon             92 LB   99  81  90 101  89  84 544  544  Balanced       3★WF/Left
 Plattenhardt          92 LB   90  75  94  95  93  89 536  544  Reactions      3★WF/Left
+Otieno                92 LB  105  72  84  93  85  82 521  544  Balanced       4★WF/Left
 Acuña                 94 LB   89  88 103 106  92  91 569  544  Reactions      3★WF/Left
 Walker-Peters         94 LB   96  56  87  98  90  83 510  538  Reactions      4★WF/Right
 João_Cancelo          93 LB   99  81 101 104  89  78 552  532  Pace           4★WF/Right
 Alex_Sandro           93 LB   90  75  89  94  88  88 524  532  Balanced       3★WF/Left
+Haugen                93 LB   96  78  87  95  86  83 525  530  Reactions      3★WF/Left
 Digne                 92 LB   88  79  92  93  90  87 529  530  Reactions      2★WF/Left
+Dyhr                  93 LB   97  76  84  95  86  79 517  524  Pace           3★WF/Left
 Álex_Moreno           93 LB  102  75  89  99  86  71 522  518  Reactions      3★WF/Left
 Acuña                 92 LB   85  84  95 100  87  86 537  516  Pace           3★WF/Left
 Jordi_Alba            92 LB   96  77  91  99  84  77 524  514  Pace           3★WF/Left
