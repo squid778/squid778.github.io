@@ -9,6 +9,7 @@ Kostić               101 LM  116 108 109 114  86  99 632  677  Dribbling      4
 Dempsey              100 LW  111 115 110 115  61 102 614  677  Agility        5★WF/Right
 Dempsey              100 LW  111 115 110 115  61 102 614  677  Agility        5★WF/Right
 Ansu_Fati             99 LM  119 105 100 115  49  80 568  673  Counter        4★WF/Right
+Rebić                102 LM  113 112 105 114  67 102 613  671  Longshots      5★WF/Right
 Insigne               99 LM  110 106 109 115  56  70 566  665  Longshots      4★WF/Right
 Insigne               99 LM  110 106 109 115  56  70 566  665  Longshots      4★WF/Right
 Bamba                102 LW  115 109 102 112  54  90 582  665  Speed          4★WF/Right
@@ -25,6 +26,7 @@ Plea                 102 LW  102 115 106 114  55  97 589  653  Agility        4�
 Saint-Maximin         97 LW  115 100  93 113  39  78 538  649  Agility        4★WF/Right
 Simon                 96 LM  114  98  98 111  55  89 565  646  Longshots      4★WF/Right
 Stoichkov             97 LM  107 108 103 110  59  97 584  645  Longshots      4★WF/Left
+El_Shaarawy           98 LW  111 107  98 109  59  83 567  645  Speed          4★WF/Right
 Perišić               99 LM  107 107 103 110  81 100 608  644  Shortpassing   5★WF/Left
 Cucurella             98 LM  107 100 106 112  91  95 611  644  Dribbling      4★WF/Left
 Oyarzabal             98 LW  108 107 102 109  50  77 553  643  Speed          4★WF/Left
@@ -40,6 +42,7 @@ Nedvěd                95 LM  105 103 105 106  64  88 571  630  Counter        5
 Terrier               98 LM  109 105  99 103  52  86 554  628  Longshots      3★WF/Right
 Neymar_Jr             96 LW  106 100 100 108  47  71 532  628  Agility        5★WF/Right
 Rivaldo               99 LM   99 109 104 108  55  88 563  627  Counter        4★WF/Left
+Lanzini              100 LW   97 106 103 111  44  70 531  625  Speed          4★WF/Right
 Díaz                  96 LW  111 104  89 105  42  87 538  625  Speed          4★WF/Right
 Díaz                  96 LW  111 104  89 105  42  87 538  625  Speed          4★WF/Right
 Rafael_Leão           96 LW  110 100  90 105  40  90 535  620  Ballcontrol    4★WF/Right

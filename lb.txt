@@ -7,6 +7,7 @@ Tagliafico            98 LB  100  77  98 106 100 101 582  602  Reactions      3�
 Zinchenko            100 LB  100  95 112 116 104  96 623  600  Pace           4★WF/Left
 Hernández             96 LB  109  87  96 109  95  95 591  598  Pace           3★WF/Left
 Gayà                  96 LB  105  84 105 113 103  91 601  598  Balanced       4★WF/Left
+Renan_Lodi            97 LB  103  87 102 111  98  96 597  594  Pace           3★WF/Left
 Tsimikas              95 LB  106  80  96 104  92  95 573  586  Pace           3★WF/Left
 João_Cancelo          98 LB  107  89 112 116  99  87 610  586  Pace           4★WF/Right
 Davies                94 LB  110  82  90 106  92  91 571  586  Balanced       4★WF/Left
@@ -14,8 +15,10 @@ Günter                96 LB  102  76  94 101  95  95 563  584  Reactions      3
 Jordi_Alba            99 LB  104  88 105 112  97  90 596  582  Reactions      3★WF/Left
 Marcelo               95 LB   99  96 108 111  95  92 601  572  Pace           4★WF/Left
 Zinchenko             97 LB   95  90 107 109  99  91 591  570  Balanced       3★WF/Left
+Dimarco               97 LB   99  86 106 110 100  86 587  570  Balanced       3★WF/Left
 Sanusi                92 LB  108  54  74  94  87  88 505  566  Pace           2★WF/Left
 Marušić               94 LB  100  81  83  95  90  92 541  564  Balanced       4★WF/Right
+De_Sciglio            97 LB   92  73 100 103  99  90 557  562  Balanced       4★WF/Right
 Hernández             92 LB  102  81  88  99  87  91 548  560  Balanced       3★WF/Left
 Pedraza               94 LB   96  90  93 100  91  90 560  554  Reactions      4★WF/Left
 Nuno_Mendes           93 LB  101  76  87 102  91  85 542  554  Balanced       4★WF/Left

@@ -4,6 +4,7 @@ Hazard               100 LM  115 112 113 120  56  82 598  695  Longshots      5�
 Hazard               100 LM  115 112 113 120  56  82 598  695  Longshots      5★WF/Right
 Kostić               101 LM  116 108 109 114  86  99 632  677  Dribbling      4★WF/Left
 Ansu_Fati             99 LM  119 105 100 115  49  80 568  673  Counter        4★WF/Right
+Rebić                102 LM  113 112 105 114  67 102 613  671  Longshots      5★WF/Right
 Insigne               99 LM  110 106 109 115  56  70 566  665  Longshots      4★WF/Right
 Insigne               99 LM  110 106 109 115  56  70 566  665  Longshots      4★WF/Right
 Coman                 99 LM  115 102 100 114  45  76 552  660  Shortpassing   4★WF/Right

@@ -11,6 +11,7 @@ Marquinhos            99 CB  102  70  99  96 119 110 596  679  Defending      3�
 Moore                101 CB   96  86 111 104 120 110 627  676  Defending      3★WF/Right
 Rúben_Dias            98 CB   91  54  87  91 120 111 554  673  Tackling       4★WF/Right
 Koulibaly             98 CB  101  49  75  84 115 113 537  672  Defending      3★WF/Right
+Akanji               100 CB  104  70  96 100 116 110 596  672  Marking        4★WF/Right
 Schlotterbeck        100 CB  100  59  82  89 117 110 557  671  Defending      3★WF/Left
 de_Vrij               98 CB   96  60  90  92 119 109 566  671  Tackling       3★WF/Right
 Sergio_Ramos         102 CB   99  95 102 100 116 111 623  669  Tackling       4★WF/Right
@@ -31,6 +32,8 @@ Mavropanos            95 CB   99  53  75  78 108 109 522  641  Defending      3�
 Martínez              97 CB   94  81 100 101 110 108 594  640  Marking        3★WF/Left
 Marquinhos            95 CB   97  65  92  90 111 105 560  640  Tackling       3★WF/Right
 Aké                   97 CB   99  74  95  96 111 104 579  640  Tackling       3★WF/Left
+Romagnoli             98 CB   89  60  80  88 113 105 535  638  Strength       3★WF/Left
+Acerbi                99 CB   86  70  89  81 114 105 545  638  Marking        3★WF/Left
 Konaté                97 CB   97  59  85  91 110 105 547  637  Strength       3★WF/Right
 Kimpembe              99 CB   98  60  89  89 108 107 551  636  Marking        3★WF/Left
 Kimpembe              99 CB   98  60  89  89 108 107 551  636  Marking        3★WF/Left
@@ -45,6 +48,7 @@ Thiago_Silva          98 CB   82  78  91  85 111 107 554  629  Defending      3�
 Tah                   98 CB   88  48  80  79 109 107 511  629  Marking        4★WF/Right
 Campbell              95 CB   95  54  73  71 108 105 506  629  Marking        3★WF/Right
 Bremer                98 CB   88  56  78  89 109 107 527  629  Marking        3★WF/Right
+Sakho                100 CB   80  55  90  80 108 112 525  628  Defending      2★WF/Left
 Ginter                99 CB   82  76  95  86 112 105 556  628  Tackling       3★WF/Right
 Botman                97 CB   85  62  86  86 109 108 536  628  Strength       3★WF/Left
 Chiellini             99 CB   83  59  88  82 110 107 529  627  Strength       3★WF/Left
@@ -60,6 +64,7 @@ Ito                   99 CB   92  75  88  86 110 100 551  622  Tackling       3�
 Akanji                97 CB   99  65  89  93 107 101 554  622  Defending      4★WF/Right
 Piqué                 99 CB   80  82  95  88 111 104 560  621  Defending      3★WF/Right
 Djimsiti              95 CB   92  63  86  79 109 101 530  621  Marking        3★WF/Right
+Milenković            95 CB   90  63  85  84 106 106 534  620  Defending      3★WF/Right
 Laporte               98 CB   83  62  87  81 109 105 527  620  Defending      3★WF/Left
 Kehrer                95 CB   91  66  89  91 106 105 548  619  Marking        5★WF/Right
 Hernández             96 CB   93  69  85  89 107 102 545  618  Marking        3★WF/Left
@@ -88,6 +93,7 @@ Alaba                 93 CB   93  83  99  93 104  94 566  593  Defending      4�
 Ferdinand             94 CB   91  56  76  75 103  96 497  592  Tackling       3★WF/Right
 Tomori                95 CB   96  49  72  83 100  97 497  590  Strength       4★WF/Right
 Manolas               93 CB   92  34  56  76 100  99 457  590  Marking        2★WF/Right
+Medel                 93 CB   81  66  83  92 100 104 526  589  Defending      4★WF/Right
 Škriniar              93 CB   89  47  62  75 101  98 472  588  Marking        3★WF/Right
 Coady                 94 CB   77  71  93  82 104  99 526  587  Tackling       3★WF/Right
 Demiral               94 CB   88  53  65  78 100  99 483  586  Defending      3★WF/Right
@@ -98,6 +104,7 @@ Pepe                  93 CB   91  59  72  72  96 101 491  581  Defending      3�
 Tiago_Djaló           92 CB   99  57  78  82  96  95 507  577  Marking        3★WF/Right
 Pallois               92 CB   76  64  77  74  97 105 493  577  Defending      3★WF/Left
 Chiellini             93 CB   77  53  69  68 100 100 467  577  Tackling       3★WF/Left
+Rodríguez             92 CB   89  84  94  93  98  96 554  575  Tackling       3★WF/Left
 Lucas_Veríssimo       93 CB   94  49  72  72  97  95 479  575  Tackling       2★WF/Right
 Cabrera               92 CB   79  58  75  76  98 101 487  575  Marking        3★WF/Left
 Richards              94 CB   91  45  77  78  97  96 484  574  Tackling       4★WF/Right
