@@ -47,6 +47,7 @@ Nkunku                98 CAM  98 105 107 111  83  84 588  630  Dribbling      4�
 Rooney                98 CAM 102 111 100 107  61  98 579  629  Shortpassing   4★WF/Right
 Cantona               99 CF   98 110 108 107  67 106 596  628  Finishing      4★WF/Right
 Brandt                98 CAM  95 107 109 111  66  82 570  628  Dribbling      4★WF/Right
+Dest                 100 RB  108  83 100 111 101 101 604  627  Pace           4★WF/Right
 Lacazette            100 ST   98 111 101 109  66 101 586  626  Secondstriker  5★WF/Right
 Roberto_Firmino       96 ST  104  99 103 107  69  98 580  624  Shooting       4★WF/Right
 Mbappé                95 ST  109 108  88 105  46  83 539  624  Finishing      4★WF/Right
@@ -57,7 +58,6 @@ Fekir                 97 CAM 101 104 102 107  48  91 553  622  Dribbling      4�
 Núñez                 98 ST  108 106  97 101  61 108 581  621  Finishing      4★WF/Right
 Hwang_Ui_Jo           98 ST  105 109  94 104  69  94 575  621  Targetman      4★WF/Right
 Eto'o                 98 ST  104 109  97 103  64  96 573  620  Targetman      4★WF/Right
-Dest                 100 RB  108  83 100 111 101 101 604  620  Pace           4★WF/Right
 Caputo                99 ST  105 108  89 106  52  94 554  619  Targetman      4★WF/Right
 Wood                  99 ST  100 117  97 102  72 111 599  618  Shooting       5★WF/Right
 Mbappé                98 ST  108 107  87 104  45  83 534  618  Shooting       4★WF/Right
