@@ -3,16 +3,8 @@ Fernando_Torres       99 CF  116 117  98 116  63  99 609  679  Secondstriker  
 Mertens               98 CF  103 107 104 112  52  80 558  641  Shooting       4★WF/Right
 Cantona               99 CF   98 110 108 107  67 106 596  628  Finishing      4★WF/Right
 Dybala                97 CF   95 106 103 107  50  72 533  613  Secondstriker  3★WF/Left
-Caprari               93 CF  104  95  93 104  34  64 494  604  Shooting       3★WF/Right
 Bergkamp              95 CF   97 106  97 103  45  84 532  603  Secondstriker  4★WF/Right
-João_Félix            94 CF   98  99  94 104  53  83 531  597  Secondstriker  4★WF/Right
 Payet                 95 CF   88 102 103 104  52  75 524  589  Secondstriker  4★WF/Right
 Wind                  96 CF   94 101  97 100  58 100 550  586  Secondstriker  3★WF/Right
 Stindl                96 CF   77 106 103 102  74  91 553  567  Shooting       4★WF/Right
-Del_Piero             92 CF   90  98  93  96  46  67 490  563  Secondstriker  5★WF/Right
 João_Pedro            95 CF   86  97  95  98  53  89 518  560  Secondstriker  4★WF/Right
-Bruno_Fernandes       93 CF   82  95  96  92  73  79 517  539  Secondstriker  3★WF/Right
-Slimani               94 CF   81 100  95  89  60 103 528  535  Shooting       3★WF/Right
-Reus                  92 CF   80  93  93  94  53  69 482  534  Finishing      4★WF/Right
-C._Ronaldo            93 CF   88  95  82  89  38  79 471  531  Secondstriker  4★WF/Right
-Müller                92 CF   79  97  97  89  62  75 499  530  Finishing      4★WF/Right
