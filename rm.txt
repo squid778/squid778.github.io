@@ -1,29 +1,32 @@
-Antony               103 RM  123 112 111 121  59  91 617  711  Dribbling      4★WF/Left
-Buchanan              99 RM  120 110 102 120  78  98 628  692  Shortpassing   5★WF/Right
-Raphinha             100 RM  118 107 104 117  65  92 603  681  Longshots      5★WF/Left
-Beckham               98 RM  107 115 119 114  87  94 636  676  Longshots      3★WF/Right
-Hazard               102 RM  109 108 112 118  74  88 609  674  Dribbling      5★WF/Right
-Berardi               98 RM  106 111 111 116  54  92 590  666  Longshots      4★WF/Left
-Bernardeschi         100 RM  109 105 109 116  82  85 606  664  Counter        3★WF/Left
-Samu_Castillejo       98 RM  110 102 104 117  61  77 571  660  Counter        4★WF/Left
-Candreva             101 RM  104 111 110 115  81  84 605  659  Longshots      5★WF/Right
-Álex_Berenguer        96 RM  109 107 104 114  81  88 603  657  Shortpassing   5★WF/Right
-Portu                 98 RM  112 103 103 110  78 100 606  650  Counter        4★WF/Right
-Marcos_Llorente      100 RM  111 106 104 109  92  97 619  650  Longshots      4★WF/Right
-Pablo_Sarabia         99 RM  100 106 111 114  76  73 580  645  Counter        4★WF/Left
-Gelson_Martins        95 RM  115  99  98 109  69  79 569  645  Dribbling      3★WF/Right
-Alessandrini          96 RM  109 106 100 110  59  85 569  644  Longshots      4★WF/Left
-Gnabry                98 RM  106 105 100 111  53  81 556  639  Dribbling      4★WF/Right
-Diaby                 96 RM  113  97  97 109  54  75 545  638  Shortpassing   3★WF/Left
-Abada                 97 RM  108 100  98 110  53  74 543  634  Dribbling      3★WF/Right
-Corona                96 RM  104 100 101 111  95  85 596  631  Shortpassing   5★WF/Right
-Ünder                 96 RM  105 102  98 109  52  65 531  628  Counter        4★WF/Left
-Elanga                95 RM  110  99  93 104  50  70 526  620  Shortpassing   3★WF/Right
-Carlos_Soler          97 RM  100 101 106 106  84  84 581  619  Dribbling      4★WF/Right
-Luís_Figo             95 RM  103 100 100 104  49  85 541  614  Longshots      4★WF/Right
-Bale                  95 RM  102 105 102 101  67  90 567  613  Longshots      4★WF/Left
-Okocha                99 RM   99 104  97 105  54  69 528  609  Shortpassing   4★WF/Right
-Bourigeaud            96 RM   97  99 104 106  78  88 572  609  Dribbling      3★WF/Right
-Loftus-Cheek          95 RM  104  97 100  99  90  82 572  603  Dribbling      3★WF/Right
-Dumfries              96 RM  106  90  90  99  91 105 581  590  Counter        3★WF/Right
-Marco_Asensio         95 RM   97  96  97 100  53  69 512  587  Longshots      3★WF/Left
+Antony               103 RM  123 112 111 121  59  91 617  711  Dribbling      4★WF/Left
+Buchanan              99 RM  120 110 102 120  78  98 628  692  Shortpassing   5★WF/Right
+Raphinha             100 RM  118 107 104 117  65  92 603  681  Longshots      5★WF/Left
+Tsygankov             99 RM  114 105 111 116  68  80 594  676  Shortpassing   5★WF/Left
+Beckham               98 RM  107 115 119 114  87  94 636  676  Longshots      3★WF/Right
+Hazard               102 RM  109 108 112 118  74  88 609  674  Dribbling      5★WF/Right
+Berardi               98 RM  106 111 111 116  54  92 590  666  Longshots      4★WF/Left
+Bernardeschi         100 RM  109 105 109 116  82  85 606  664  Counter        3★WF/Left
+Samu_Castillejo       98 RM  110 102 104 117  61  77 571  660  Counter        4★WF/Left
+Candreva             101 RM  104 111 110 115  81  84 605  659  Longshots      5★WF/Right
+Álex_Berenguer        96 RM  109 107 104 114  81  88 603  657  Shortpassing   5★WF/Right
+Portu                 98 RM  112 103 103 110  78 100 606  650  Counter        4★WF/Right
+Marcos_Llorente      100 RM  111 106 104 109  92  97 619  650  Longshots      4★WF/Right
+Pablo_Sarabia         99 RM  100 106 111 114  76  73 580  645  Counter        4★WF/Left
+Gelson_Martins        95 RM  115  99  98 109  69  79 569  645  Dribbling      3★WF/Right
+Alessandrini          96 RM  109 106 100 110  59  85 569  644  Longshots      4★WF/Left
+El_Ghazi              98 RM  102 110 103 112  59  94 580  641  Longshots      5★WF/Right
+Traoré                95 RM  106 102 103 111  64  90 576  639  Counter        3★WF/Left
+Gnabry                98 RM  106 105 100 111  53  81 556  639  Dribbling      4★WF/Right
+Diaby                 96 RM  113  97  97 109  54  75 545  638  Shortpassing   3★WF/Left
+Abada                 97 RM  108 100  98 110  53  74 543  634  Dribbling      3★WF/Right
+Corona                96 RM  104 100 101 111  95  85 596  631  Shortpassing   5★WF/Right
+Ünder                 96 RM  105 102  98 109  52  65 531  628  Counter        4★WF/Left
+Elanga                95 RM  110  99  93 104  50  70 526  620  Shortpassing   3★WF/Right
+Carlos_Soler          97 RM  100 101 106 106  84  84 581  619  Dribbling      4★WF/Right
+Luís_Figo             95 RM  103 100 100 104  49  85 541  614  Longshots      4★WF/Right
+Bale                  95 RM  102 105 102 101  67  90 567  613  Longshots      4★WF/Left
+Okocha                99 RM   99 104  97 105  54  69 528  609  Shortpassing   4★WF/Right
+Bourigeaud            96 RM   97  99 104 106  78  88 572  609  Dribbling      3★WF/Right
+Loftus-Cheek          95 RM  104  97 100  99  90  82 572  603  Dribbling      3★WF/Right
+Dumfries              96 RM  106  90  90  99  91 105 581  590  Counter        3★WF/Right
+Marco_Asensio         95 RM   97  96  97 100  53  69 512  587  Longshots      3★WF/Left

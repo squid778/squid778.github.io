@@ -1,30 +1,32 @@
-Pirès                100 LM  116 114 117 119  61  85 612  701  Dribbling      4★WF/Right
-Goodwin              101 LM  116 113 112 120  80 100 641  697  Longshots      4★WF/Left
-Hazard               100 LM  115 112 113 120  56  82 598  695  Longshots      5★WF/Right
-Hazard               100 LM  115 112 113 120  56  82 598  695  Longshots      5★WF/Right
-Sánchez              102 LM  110 112 115 120  70 103 630  687  Counter        5★WF/Right
-Kostić               101 LM  116 108 109 114  86  99 632  677  Dribbling      4★WF/Left
-Ansu_Fati             99 LM  119 105 100 115  49  80 568  673  Counter        4★WF/Right
-Rebić                102 LM  113 112 105 114  67 102 613  671  Longshots      5★WF/Right
-Insigne               99 LM  110 106 109 115  56  70 566  665  Longshots      4★WF/Right
-Insigne               99 LM  110 106 109 115  56  70 566  665  Longshots      4★WF/Right
-Coman                 99 LM  115 102 100 114  45  76 552  660  Shortpassing   4★WF/Right
-Gonçalo_Guedes       100 LM  111 107 102 112  55  87 574  655  Dribbling      4★WF/Right
-Son                   98 LM  111 113 103 108  55  80 570  654  Shortpassing   5★WF/Right
-Draxler               99 LM  103 107 110 115  77  91 603  653  Longshots      5★WF/Right
-Simon                 96 LM  114  98  98 111  55  89 565  646  Longshots      4★WF/Right
-Stoichkov             97 LM  107 108 103 110  59  97 584  645  Longshots      4★WF/Left
-Perišić               99 LM  107 107 103 110  81 100 608  644  Shortpassing   5★WF/Left
-Cucurella             98 LM  107 100 106 112  91  95 611  644  Dribbling      4★WF/Left
-Jota                  95 LM  115  95  96 111  52  82 551  643  Counter        4★WF/Right
-Lemar                 97 LM  104 101 104 113  74  80 576  639  Longshots      4★WF/Left
-Juanmi                98 LM  104 107  99 112  50  78 550  638  Longshots      3★WF/Right
-Malen                 96 LM  111 101  96 109  45  90 552  637  Longshots      3★WF/Right
-Nedvěd                95 LM  105 103 105 106  64  88 571  630  Counter        5★WF/Right
-Terrier               98 LM  109 105  99 103  52  86 554  628  Longshots      3★WF/Right
-Rivaldo               99 LM   99 109 104 108  55  88 563  627  Counter        4★WF/Left
-De_Ketelaere          96 LM  100 101 104 107  79  88 579  619  Longshots      4★WF/Left
-Toko_Ekambi           95 LM  104 102  99 104  43  91 543  617  Shortpassing   4★WF/Right
-Muniain               95 LM  101  95 100 109  59  75 539  615  Longshots      3★WF/Right
-Szoboszlai            95 LM  100 101 102 103  50  80 536  609  Dribbling      4★WF/Right
-Barnes                95 LM  102  95  94 101  55  71 518  595  Longshots      4★WF/Right
+Pirès                100 LM  116 114 117 119  61  85 612  701  Dribbling      4★WF/Right
+Goodwin              101 LM  116 113 112 120  80 100 641  697  Longshots      4★WF/Left
+Hazard               100 LM  115 112 113 120  56  82 598  695  Longshots      5★WF/Right
+Hazard               100 LM  115 112 113 120  56  82 598  695  Longshots      5★WF/Right
+Oršić                100 LM  120 113 104 118  80  88 623  693  Longshots      5★WF/Right
+Sánchez              102 LM  110 112 115 120  70 103 630  687  Counter        5★WF/Right
+Kostić               101 LM  116 108 109 114  86  99 632  677  Dribbling      4★WF/Left
+Ansu_Fati             99 LM  119 105 100 115  49  80 568  673  Counter        4★WF/Right
+Rebić                102 LM  113 112 105 114  67 102 613  671  Longshots      5★WF/Right
+Harit                 97 LM  114 100 103 119  67  75 578  669  Shortpassing   4★WF/Right
+Insigne               99 LM  110 106 109 115  56  70 566  665  Longshots      4★WF/Right
+Insigne               99 LM  110 106 109 115  56  70 566  665  Longshots      4★WF/Right
+Coman                 99 LM  115 102 100 114  45  76 552  660  Shortpassing   4★WF/Right
+Gonçalo_Guedes       100 LM  111 107 102 112  55  87 574  655  Dribbling      4★WF/Right
+Son                   98 LM  111 113 103 108  55  80 570  654  Shortpassing   5★WF/Right
+Draxler               99 LM  103 107 110 115  77  91 603  653  Longshots      5★WF/Right
+Simon                 96 LM  114  98  98 111  55  89 565  646  Longshots      4★WF/Right
+Stoichkov             97 LM  107 108 103 110  59  97 584  645  Longshots      4★WF/Left
+Perišić               99 LM  107 107 103 110  81 100 608  644  Shortpassing   5★WF/Left
+Cucurella             98 LM  107 100 106 112  91  95 611  644  Dribbling      4★WF/Left
+Jota                  95 LM  115  95  96 111  52  82 551  643  Counter        4★WF/Right
+Lemar                 97 LM  104 101 104 113  74  80 576  639  Longshots      4★WF/Left
+Juanmi                98 LM  104 107  99 112  50  78 550  638  Longshots      3★WF/Right
+Malen                 96 LM  111 101  96 109  45  90 552  637  Longshots      3★WF/Right
+Nedvěd                95 LM  105 103 105 106  64  88 571  630  Counter        5★WF/Right
+Terrier               98 LM  109 105  99 103  52  86 554  628  Longshots      3★WF/Right
+Rivaldo               99 LM   99 109 104 108  55  88 563  627  Counter        4★WF/Left
+De_Ketelaere          96 LM  100 101 104 107  79  88 579  619  Longshots      4★WF/Left
+Toko_Ekambi           95 LM  104 102  99 104  43  91 543  617  Shortpassing   4★WF/Right
+Muniain               95 LM  101  95 100 109  59  75 539  615  Longshots      3★WF/Right
+Szoboszlai            95 LM  100 101 102 103  50  80 536  609  Dribbling      4★WF/Right
+Barnes                95 LM  102  95  94 101  55  71 518  595  Longshots      4★WF/Right
