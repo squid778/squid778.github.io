@@ -7,6 +7,7 @@ Rodrygo              102 RW  116 113 100 116  50  80 575  677  Speed          5�
 Pulisic              100 RW  116 106 102 116  53  91 584  672  Speed          4★WF/Right
 Pulisic              100 RW  116 106 102 116  53  91 584  672  Speed          4★WF/Right
 Messi                 97 RW  109 113 111 114  42  71 560  670  Agility        4★WF/Left
+Müller               104 RW  100 121 118 115  71  96 621  669  Speed          5★WF/Right
 Bale                 100 RW  112 114 111 110  75  97 619  669  Agility        3★WF/Left
 Saelemaekers          98 RW  112 105 104 114  78  94 607  661  Agility        4★WF/Right
 Pedro                 97 RW  107 108 108 114  52  82 571  658  Agility        5★WF/Right
@@ -30,6 +31,7 @@ Dembélé               96 RW  110  99  94 104  44  71 522  621  Ballcontrol    
 Correa                97 RW  103 105  95 107  58  86 554  620  Ballcontrol    4★WF/Right
 Zaniolo               97 RW  105 104  94 105  71  99 578  618  Agility        3★WF/Left
 Lukébakio             95 RW  107 104  91 104  45  85 536  617  Speed          3★WF/Left
+Thielmann             95 RW  106 103  93 104  58  88 552  616  Agility        4★WF/Right
 Yeremy_Pino           96 RW   99 100  98 106  46  64 513  608  Agility        4★WF/Right
 Sarr                  95 RW  113  99  85  99  33  76 505  608  Ballcontrol    3★WF/Right
 Sterling              96 RW  102  97  89 102  49  70 509  594  Ballcontrol    3★WF/Right

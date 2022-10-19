@@ -24,6 +24,7 @@ Nkunku                98 CAM  98 105 107 111  83  84 588  630  Dribbling      4�
 Nkunku                98 CAM  98 105 107 111  83  84 588  630  Dribbling      4★WF/Right
 Rooney                98 CAM 102 111 100 107  61  98 579  629  Shortpassing   4★WF/Right
 Brandt                98 CAM  95 107 109 111  66  82 570  628  Dribbling      4★WF/Right
+Teuma                 99 CAM  98 109 107 107  86  94 601  626  Shortpassing   5★WF/Left
 Kamada                99 CAM  95 104 108 111  61  81 560  624  Longshots      4★WF/Right
 Fekir                 97 CAM 101 104 102 107  48  91 553  622  Dribbling      4★WF/Left
 Ronaldinho            95 CAM 102 101 100 105  44  88 540  615  Dribbling      4★WF/Right
@@ -31,7 +32,7 @@ Rodrigo               95 CAM 105 104  95 103  58  88 553  615  Longshots      3�
 Boateng              100 CAM  95 108 105 106  82 101 597  615  Longshots      4★WF/Right
 Aaronson              96 CAM  97 104  97 110  72  81 561  615  Shortpassing   3★WF/Right
 Götze                 98 CAM  91 105 109 109  71  84 569  614  Dribbling      4★WF/Right
-Matheus_Nunes        100 CAM  96 104 101 107  81  90 579  611  Holding        3★WF/Right
+Matheus_Nunes        100 CAM  96 104 101 107  81  90 579  611  Counter        3★WF/Right
 Berghuis              97 CAM  95 107 104 105  48  77 536  611  Dribbling      3★WF/Left
 Gerson                96 CAM  93  96 106 111  78  81 565  610  Longshots      3★WF/Left
 Blas                  95 CAM  96 103 100 107  72  82 560  609  Dribbling      3★WF/Left

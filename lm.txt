@@ -17,6 +17,7 @@ Draxler               99 LM  103 107 110 115  77  91 603  653  Longshots      5�
 Simon                 96 LM  114  98  98 111  55  89 565  646  Longshots      4★WF/Right
 Stoichkov             97 LM  107 108 103 110  59  97 584  645  Longshots      4★WF/Left
 Perišić               99 LM  107 107 103 110  81 100 608  644  Shortpassing   5★WF/Left
+Gosens               100 LM  109 105 101 110  97 104 626  644  Longshots      4★WF/Left
 Cucurella             98 LM  107 100 106 112  91  95 611  644  Dribbling      4★WF/Left
 Jota                  95 LM  115  95  96 111  52  82 551  643  Counter        4★WF/Right
 Lemar                 97 LM  104 101 104 113  74  80 576  639  Longshots      4★WF/Left

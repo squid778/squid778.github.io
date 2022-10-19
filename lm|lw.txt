@@ -7,6 +7,7 @@ Hazard               100 LM  115 112 113 120  56  82 598  695  Longshots      5�
 Hazard               100 LM  115 112 113 120  56  82 598  695  Longshots      5★WF/Right
 Oršić                100 LM  120 113 104 118  80  88 623  693  Longshots      5★WF/Right
 Al_Dawsari           100 LW  116 113 109 119  69 103 629  692  Speed          5★WF/Right
+Sané                 103 LW  115 116 109 117  60  97 614  689  Agility        4★WF/Left
 Sánchez              102 LM  110 112 115 120  70 103 630  687  Counter        5★WF/Right
 Carrasco             103 LW  115 116 107 116  59  90 603  685  Agility        5★WF/Right
 Kostić               101 LM  116 108 109 114  86  99 632  677  Dribbling      4★WF/Left
@@ -36,6 +37,7 @@ Simon                 96 LM  114  98  98 111  55  89 565  646  Longshots      4�
 Stoichkov             97 LM  107 108 103 110  59  97 584  645  Longshots      4★WF/Left
 El_Shaarawy           98 LW  111 107  98 109  59  83 567  645  Speed          4★WF/Right
 Perišić               99 LM  107 107 103 110  81 100 608  644  Shortpassing   5★WF/Left
+Gosens               100 LM  109 105 101 110  97 104 626  644  Longshots      4★WF/Left
 Cucurella             98 LM  107 100 106 112  91  95 611  644  Dribbling      4★WF/Left
 Oyarzabal             98 LW  108 107 102 109  50  77 553  643  Speed          4★WF/Left
 Jota                  95 LM  115  95  96 111  52  82 551  643  Counter        4★WF/Right
@@ -45,6 +47,7 @@ Lemar                 97 LM  104 101 104 113  74  80 576  639  Longshots      4�
 Juanmi                98 LM  104 107  99 112  50  78 550  638  Longshots      3★WF/Right
 Cornet                97 LW  112 106  96 106  80  97 597  638  Ballcontrol    4★WF/Left
 Malen                 96 LM  111 101  96 109  45  90 552  637  Longshots      3★WF/Right
+Diop                  97 LW  104 104 100 112  70  83 573  636  Speed          4★WF/Right
 Laudrup               99 LW  101 107 107 109  46  77 547  634  Speed          4★WF/Right
 Stoichkov             95 LW  106 108 101 106  56  95 572  633  Agility        4★WF/Left
 Nedvěd                95 LM  105 103 105 106  64  88 571  630  Counter        5★WF/Right

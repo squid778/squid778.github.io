@@ -19,10 +19,12 @@ Akanji               100 CB  104  70  96 100 116 110 596  672  Marking        4�
 Vidić                100 CB   92  67  86  88 121 116 570  668  Tackling       3★WF/Right
 Schlotterbeck        100 CB  100  59  82  89 117 110 557  668  Defending      3★WF/Left
 de_Vrij               98 CB   96  60  90  92 119 109 566  668  Tackling       3★WF/Right
+St._Juste             96 CB  111  77  92  99 111 104 594  666  Tackling       3★WF/Right
 Kalulu                97 CB  102  64  92  95 115 105 573  664  Marking        3★WF/Right
 Sergio_Ramos         102 CB   99  95 102 100 116 111 623  662  Tackling       4★WF/Right
 Rúben_Dias            98 CB   91  54  87  91 120 111 554  662  Tackling       4★WF/Right
 Koulibaly             98 CB  101  49  75  84 115 113 537  662  Defending      3★WF/Right
+Mancini              103 CB   94  75  85  90 118 117 579  660  Defending      3★WF/Right
 Zabarnyi              99 CB   98  66  86  91 114 107 562  652  Strength       2★WF/Right
 Goldson              102 CB   97  78  95  94 114 114 592  650  Strength       3★WF/Right
 Matvienko             97 CB  102  71  91  95 111 105 575  648  Defending      2★WF/Left
@@ -31,6 +33,8 @@ Felipe               100 CB   89  67  89  93 117 118 573  646  Marking        3�
 Rúben_Dias            96 CB   88  51  82  89 117 108 535  644  Marking        4★WF/Right
 Zimmerman             99 CB   91  81  91  89 115 110 577  642  Strength       3★WF/Right
 Schlotterbeck         98 CB   95  54  78  85 113 106 531  642  Tackling       3★WF/Left
+Luiz_Felipe           97 CB   97  53  88  94 112 105 549  642  Strength       4★WF/Right
+Dier                 103 CB   87  97 102  90 117 118 611  642  Marking        3★WF/Right
 Diego_Carlos          99 CB  101  73  91  93 110 110 578  642  Tackling       4★WF/Right
 Aké                   97 CB   99  74  95  96 111 104 579  642  Tackling       3★WF/Left
 Theate                97 CB  102  67  84  84 109 112 558  640  Marking        3★WF/Left

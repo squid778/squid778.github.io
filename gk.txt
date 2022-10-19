@@ -27,6 +27,7 @@ van_der_Sar           98 GK   60  13  57  56  14  73 273  273  Reflexes       3�
 Benítez               98 GK   63  17  41  51  20  80 272  272  Reflexes       2★WF/Right
 Pope                 100 GK   64  15  43  48  18  82 270  270  Number1        3★WF/Right
 Sommer                98 GK   63  15  46  52  16  75 267  267  Reflexes       4★WF/Right
+Matheus               98 GK   62  14  45  51  20  75 267  267  Number1        3★WF/Right
 Gallese               97 GK   63  19  46  51  23  64 266  266  Reflexes       3★WF/Right
 Lloris                97 GK   72  14  48  51  21  59 265  265  Reflexes       3★WF/Left
 Lloris                97 GK   72  14  48  51  21  59 265  265  Reflexes       3★WF/Left
@@ -52,8 +53,10 @@ Courtois              97 GK   55  19  38  48  18  67 245  245  Reflexes       3�
 Jo_Hyeon_Woo          95 GK   65  16  43  45  22  53 244  244  Reflexes       3★WF/Right
 Trapp                 95 GK   59  14  32  44  16  74 239  239  Handling       4★WF/Right
 Szczęsny              95 GK   56  13  37  46  16  68 236  236  Reflexes       3★WF/Right
+Staněk                95 GK   59  15  32  46  17  64 233  233  Reflexes       3★WF/Right
 Hrádecký              96 GK   54  12  41  45  14  67 233  233  Handling       3★WF/Right
 Gikiewicz             97 GK   42  13  38  48  19  72 232  232  Reflexes       2★WF/Right
+Hazard                96 GK   47  11  47  42  15  69 231  231  Handling       3★WF/Left
 Gill                  99 GK   47   5  36  50  15  73 226  226  Handling       3★WF/Left
 Mendy                 96 GK   47   9  44  47  13  64 224  224  Handling       2★WF/Right
 Rajković              97 GK   40  10  38  43  13  66 210  210  Reflexes       2★WF/Right

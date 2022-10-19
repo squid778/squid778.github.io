@@ -23,6 +23,7 @@ Gündoğan             102 CM   95 106 116 108 100  98 623  623  Longpassing    
 Vidal                 97 CM   91 101 107 105 108 110 622  622  Interceptions  4★WF/Right
 Kroos                 99 CM   92 109 123 112  98  88 622  622  Vision         5★WF/Right
 Sabitzer              97 CM  100 110 112 106  91 102 621  621  Longpassing    5★WF/Right
+Bentancur            100 CM  101  90 116 108 103 102 620  620  Vision         4★WF/Right
 Schlager              98 CM   96  99 111 107 100 106 619  619  Longpassing    3★WF/Left
 Bellingham            98 CM  105  95 106 107 101 104 618  618  Interceptions  4★WF/Right
 Goretzka              99 CM   98 101 108 103 102 105 617  617  Vision         4★WF/Right
@@ -34,6 +35,7 @@ Saúl                  97 CM   91  99 107 103 103  99 602  602  Vision         4
 Valverde              97 CM   99  99 107 102  98  96 601  601  Longpassing    4★WF/Right
 Valverde              97 CM   99  99 107 102  98  96 601  601  Longpassing    4★WF/Right
 Thiago                99 CM   90  97 116 115  91  92 601  601  Longpassing    3★WF/Right
+Morita                97 CM   97  90 110 106  99  99 601  601  Longpassing    3★WF/Right
 Tolisso               97 CM   87  98 108 102 100 103 598  598  Interceptions  3★WF/Right
 Wijnaldum             96 CM   95  94 105 107  97  97 595  595  Longpassing    4★WF/Right
 Rui_Costa             99 CM  101 104 113 108  72  97 595  595  Vision         4★WF/Right
