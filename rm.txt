@@ -1,5 +1,8 @@
+Felipe_Anderson      104 RM  121 113 113 122  75  80 624  712  Longshots      5★WF/Right
 Antony               103 RM  123 112 111 121  59  91 617  711  Dribbling      4★WF/Left
+Adama_Traoré         100 RM  123 104 104 121  63 105 620  696  Longshots      3★WF/Right
 Buchanan              99 RM  120 110 102 120  78  98 628  692  Shortpassing   5★WF/Right
+Ziyech               103 RM  108 112 119 119  71  84 613  685  Dribbling      4★WF/Left
 Raphinha             100 RM  118 107 104 117  65  92 603  681  Longshots      5★WF/Left
 Tsygankov             99 RM  114 105 111 116  68  80 594  676  Shortpassing   5★WF/Left
 Beckham               98 RM  107 115 119 114  87  94 636  676  Longshots      3★WF/Right
@@ -9,6 +12,7 @@ Bernardeschi         100 RM  109 105 109 116  82  85 606  664  Counter        3�
 Samu_Castillejo       98 RM  110 102 104 117  61  77 571  660  Counter        4★WF/Left
 Joaquín              101 RM   99 114 117 115  65  78 588  659  Dribbling      4★WF/Right
 Candreva             101 RM  104 111 110 115  81  84 605  659  Longshots      5★WF/Right
+Ávila                 99 RM  111 107 100 115  70  99 602  659  Shortpassing   5★WF/Left
 Álex_Berenguer        96 RM  109 107 104 114  81  88 603  657  Shortpassing   5★WF/Right
 Portu                 98 RM  112 103 103 110  78 100 606  650  Counter        4★WF/Right
 Marcos_Llorente      100 RM  111 106 104 109  92  97 619  650  Longshots      4★WF/Right

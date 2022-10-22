@@ -4,13 +4,16 @@ Hernández             99 LB  116  94 105 117 100 101 633  648  Reactions      3
 Roberto_Carlos       103 LB  110 102 114 114 105 105 650  645  Reactions      4★WF/Left
 Angeliño             102 LB  105  97 116 121 107  98 644  636  Balanced       4★WF/Left
 Pellegrini            97 LB  110  81  96 108 101  90 586  633  Balanced       4★WF/Left
+Malacia              101 LB  106  81  97 117 102 105 608  624  Balanced       3★WF/Left
 Gayà                  96 LB  105  84 105 113 103  91 601  624  Balanced       4★WF/Left
 Mendy                 98 LB  107  81  99 107  99 102 595  618  Balanced       5★WF/Left
 João_Cancelo          98 LB  107  89 112 116  99  87 610  618  Pace           4★WF/Right
 Zinchenko            100 LB  100  95 112 116 104  96 623  612  Pace           4★WF/Left
 van_Aanholt           97 LB  107  91 101 108  97  96 600  612  Balanced       4★WF/Left
 Hernández             96 LB  109  87  96 109  95  95 591  612  Pace           3★WF/Left
+Walker-Peters         98 LB  100  74  98 109 101  93 575  603  Balanced       4★WF/Right
 Renan_Lodi            97 LB  103  87 102 111  98  96 597  603  Pace           3★WF/Left
+Paulo_Otávio          95 LB  108  76  96 107  93  83 563  603  Reactions      3★WF/Left
 Jordi_Alba            99 LB  104  88 105 112  97  90 596  603  Reactions      3★WF/Left
 Tagliafico            98 LB  100  77  98 106 100 101 582  600  Reactions      3★WF/Left
 Lahm                  95 LB   96  83 105 105 103  77 569  597  Reactions      3★WF/Right

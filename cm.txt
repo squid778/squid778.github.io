@@ -1,3 +1,4 @@
+Cahill               104 CM  110 116 115 114 100 120 675  675  Vision         4★WF/Right
 Gullit                99 CM  114 115 120 111 103 106 669  669  Vision         5★WF/Right
 Scholes              105 CM  106 117 128 115  92 108 666  666  Vision         4★WF/Right
 Renato_Sanches       102 CM  111 103 117 115 100 115 661  661  Vision         5★WF/Right
@@ -28,14 +29,17 @@ Schlager              98 CM   96  99 111 107 100 106 619  619  Longpassing    3�
 Bellingham            98 CM  105  95 106 107 101 104 618  618  Interceptions  4★WF/Right
 Goretzka              99 CM   98 101 108 103 102 105 617  617  Vision         4★WF/Right
 Veretout              99 CM   99  97 109 104 100 105 614  614  Vision         4★WF/Right
+Herrera              100 CM   94  98 115 106 102  98 613  613  Vision         3★WF/Right
 Aránguiz              99 CM   92  98 116 108 102  97 613  613  Vision         4★WF/Right
 Herrera               99 CM   94 100 110 103 103 102 612  612  Longpassing    4★WF/Right
 Fabián               101 CM   93 105 113 111 100  90 612  612  Longpassing    4★WF/Left
+Vecino                99 CM   90  96 111 103 105 101 606  606  Longpassing    3★WF/Right
 Saúl                  97 CM   91  99 107 103 103  99 602  602  Vision         4★WF/Left
 Valverde              97 CM   99  99 107 102  98  96 601  601  Longpassing    4★WF/Right
 Valverde              97 CM   99  99 107 102  98  96 601  601  Longpassing    4★WF/Right
 Thiago                99 CM   90  97 116 115  91  92 601  601  Longpassing    3★WF/Right
 Morita                97 CM   97  90 110 106  99  99 601  601  Longpassing    3★WF/Right
+Fellaini              99 CM   86  98 103  99 101 113 600  600  Longpassing    3★WF/Right
 Tolisso               97 CM   87  98 108 102 100 103 598  598  Interceptions  3★WF/Right
 Wijnaldum             96 CM   95  94 105 107  97  97 595  595  Longpassing    4★WF/Right
 Rui_Costa             99 CM  101 104 113 108  72  97 595  595  Vision         4★WF/Right
@@ -51,6 +55,8 @@ Seedorf               95 CM   96 100 108 102  85  98 589  589  Vision         4�
 Matthäus              97 CM   99  97 104  92 101  93 586  586  Vision         4★WF/Right
 Ballack               95 CM   91 102 108  93  91 101 586  586  Longpassing    4★WF/Right
 Andrich               97 CM   80  98 108  96  98 105 585  585  Vision         4★WF/Right
+Bastoni               99 CM   95  90 107 101  97  93 583  583  Longpassing    3★WF/Left
+Mac_Allister          99 CM   96  98 111 100  91  85 581  581  Interceptions  3★WF/Right
 Verratti              98 CM   86  85 111 111  97  88 578  578  Longpassing    4★WF/Right
 Milinković-Savić      95 CM   85  97 103  95  96 102 578  578  Longpassing    5★WF/Right
 Eriksen               99 CM   92 102 117 106  80  81 578  578  Longpassing    5★WF/Right
@@ -63,10 +69,12 @@ Kampl                 95 CM   91  88 106 105  89  91 570  570  Vision         4�
 Modrić                96 CM   90  96 110 106  86  81 569  569  Longpassing    4★WF/Right
 McGinn                95 CM   89  90 101 100  89  99 568  568  Longpassing    3★WF/Left
 De_Bruyne             96 CM   93 104 110 104  72  81 564  564  Longpassing    5★WF/Right
+Ilić                  98 CM   94  86 104 100  89  90 563  563  Longpassing    3★WF/Left
 Xavi                  98 CM   90  90 113 107  80  76 556  556  Vision         3★WF/Right
 Neuhaus               96 CM   83  91 107 104  86  83 554  554  Longpassing    4★WF/Right
 Parejo                97 CM   82 100 108  93  88  80 551  551  Vision         4★WF/Right
 Gavi                  95 CM   96  93 105 101  78  75 548  548  Vision         3★WF/Right
+Luiz_Gustavo          96 CM   84  82  97  90  95  98 546  546  Holding        3★WF/Left
 Milner                96 CM   72  86 104  94  99  90 545  545  Holding        4★WF/Right
 McTominay             95 CM   79  88  96  89  93  98 543  543  Vision         3★WF/Right
 Bernardo_Silva        95 CM   95  95 105 108  66  73 542  542  Vision         3★WF/Left

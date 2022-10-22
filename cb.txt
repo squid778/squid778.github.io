@@ -1,14 +1,17 @@
 Koulibaly            104 CB  109  54  83  91 124 119 580  714  Tackling       3★WF/Right
 Koeman               105 CB  105 110 118 106 125 117 681  710  Marking        5★WF/Right
 Maldini               97 CB  102  69  94  88 125 104 582  704  Marking        4★WF/Right
+Cannavaro            105 CB  102  68  88  98 124 111 591  700  Marking        3★WF/Right
 Rüdiger              104 CB  105  68  97  92 122 120 604  698  Marking        3★WF/Right
 Rüdiger              104 CB  105  68  97  92 122 120 604  698  Marking        3★WF/Right
+Kohler               104 CB  103  79  96  98 123 122 621  698  Defending      3★WF/Right
 Varane               100 CB  105  68  91  89 121 113 587  694  Defending      3★WF/Right
 van_Dijk             100 CB  100  80  96  95 122 116 609  688  Marking        3★WF/Right
 van_Dijk             100 CB  100  80  96  95 122 116 609  688  Marking        3★WF/Right
 Koundé               102 CB  106  67  93 100 119 115 600  688  Strength       3★WF/Right
 Córdoba              100 CB  106  81  86  94 119 114 600  688  Marking        3★WF/Right
 Córdoba              100 CB  106  81  86  94 119 114 600  688  Marking        3★WF/Right
+Alaba                103 CB  104  96 109 106 120 109 644  688  Tackling       4★WF/Left
 Carles_Puyol         101 CB   96  69  92  85 123 117 582  684  Defending      3★WF/Right
 de_Ligt              103 CB  103  82  88  95 119 119 606  682  Defending      3★WF/Right
 Marquinhos            99 CB  102  70  99  96 119 110 596  680  Defending      3★WF/Right
@@ -16,8 +19,10 @@ Fofana               102 CB  104  67  89  95 117 112 584  676  Tackling       3�
 Hong_Jeong_Ho        100 CB  103  81  95  98 117 115 609  674  Tackling       5★WF/Right
 Moore                101 CB   96  86 111 104 120 110 627  672  Defending      3★WF/Right
 Akanji               100 CB  104  70  96 100 116 110 596  672  Marking        4★WF/Right
+Rafael_Tolói         100 CB   99  78  93  98 118 112 598  670  Defending      3★WF/Right
 Vidić                100 CB   92  67  86  88 121 116 570  668  Tackling       3★WF/Right
 Schlotterbeck        100 CB  100  59  82  89 117 110 557  668  Defending      3★WF/Left
+Mario_Hermoso        102 CB  102  76 102  99 116 110 605  668  Defending      3★WF/Left
 de_Vrij               98 CB   96  60  90  92 119 109 566  668  Tackling       3★WF/Right
 St._Juste             96 CB  111  77  92  99 111 104 594  666  Tackling       3★WF/Right
 Kalulu                97 CB  102  64  92  95 115 105 573  664  Marking        3★WF/Right
@@ -25,10 +30,13 @@ Sergio_Ramos         102 CB   99  95 102 100 116 111 623  662  Tackling       4�
 Rúben_Dias            98 CB   91  54  87  91 120 111 554  662  Tackling       4★WF/Right
 Koulibaly             98 CB  101  49  75  84 115 113 537  662  Defending      3★WF/Right
 Mancini              103 CB   94  75  85  90 118 117 579  660  Defending      3★WF/Right
+Aritz_Elustondo      100 CB   91  58  89  92 118 111 559  654  Defending      3★WF/Right
 Zabarnyi              99 CB   98  66  86  91 114 107 562  652  Strength       2★WF/Right
 Goldson              102 CB   97  78  95  94 114 114 592  650  Strength       3★WF/Right
+Pepe                  98 CB  106  87  87  85 109 113 587  648  Strength       3★WF/Right
 Matvienko             97 CB  102  71  91  95 111 105 575  648  Defending      2★WF/Left
 Koundé                98 CB  100  59  85  92 112 104 552  648  Defending      3★WF/Right
+Kelly                 98 CB  105  73  93 100 109 106 586  646  Marking        3★WF/Left
 Felipe               100 CB   89  67  89  93 117 118 573  646  Marking        3★WF/Right
 Rúben_Dias            96 CB   88  51  82  89 117 108 535  644  Marking        4★WF/Right
 Zimmerman             99 CB   91  81  91  89 115 110 577  642  Strength       3★WF/Right
@@ -41,6 +49,7 @@ Theate                97 CB  102  67  84  84 109 112 558  640  Marking        3�
 Lenglet               99 CB   94  68  93  90 113 107 565  640  Defending      4★WF/Left
 Christensen           99 CB   92  57  94  98 114 106 561  640  Defending      3★WF/Right
 Bassey                97 CB  102  70  87  92 109 110 570  640  Strength       3★WF/Left
+Orban                100 CB   81  66  86  88 119 117 557  638  Strength       3★WF/Right
 Marquinhos            95 CB   97  65  92  90 111 105 560  638  Tackling       3★WF/Right
 Koulibaly             97 CB   97  45  70  79 111 108 510  638  Marking        3★WF/Right
 Koulibaly             97 CB   97  45  70  79 111 108 510  638  Marking        3★WF/Right
@@ -81,8 +90,10 @@ Bremer                98 CB   88  56  78  89 109 107 527  612  Marking        3�
 Škriniar              95 CB   93  50  66  79 106 102 496  610  Tackling       3★WF/Right
 Savić                 98 CB   85  54  80  80 110 105 514  610  Strength       3★WF/Right
 Thiago_Silva          98 CB   82  78  91  85 111 107 554  608  Defending      3★WF/Right
+Djiku                 95 CB  100  62  89  90 102 105 548  608  Marking        3★WF/Right
 Ndicka                95 CB   93  67  91  89 105 100 545  606  Defending      3★WF/Left
 Kehrer                95 CB   91  66  89  91 106 105 548  606  Marking        5★WF/Right
+Gabbia                96 CB   89  63  73  84 107 101 517  606  Strength       3★WF/Right
 Chiellini             99 CB   83  59  88  82 110 107 529  606  Strength       3★WF/Left
 Botman                97 CB   85  62  86  86 109 108 536  606  Strength       3★WF/Left
 Saliba                95 CB   92  54  86  86 105 102 525  604  Tackling       3★WF/Right
@@ -97,11 +108,14 @@ Hinteregger           95 CB   88  86  88  82 106 104 554  600  Tackling       3�
 Disasi                97 CB   84  54  83  80 108 109 518  600  Strength       3★WF/Right
 Kjær                  97 CB   83  68  84  79 108 102 524  598  Strength       3★WF/Right
 Giménez               96 CB   87  55  79  81 106 105 513  598  Marking        3★WF/Right
+Danielson             96 CB   81  55  79  81 109 102 507  598  Strength       2★WF/Right
 Marcano               95 CB   82  65  84  83 108 104 526  596  Tackling       3★WF/Left
 Rúben_Dias            95 CB   83  48  78  85 107 103 504  594  Strength       4★WF/Right
 Chiellini             95 CB   85  61  76  74 106 105 507  594  Defending      3★WF/Left
 Tomori                95 CB   96  49  72  83 100  97 497  592  Strength       4★WF/Right
+Sviatchenko           97 CB   80  77  89  91 108 113 558  592  Tackling       3★WF/Right
 Sakho                100 CB   80  55  90  80 108 112 525  592  Defending      2★WF/Left
+Nicolaisen            95 CB   93  69  82  86 101 106 537  590  Tackling       3★WF/Left
 Mina                  95 CB   80  71  83  78 107 104 523  588  Strength       3★WF/Right
 Bednarek              95 CB   75  43  78  82 107 105 490  578  Strength       3★WF/Right
 Osmar                 96 CB   82  77  91  78 102 106 536  572  Defending      3★WF/Left

@@ -1,9 +1,13 @@
+Mbappé               103 RW  123 120 108 122  51  93 617  718  Agility        5★WF/Right
+Mbappé               103 RW  123 120 108 122  51  93 617  718  Agility        5★WF/Right
+Cole                 104 RW  117 118 119 122  67 101 644  715  Speed          5★WF/Right
 Garrincha            100 RW  117 116 117 119  55  80 604  705  Speed          4★WF/Right
 Ocampos              104 RW  114 120 113 119  87 112 665  699  Agility        4★WF/Right
 Salah                100 RW  117 116 105 120  56  90 604  695  Speed          5★WF/Left
 Di_María             102 RW  111 116 114 120  64  93 618  692  Agility        5★WF/Left
 Saka                 101 RW  117 110 110 118  85  91 631  690  Speed          4★WF/Left
 Rodrygo              102 RW  116 113 100 116  50  80 575  677  Speed          5★WF/Right
+Mbeumo               100 RW  115 111 106 115  66  93 606  677  Ballcontrol    3★WF/Left
 Pulisic              100 RW  116 106 102 116  53  91 584  672  Speed          4★WF/Right
 Pulisic              100 RW  116 106 102 116  53  91 584  672  Speed          4★WF/Right
 Messi                 97 RW  109 113 111 114  42  71 560  670  Agility        4★WF/Left
@@ -13,6 +17,7 @@ Saelemaekers          98 RW  112 105 104 114  78  94 607  661  Agility        4�
 Pedro                 97 RW  107 108 108 114  52  82 571  658  Agility        5★WF/Right
 Messi                 98 RW  106 111 108 112  41  70 548  655  Speed          4★WF/Left
 Adeyemi               97 RW  119 104  93 110  43  90 559  655  Ballcontrol    3★WF/Left
+Jahanbakhsh          100 RW  108 113  99 112  62 100 594  652  Agility        4★WF/Right
 Trincão               98 RW  108 107 100 114  55  92 576  651  Agility        4★WF/Left
 Salah                 98 RW  107 109  99 112  54  84 565  646  Agility        4★WF/Left
 Sancho                98 RW  104 107 104 113  49  82 559  645  Ballcontrol    5★WF/Right
