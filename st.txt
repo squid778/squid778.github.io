@@ -143,3 +143,4 @@ Dia                   96 ST   99  97  81  90  38  87 492  556  Secondstriker  3�
 Abraham               97 ST   98 100  81  89  47  87 502  555  Secondstriker  3★WF/Right
 Willian_José          95 ST   85 104  90  93  60 106 538  550  Targetman      4★WF/Right
 Budimir               95 ST   87 103  71  88  55  99 503  524  Targetman      4★WF/Left
+Messi                103 ST  112 121 118 121 55 86 613  705  Shooting       5★WF/Right

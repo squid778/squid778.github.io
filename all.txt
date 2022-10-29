@@ -112,6 +112,7 @@ Ziyech               103 RM  108 112 119 119  71  84 613  685  Dribbling      4�
 Suárez                98 ST  101 117 105 111  68 111 613  646  Finishing      5★WF/Right
 Son                  100 ST  115 118 110 111  67  92 613  680  Finishing      5★WF/Right
 Rebić                102 LM  113 112 105 114  67 102 613  671  Longshots      5★WF/Right
+Messi                103 ST  112 121 118 121 55 86 613  705  Shooting       5★WF/Right
 Herrera              100 CM   94  98 115 106 102  98 613  613  Vision         3★WF/Right
 Aránguiz              99 CM   92  98 116 108 102  97 613  613  Vision         4★WF/Right
 Pirès                100 LM  116 114 117 119  61  85 612  701  Dribbling      4★WF/Right
