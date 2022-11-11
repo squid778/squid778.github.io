@@ -1,92 +1,97 @@
-Ginola               104 LM  120 119 118 121  69 110 657  719  Longshots      5★WF/Left
-Sterling             103 LW  120 118 113 123  61  86 621  717  Speed          4★WF/Right
-Pirès                100 LM  116 114 117 119  61  85 612  701  Dribbling      4★WF/Right
-Ronaldinho            98 LW  118 114 111 118  47  93 601  697  Agility        4★WF/Right
-Goodwin              101 LM  116 113 112 120  80 100 641  697  Longshots      4★WF/Left
-Martial              103 LM  117 113 107 121  59  94 611  696  Dribbling      4★WF/Right
-Vinícius_Jr.         100 LW  123 110 101 119  44  90 587  695  Ballcontrol    5★WF/Right
-Hazard               100 LM  115 112 113 120  56  82 598  695  Longshots      5★WF/Right
-Hazard               100 LM  115 112 113 120  56  82 598  695  Longshots      5★WF/Right
-Oršić                100 LM  120 113 104 118  80  88 623  693  Longshots      5★WF/Right
-Al_Dawsari           100 LW  116 113 109 119  69 103 629  692  Speed          5★WF/Right
-Sané                 103 LW  115 116 109 117  60  97 614  689  Agility        4★WF/Left
-Sánchez              102 LM  110 112 115 120  70 103 630  687  Counter        5★WF/Right
-Carrasco             103 LW  115 116 107 116  59  90 603  685  Agility        5★WF/Right
-Benrahma             101 LW  111 114 111 119  60  86 601  685  Speed          4★WF/Right
-Silas                102 LM  118 107 102 119  75  94 615  683  Longshots      3★WF/Right
-Reus                 105 LW  103 120 114 119  64  88 608  678  Ballcontrol    5★WF/Right
-Kostić               101 LM  116 108 109 114  86  99 632  677  Dribbling      4★WF/Left
-Golovin              101 LW  111 110 109 118  82  92 622  677  Speed          4★WF/Right
-Dempsey              100 LW  111 115 110 115  61 102 614  677  Agility        5★WF/Right
-Dempsey              100 LW  111 115 110 115  61 102 614  677  Agility        5★WF/Right
-Ansu_Fati             99 LM  119 105 100 115  49  80 568  673  Counter        4★WF/Right
-Rebić                102 LM  113 112 105 114  67 102 613  671  Longshots      5★WF/Right
-Harit                 97 LM  114 100 103 119  67  75 578  669  Shortpassing   4★WF/Right
-Insigne               99 LM  110 106 109 115  56  70 566  665  Longshots      4★WF/Right
-Insigne               99 LM  110 106 109 115  56  70 566  665  Longshots      4★WF/Right
-Bamba                102 LW  115 109 102 112  54  90 582  665  Speed          4★WF/Right
-Ribéry                98 LW  104 112 116 114  50  77 573  664  Ballcontrol    5★WF/Right
-Kent                  98 LW  116 105  97 113  47  82 560  660  Ballcontrol    5★WF/Right
-Coman                 99 LM  115 102 100 114  45  76 552  660  Shortpassing   4★WF/Right
-Wu_Lei                99 LW  112 108 103 112  56  87 578  659  Ballcontrol    3★WF/Right
-Rashford             102 LW  113 112 101 110  59  99 594  659  Agility        4★WF/Right
-Boufal                95 LM  110 102 104 116  51  80 563  658  Dribbling      4★WF/Right
-Rafael_Leão           98 LW  115 107  98 111  42  96 569  657  Agility        5★WF/Right
-Vinícius_Jr.          98 LW  118 101  95 112  42  85 553  656  Agility        4★WF/Right
-Vinícius_Jr.          98 LW  118 101  95 112  42  85 553  656  Agility        4★WF/Right
-Mudryk                98 LW  116 100 100 112  59  92 579  656  Speed          4★WF/Right
-Gonçalo_Guedes       100 LM  111 107 102 112  55  87 574  655  Dribbling      4★WF/Right
-Son                   98 LM  111 113 103 108  55  80 570  654  Shortpassing   5★WF/Right
-Plea                 102 LW  102 115 106 114  55  97 589  653  Agility        4★WF/Right
-Draxler               99 LM  103 107 110 115  77  91 603  653  Longshots      5★WF/Right
-Bergwijn             100 LW  110 110 101 110  53  91 575  651  Agility        5★WF/Right
-Laurienté             99 LW  109 104 104 112  58  82 569  650  Agility        3★WF/Right
-Daramy                97 LW  120 100  92 109  43  91 555  650  Speed          3★WF/Right
-Saint-Maximin         97 LW  115 100  93 113  39  78 538  649  Agility        4★WF/Right
-Simon                 96 LM  114  98  98 111  55  89 565  646  Longshots      4★WF/Right
-Stoichkov             97 LM  107 108 103 110  59  97 584  645  Longshots      4★WF/Left
-El_Shaarawy           98 LW  111 107  98 109  59  83 567  645  Speed          4★WF/Right
-Perišić               99 LM  107 107 103 110  81 100 608  644  Shortpassing   5★WF/Left
-Gosens               100 LM  109 105 101 110  97 104 626  644  Longshots      4★WF/Left
-Cucurella             98 LM  107 100 106 112  91  95 611  644  Dribbling      4★WF/Left
-Oyarzabal             98 LW  108 107 102 109  50  77 553  643  Speed          4★WF/Left
-Jota                  95 LM  115  95  96 111  52  82 551  643  Counter        4★WF/Right
-Chiesa                98 LW  110 107  99 108  56  84 564  642  Agility        4★WF/Right
-Forsberg              99 LW   98 108 111 113  51  84 565  641  Ballcontrol    4★WF/Right
-Olayinka              96 LM  112  99  99 109  75  98 592  640  Shortpassing   3★WF/Right
-Lemar                 97 LM  104 101 104 113  74  80 576  639  Longshots      4★WF/Left
-Juanmi                98 LM  104 107  99 112  50  78 550  638  Longshots      3★WF/Right
-Cornet                97 LW  112 106  96 106  80  97 597  638  Ballcontrol    4★WF/Left
-Malen                 96 LM  111 101  96 109  45  90 552  637  Longshots      3★WF/Right
-Diop                  97 LW  104 104 100 112  70  83 573  636  Speed          4★WF/Right
-Laudrup               99 LW  101 107 107 109  46  77 547  634  Speed          4★WF/Right
-Stoichkov             95 LW  106 108 101 106  56  95 572  633  Agility        4★WF/Left
-Nedvěd                95 LM  105 103 105 106  64  88 571  630  Counter        5★WF/Right
-Brynhildsen           95 LW  115  97  89 107  67  90 565  630  Agility        3★WF/Right
-Terrier               98 LM  109 105  99 103  52  86 554  628  Longshots      3★WF/Right
-Neymar_Jr             96 LW  106 100 100 108  47  71 532  628  Agility        5★WF/Right
-Rivaldo               99 LM   99 109 104 108  55  88 563  627  Counter        4★WF/Left
-Gradel                97 LW  103 109  96 108  55  84 555  627  Ballcontrol    4★WF/Right
-Lanzini              100 LW   97 106 103 111  44  70 531  625  Speed          4★WF/Right
-Díaz                  96 LW  111 104  89 105  42  87 538  625  Speed          4★WF/Right
-Díaz                  96 LW  111 104  89 105  42  87 538  625  Speed          4★WF/Right
-Diogo_Gonçalves       95 LM  109 101  93 105  79  92 579  622  Dribbling      4★WF/Right
-Rafael_Leão           96 LW  110 100  90 105  40  90 535  620  Ballcontrol    4★WF/Right
-Trossard              95 LW  105 103  96 105  41  80 530  619  Speed          4★WF/Right
-De_Ketelaere          96 LM  100 101 104 107  79  88 579  619  Longshots      4★WF/Left
-Son                   97 LW  105 109  95 102  51  75 537  618  Ballcontrol    5★WF/Right
-Son                   97 LW  105 109  95 102  51  75 537  618  Ballcontrol    5★WF/Right
-Coutinho              95 LW   99 106  98 108  66  75 552  618  Ballcontrol    4★WF/Right
-Toko_Ekambi           95 LM  104 102  99 104  43  91 543  617  Shortpassing   4★WF/Right
-Minamino              96 LW  105  98  93 108  50  85 539  617  Speed          4★WF/Right
-Mané                  95 LW  107 103  92 104  55  89 550  617  Speed          4★WF/Right
-Kainz                 95 LW  100 105  97 107  53  82 544  616  Shortpassing   5★WF/Right
-Grifo                 99 LW   98 104 102 107  56  87 554  616  Speed          3★WF/Right
-Zaha                  96 LW  108 100  89 105  42  86 530  615  Agility        3★WF/Right
-Muniain               95 LM  101  95 100 109  59  75 539  615  Longshots      3★WF/Right
-Szoboszlai            95 LM  100 101 102 103  50  80 536  609  Dribbling      4★WF/Right
-Zaccagni              95 LW  101 100  97 104  72  83 557  607  Ballcontrol    4★WF/Right
-Pozuelo               96 LW  101  98  98 101  59  75 532  600  Agility        5★WF/Right
-Grealish              97 LW   95  98  99 104  52  69 517  595  Agility        3★WF/Right
-Grealish              97 LW   95  98  99 104  52  69 517  595  Agility        3★WF/Right
-Barnes                95 LM  102  95  94 101  55  71 518  595  Longshots      4★WF/Right
+Ginola               104 LM  120 119 118 121  69 110 657  719  Longshots      5★WF/Left
+Sterling             103 LW  120 118 113 123  61  86 621  717  Speed          4★WF/Right
+Ribéry               100 LM  111 118 119 122  58  80 608  703  Dribbling      5★WF/Right
+Pirès                100 LM  116 114 117 119  61  85 612  701  Dribbling      4★WF/Right
+Ronaldinho            98 LW  118 114 111 118  47  93 601  697  Agility        4★WF/Right
+Goodwin              101 LM  116 113 112 120  80 100 641  697  Longshots      4★WF/Left
+Martial              103 LM  117 113 107 121  59  94 611  696  Dribbling      4★WF/Right
+Vinícius_Jr.         100 LW  123 110 101 119  44  90 587  695  Ballcontrol    5★WF/Right
+Hazard               100 LM  115 112 113 120  56  82 598  695  Longshots      5★WF/Right
+Hazard               100 LM  115 112 113 120  56  82 598  695  Longshots      5★WF/Right
+Oršić                100 LM  120 113 104 118  80  88 623  693  Longshots      5★WF/Right
+Al_Dawsari           100 LW  116 113 109 119  69 103 629  692  Speed          5★WF/Right
+Sané                 103 LW  115 116 109 117  60  97 614  689  Agility        4★WF/Left
+Sánchez              102 LM  110 112 115 120  70 103 630  687  Counter        5★WF/Right
+Carrasco             103 LW  115 116 107 116  59  90 603  685  Agility        5★WF/Right
+Benrahma             101 LW  111 114 111 119  60  86 601  685  Speed          4★WF/Right
+Silas                102 LM  118 107 102 119  75  94 615  683  Longshots      3★WF/Right
+Reus                 105 LW  103 120 114 119  64  88 608  678  Ballcontrol    5★WF/Right
+Kostić               101 LM  116 108 109 114  86  99 632  677  Dribbling      4★WF/Left
+Golovin              101 LW  111 110 109 118  82  92 622  677  Speed          4★WF/Right
+Dempsey              100 LW  111 115 110 115  61 102 614  677  Agility        5★WF/Right
+Dempsey              100 LW  111 115 110 115  61 102 614  677  Agility        5★WF/Right
+Ansu_Fati             99 LM  119 105 100 115  49  80 568  673  Counter        4★WF/Right
+Rebić                102 LM  113 112 105 114  67 102 613  671  Longshots      5★WF/Right
+Ferran_Torres        100 LW  111 114 108 113  54  90 590  670  Agility        4★WF/Right
+Harit                 97 LM  114 100 103 119  67  75 578  669  Shortpassing   4★WF/Right
+Insigne               99 LM  110 106 109 115  56  70 566  665  Longshots      4★WF/Right
+Insigne               99 LM  110 106 109 115  56  70 566  665  Longshots      4★WF/Right
+Bamba                102 LW  115 109 102 112  54  90 582  665  Speed          4★WF/Right
+Ribéry                98 LW  104 112 116 114  50  77 573  664  Ballcontrol    5★WF/Right
+Kent                  98 LW  116 105  97 113  47  82 560  660  Ballcontrol    5★WF/Right
+Coman                 99 LM  115 102 100 114  45  76 552  660  Shortpassing   4★WF/Right
+Wu_Lei                99 LW  112 108 103 112  56  87 578  659  Ballcontrol    3★WF/Right
+Rashford             102 LW  113 112 101 110  59  99 594  659  Agility        4★WF/Right
+Boufal                95 LM  110 102 104 116  51  80 563  658  Dribbling      4★WF/Right
+Rafael_Leão           98 LW  115 107  98 111  42  96 569  657  Agility        5★WF/Right
+Vinícius_Jr.          98 LW  118 101  95 112  42  85 553  656  Agility        4★WF/Right
+Vinícius_Jr.          98 LW  118 101  95 112  42  85 553  656  Agility        4★WF/Right
+Mudryk                98 LW  116 100 100 112  59  92 579  656  Speed          4★WF/Right
+Gonçalo_Guedes       100 LM  111 107 102 112  55  87 574  655  Dribbling      4★WF/Right
+Son                   98 LM  111 113 103 108  55  80 570  654  Shortpassing   5★WF/Right
+Plea                 102 LW  102 115 106 114  55  97 589  653  Agility        4★WF/Right
+Draxler               99 LM  103 107 110 115  77  91 603  653  Longshots      5★WF/Right
+Bergwijn             100 LW  110 110 101 110  53  91 575  651  Agility        5★WF/Right
+Laurienté             99 LW  109 104 104 112  58  82 569  650  Agility        3★WF/Right
+Daramy                97 LW  120 100  92 109  43  91 555  650  Speed          3★WF/Right
+Saint-Maximin         97 LW  115 100  93 113  39  78 538  649  Agility        4★WF/Right
+Simon                 96 LM  114  98  98 111  55  89 565  646  Longshots      4★WF/Right
+Stoichkov             97 LM  107 108 103 110  59  97 584  645  Longshots      4★WF/Left
+El_Shaarawy           98 LW  111 107  98 109  59  83 567  645  Speed          4★WF/Right
+Perišić               99 LM  107 107 103 110  81 100 608  644  Shortpassing   5★WF/Left
+Gosens               100 LM  109 105 101 110  97 104 626  644  Longshots      4★WF/Left
+Cucurella             98 LM  107 100 106 112  91  95 611  644  Dribbling      4★WF/Left
+Oyarzabal             98 LW  108 107 102 109  50  77 553  643  Speed          4★WF/Left
+Jota                  95 LM  115  95  96 111  52  82 551  643  Counter        4★WF/Right
+Chiesa                98 LW  110 107  99 108  56  84 564  642  Agility        4★WF/Right
+Forsberg              99 LW   98 108 111 113  51  84 565  641  Ballcontrol    4★WF/Right
+Olayinka              96 LM  112  99  99 109  75  98 592  640  Shortpassing   3★WF/Right
+Lemar                 97 LM  104 101 104 113  74  80 576  639  Longshots      4★WF/Left
+Juanmi                98 LM  104 107  99 112  50  78 550  638  Longshots      3★WF/Right
+Cornet                97 LW  112 106  96 106  80  97 597  638  Ballcontrol    4★WF/Left
+Malen                 96 LM  111 101  96 109  45  90 552  637  Longshots      3★WF/Right
+Diop                  97 LW  104 104 100 112  70  83 573  636  Speed          4★WF/Right
+Pellegrino            97 LM  114 103  94 105  57  85 558  635  Counter        3★WF/Right
+Laudrup               99 LW  101 107 107 109  46  77 547  634  Speed          4★WF/Right
+Stoichkov             95 LW  106 108 101 106  56  95 572  633  Agility        4★WF/Left
+Nedvěd                95 LM  105 103 105 106  64  88 571  630  Counter        5★WF/Right
+Brynhildsen           95 LW  115  97  89 107  67  90 565  630  Agility        3★WF/Right
+Terrier               98 LM  109 105  99 103  52  86 554  628  Longshots      3★WF/Right
+Neymar_Jr             96 LW  106 100 100 108  47  71 532  628  Agility        5★WF/Right
+Rivaldo               99 LM   99 109 104 108  55  88 563  627  Counter        4★WF/Left
+Gradel                97 LW  103 109  96 108  55  84 555  627  Ballcontrol    4★WF/Right
+Lanzini              100 LW   97 106 103 111  44  70 531  625  Speed          4★WF/Right
+Díaz                  96 LW  111 104  89 105  42  87 538  625  Speed          4★WF/Right
+Díaz                  96 LW  111 104  89 105  42  87 538  625  Speed          4★WF/Right
+Pepê                  95 LW  109 100  91 107  42  71 520  623  Speed          3★WF/Right
+Chouiar               95 LM  107  96 103 105  55  85 551  623  Shortpassing   3★WF/Right
+Diogo_Gonçalves       95 LM  109 101  93 105  79  92 579  622  Dribbling      4★WF/Right
+Rafael_Leão           96 LW  110 100  90 105  40  90 535  620  Ballcontrol    4★WF/Right
+Trossard              95 LW  105 103  96 105  41  80 530  619  Speed          4★WF/Right
+De_Ketelaere          96 LM  100 101 104 107  79  88 579  619  Longshots      4★WF/Left
+Son                   97 LW  105 109  95 102  51  75 537  618  Ballcontrol    5★WF/Right
+Son                   97 LW  105 109  95 102  51  75 537  618  Ballcontrol    5★WF/Right
+Coutinho              95 LW   99 106  98 108  66  75 552  618  Ballcontrol    4★WF/Right
+Toko_Ekambi           95 LM  104 102  99 104  43  91 543  617  Shortpassing   4★WF/Right
+Minamino              96 LW  105  98  93 108  50  85 539  617  Speed          4★WF/Right
+Mané                  95 LW  107 103  92 104  55  89 550  617  Speed          4★WF/Right
+Kainz                 95 LW  100 105  97 107  53  82 544  616  Shortpassing   5★WF/Right
+Grifo                 99 LW   98 104 102 107  56  87 554  616  Speed          3★WF/Right
+Zaha                  96 LW  108 100  89 105  42  86 530  615  Agility        3★WF/Right
+Muniain               95 LM  101  95 100 109  59  75 539  615  Longshots      3★WF/Right
+Szoboszlai            95 LM  100 101 102 103  50  80 536  609  Dribbling      4★WF/Right
+Zaccagni              95 LW  101 100  97 104  72  83 557  607  Ballcontrol    4★WF/Right
+Pozuelo               96 LW  101  98  98 101  59  75 532  600  Agility        5★WF/Right
+Grealish              97 LW   95  98  99 104  52  69 517  595  Agility        3★WF/Right
+Grealish              97 LW   95  98  99 104  52  69 517  595  Agility        3★WF/Right
+Barnes                95 LM  102  95  94 101  55  71 518  595  Longshots      4★WF/Right

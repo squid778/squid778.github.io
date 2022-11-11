@@ -1,31 +1,32 @@
-Hakimi               104 RB  120  95 110 121 101 101 648  663  Pace           4★WF/Right
-Clauss               103 RB  117  97 111 122 104 101 652  663  Pace           4★WF/Right
-Lahm                 100 RB  103  91 117 118 112  89 630  645  Pace           3★WF/Right
-Dodô                  96 RB  116  87  98 113  98  96 608  642  Reactions      3★WF/Right
-Cafú                 103 RB  110  85 110 118 104 101 628  642  Reactions      4★WF/Right
-Alexander-Arnold      99 RB  107  91 117 115 105  91 626  636  Balanced       4★WF/Right
-Mbabu                 98 RB  110  76  97 106  99 101 589  627  Pace           3★WF/Right
-Dest                 100 RB  108  83 100 111 101 101 604  627  Pace           4★WF/Right
-Trippier             103 RB  100  90 114 114 108 101 627  624  Reactions      4★WF/Right
-Stones               100 RB   96  76 104 110 111 107 604  621  Reactions      4★WF/Right
-Simakan              102 RB   98  67 101 107 107 104 584  615  Balanced       3★WF/Right
-Nélson_Semedo         95 RB  104  82  97 114 100 100 597  612  Pace           4★WF/Right
-Montiel               98 RB  107  77  97 107  97 102 587  612  Pace           3★WF/Right
-Young                 99 RB  101  90 107 114 101  98 611  606  Pace           3★WF/Right
-Sergi_Roberto         98 RB  101  89 111 110 101  87 599  606  Pace           3★WF/Right
-Pavard               102 RB   95  80 106 108 106 103 598  603  Pace           3★WF/Right
-Lazzari               95 RB  110  80 100 110  91  78 569  603  Balanced       3★WF/Right
-Zanetti               95 RB   97  75 105 100 103  83 563  600  Pace           4★WF/Right
-Mukiele               99 RB   98  70  94 101 102 103 568  600  Reactions      3★WF/Right
-Suárez                96 RB   96  89 102 106 103 103 599  597  Balanced       3★WF/Right
-Alexander-Arnold      95 RB  100  84 105 103  97  82 571  591  Pace           4★WF/Right
-Rubén_Peña            97 RB   98  86  98 104  96  88 570  582  Balanced       3★WF/Right
-Meunier               96 RB   95  96 100 102  99 103 595  582  Reactions      4★WF/Right
-Ricardo_Pereira       95 RB   98  81  96 102  94  89 560  576  Reactions      4★WF/Right
-Cash                  95 RB   99  80  92 103  93  85 552  576  Balanced       3★WF/Right
-Azpilicueta           97 RB   85  71  99  97 105 100 557  570  Pace           3★WF/Right
-Lucas_Vázquez         97 RB  100  92 104 108  89  85 578  567  Balanced       4★WF/Right
-Emerson               95 RB   98  81  93  97  91  97 557  567  Reactions      3★WF/Right
-Wass                  95 RB   95  88  97 105  89  95 569  552  Reactions      3★WF/Right
-James                 96 RB   92  72  97  98  91  93 543  549  Reactions      3★WF/Right
-Coleman               95 RB   81  81  92  98  97  87 536  534  Balanced       3★WF/Right
+Hakimi               104 RB  120  95 110 121 101 101 648  663  Pace           4★WF/Right
+Clauss               103 RB  117  97 111 122 104 101 652  663  Pace           4★WF/Right
+Lahm                 100 RB  103  91 117 118 112  89 630  645  Pace           3★WF/Right
+Dodô                  96 RB  116  87  98 113  98  96 608  642  Reactions      3★WF/Right
+Cafú                 103 RB  110  85 110 118 104 101 628  642  Reactions      4★WF/Right
+Alexander-Arnold      99 RB  107  91 117 115 105  91 626  636  Balanced       4★WF/Right
+Bah                   96 RB  118  86  95 104  92  97 592  630  Reactions      3★WF/Right
+Mbabu                 98 RB  110  76  97 106  99 101 589  627  Pace           3★WF/Right
+Dest                 100 RB  108  83 100 111 101 101 604  627  Pace           4★WF/Right
+Trippier             103 RB  100  90 114 114 108 101 627  624  Reactions      4★WF/Right
+Stones               100 RB   96  76 104 110 111 107 604  621  Reactions      4★WF/Right
+Simakan              102 RB   98  67 101 107 107 104 584  615  Balanced       3★WF/Right
+Nélson_Semedo         95 RB  104  82  97 114 100 100 597  612  Pace           4★WF/Right
+Montiel               98 RB  107  77  97 107  97 102 587  612  Pace           3★WF/Right
+Young                 99 RB  101  90 107 114 101  98 611  606  Pace           3★WF/Right
+Sergi_Roberto         98 RB  101  89 111 110 101  87 599  606  Pace           3★WF/Right
+Pavard               102 RB   95  80 106 108 106 103 598  603  Pace           3★WF/Right
+Lazzari               95 RB  110  80 100 110  91  78 569  603  Balanced       3★WF/Right
+Zanetti               95 RB   97  75 105 100 103  83 563  600  Pace           4★WF/Right
+Mukiele               99 RB   98  70  94 101 102 103 568  600  Reactions      3★WF/Right
+Suárez                96 RB   96  89 102 106 103 103 599  597  Balanced       3★WF/Right
+Alexander-Arnold      95 RB  100  84 105 103  97  82 571  591  Pace           4★WF/Right
+Rubén_Peña            97 RB   98  86  98 104  96  88 570  582  Balanced       3★WF/Right
+Meunier               96 RB   95  96 100 102  99 103 595  582  Reactions      4★WF/Right
+Ricardo_Pereira       95 RB   98  81  96 102  94  89 560  576  Reactions      4★WF/Right
+Cash                  95 RB   99  80  92 103  93  85 552  576  Balanced       3★WF/Right
+Azpilicueta           97 RB   85  71  99  97 105 100 557  570  Pace           3★WF/Right
+Lucas_Vázquez         97 RB  100  92 104 108  89  85 578  567  Balanced       4★WF/Right
+Emerson               95 RB   98  81  93  97  91  97 557  567  Reactions      3★WF/Right
+Wass                  95 RB   95  88  97 105  89  95 569  552  Reactions      3★WF/Right
+James                 96 RB   92  72  97  98  91  93 543  549  Reactions      3★WF/Right
+Coleman               95 RB   81  81  92  98  97  87 536  534  Balanced       3★WF/Right
