@@ -1,11 +1,12 @@
-Baggio               105 CF  122 126 126 123  66  86 649  742  Secondstriker  5★WF/Right
-Becker               103 CF  123 111 102 113  63 104 616  685  Secondstriker  4★WF/Right
-Fernando_Torres       99 CF  116 117  98 116  63  99 609  679  Secondstriker  4★WF/Right
-Mertens               98 CF  103 107 104 112  52  80 558  641  Shooting       4★WF/Right
-Cantona               99 CF   98 110 108 107  67 106 596  628  Finishing      4★WF/Right
-Dybala                97 CF   95 106 103 107  50  72 533  613  Secondstriker  3★WF/Left
-Bergkamp              95 CF   97 106  97 103  45  84 532  603  Secondstriker  4★WF/Right
-Payet                 95 CF   88 102 103 104  52  75 524  589  Secondstriker  4★WF/Right
-Wind                  96 CF   94 101  97 100  58 100 550  586  Secondstriker  3★WF/Right
-Stindl                96 CF   77 106 103 102  74  91 553  567  Shooting       4★WF/Right
-João_Pedro            95 CF   86  97  95  98  53  89 518  560  Secondstriker  4★WF/Right
+Baggio               105 CF  122 126 126 123  66  86 649  742  Secondstriker  5★WF/Right
+Becker               103 CF  123 111 102 113  63 104 616  685  Secondstriker  4★WF/Right
+Fernando_Torres       99 CF  116 117  98 116  63  99 609  679  Secondstriker  4★WF/Right
+Embolo                99 CF  113 110 104 107  72 108 614  654  Targetman      4★WF/Right
+Mertens               98 CF  103 107 104 112  52  80 558  641  Shooting       4★WF/Right
+Cantona               99 CF   98 110 108 107  67 106 596  628  Finishing      4★WF/Right
+Dybala                97 CF   95 106 103 107  50  72 533  613  Secondstriker  3★WF/Left
+Bergkamp              95 CF   97 106  97 103  45  84 532  603  Secondstriker  4★WF/Right
+Payet                 95 CF   88 102 103 104  52  75 524  589  Secondstriker  4★WF/Right
+Wind                  96 CF   94 101  97 100  58 100 550  586  Secondstriker  3★WF/Right
+Stindl                96 CF   77 106 103 102  74  91 553  567  Shooting       4★WF/Right
+João_Pedro            95 CF   86  97  95  98  53  89 518  560  Secondstriker  4★WF/Right
