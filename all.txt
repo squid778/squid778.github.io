@@ -1,6 +1,9 @@
+Cole                 109 LB  118 100 121 125 120 110 694  714  Reactions      4★WF/Left
 McKennie             105 CM  110 111 122 114 115 114 686  686  Vision         4★WF/Right
+de_Jong              106 CM  114 101 126 121 111 110 683  683  Vision         4★WF/Right
 Petit                105 CDM 101 105 118 112 126 119 681  126  Holding        4★WF/Left
 Koeman               105 CB  105 110 118 106 125 117 681  710  Marking        5★WF/Right
+Best                 107 RM  127 125 117 132  81  94 676  760  Dribbling      5★WF/Right
 Cahill               104 CM  110 116 115 114 100 120 675  675  Vision         4★WF/Right
 Pelé                 105 CAM 121 127 125 128  72  96 669  750  Dribbling      5★WF/Right
 Gullit                99 CM  114 115 120 111 103 106 669  669  Vision         5★WF/Right
@@ -13,11 +16,15 @@ Bale                 104 RM  120 122 116 119  83 105 665  716  Longshots      4�
 Renato_Sanches       102 CM  111 103 117 115 100 115 661  661  Vision         5★WF/Right
 Pogba                103 CM  100 113 124 114  94 115 660  660  Longpassing    5★WF/Right
 Koke                 104 CM  104 108 122 113 107 105 659  659  Vision         4★WF/Right
+Barnes               107 LW  126 125 119 124  55 109 658  744  Speed          5★WF/Left
 Tchouaméni           103 CDM 101 100 116 113 115 112 657  227  Interceptions  4★WF/Right
+Kane                 106 ST  109 125 120 113  75 115 657  689  Shooting       5★WF/Right
+Kane                 106 ST  109 125 120 113  75 115 657  689  Shooting       5★WF/Right
 Gullit                99 CM  110 112 117 110 101 107 657  657  Longpassing    5★WF/Right
 Ginola               104 LM  120 119 118 121  69 110 657  719  Longshots      5★WF/Left
 Mané                 104 ST  120 120 112 124  70 110 656  720  Finishing      5★WF/Right
 Gueye                101 CM  100 100 117 115 114 109 655  655  Interceptions  4★WF/Right
+Fernando_Hierro      107 CB  101  92 108 102 132 119 654  730  Marking        4★WF/Right
 Ronaldo              102 ST  119 123 110 120  73 108 653  711  Secondstriker  5★WF/Right
 Lucas_Paquetá        102 CAM 105 117 116 119  90 106 653  681  Shortpassing   4★WF/Left
 Davies               101 LB  121  95 109 120 104 104 653  675  Reactions      5★WF/Left
@@ -34,6 +41,7 @@ Tonali               104 CDM 107  95 117 110 109 108 646  0  Longpassing    4★
 Taremi               103 ST  118 122 109 115  70 112 646  697  Secondstriker  5★WF/Right
 Lampard              100 CM   93 116 125 109  98 105 646  646  Longpassing    4★WF/Right
 Di_Natale            104 ST  119 123 111 119  74 100 646  710  Secondstriker  5★WF/Right
+Bergkamp             109 CAM 115 130 121 128  55  97 646  737  Counter        5★WF/Right
 Barella              102 CM  105 101 115 119 102 104 646  646  Vision         4★WF/Right
 Sterling             105 LW  123 121 116 126  65  94 645  735  Ballcontrol    4★WF/Right
 Arthur               103 CM   99 100 122 120 102 102 645  645  Longpassing    4★WF/Right
@@ -69,6 +77,7 @@ Tielemans             99 CM   86 110 123 112 100 102 633  633  Longpassing    5�
 Hernández             99 LB  116  94 105 117 100 101 633  648  Reactions      3★WF/Left
 Camara               100 CM  102 100 112 107 103 109 633  633  Longpassing    3★WF/Right
 Adams                 99 CDM 105  90 111 110 109 108 633  0  Holding        3★WF/Right
+van_Basten           107 ST  111 130 103 118  69 101 632  691  Secondstriker  5★WF/Right
 Kostić               101 LM  116 108 109 114  86  99 632  677  Dribbling      4★WF/Left
 Dumfries              99 RWB 110  91 102 113 102 114 632  632  Reactions      3★WF/Right
 Saka                 101 RW  117 110 110 118  85  91 631  690  Speed          4★WF/Left
@@ -79,6 +88,7 @@ Juranović             99 RB  117  94 109 116 102  92 630  657  Balanced       5
 Dier                 104 CB   91  96 107  94 121 121 630  666  Defending      3★WF/Right
 de_Ligt              105 CB  106  86  96  99 122 121 630  700  Tackling       3★WF/Right
 Delaney              102 CDM 100  97 107 104 113 109 630  113  Holding        4★WF/Left
+van_Persie           107 ST  111 127 109 114  67 101 629  686  Targetman      4★WF/Left
 Pulisic              103 LW  122 117 110 124  60  96 629  719  Agility        5★WF/Right
 Hofmann               99 RM  106 111 116 119  84  93 629  677  Dribbling      5★WF/Right
 Gakpo                 99 LW  118 118 110 120  60 103 629  704  Ballcontrol    5★WF/Right
@@ -158,6 +168,7 @@ Rabiot                99 CM  100 100 109 106 100 100 615  615  Interceptions  3�
 Lucas_Paquetá         98 CAM 100 108 109 112  85 101 615  641  Dribbling      4★WF/Left
 Kaká                 101 CAM 114 116 118 120  59  88 615  702  Dribbling      4★WF/Right
 Hagi                 105 CAM 108 121 121 121  58  86 615  700  Counter        5★WF/Left
+Ferdinand            107 CB  110  70  94  93 130 118 615  740  Defending      4★WF/Right
 Veretout              99 CM   99  97 109 104 100 105 614  614  Vision         4★WF/Right
 Sergio_Busquets      100 CDM  85  88 113 108 115 105 614  108  Interceptions  4★WF/Right
 Sané                 103 LW  115 116 109 117  60  97 614  689  Agility        4★WF/Left
@@ -208,6 +219,7 @@ Kökçü                101 CAM 100 109 113 115  76  95 608  652  Longshots     
 Dodô                  96 RB  116  87  98 113  98  96 608  642  Reactions      3★WF/Right
 Saelemaekers          98 RW  112 105 104 114  78  94 607  661  Agility        4★WF/Right
 Lewandowski          101 ST  105 120 102 111  57 112 607  654  Finishing      5★WF/Right
+Koulibaly            106 CB  111  60  94  95 126 121 607  726  Marking        4★WF/Right
 Ivanušec              99 CAM 107 107 106 115  76  96 607  657  Dribbling      4★WF/Right
 Benzema              101 ST  105 119 107 113  59 104 607  662  Secondstriker  5★WF/Right
 Benzema              101 ST  105 119 107 113  59 104 607  662  Secondstriker  5★WF/Right

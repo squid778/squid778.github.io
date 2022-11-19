@@ -1,5 +1,7 @@
+Best                 107 RM  127 125 117 132  81  94 676  760  Dribbling      5★WF/Right
 Pelé                 105 CAM 121 127 125 128  72  96 669  750  Dribbling      5★WF/Right
 Baggio               105 CF  122 126 126 123  66  86 649  742  Secondstriker  5★WF/Right
+Bergkamp             109 CAM 115 130 121 128  55  97 646  737  Counter        5★WF/Right
 Mané                 104 ST  120 120 112 124  70 110 656  720  Finishing      5★WF/Right
 Neymar_Jr            105 CAM 117 119 117 124  55  80 612  718  Longshots      5★WF/Right
 Neymar_Jr            105 CAM 117 119 117 124  55  80 612  718  Longshots      5★WF/Right
@@ -14,8 +16,12 @@ Depay                105 ST  111 123 117 118  56 109 634  698  Secondstriker  4�
 Taremi               103 ST  118 122 109 115  70 112 646  697  Secondstriker  5★WF/Right
 Puskás               101 ST  112 124 114 116  68  94 628  694  Secondstriker  5★WF/Left
 Rafa                 100 CAM 119 110 107 119  68  81 604  693  Dribbling      4★WF/Right
+van_Basten           107 ST  111 130 103 118  69 101 632  691  Secondstriker  5★WF/Right
+Kane                 106 ST  109 125 120 113  75 115 657  689  Shooting       5★WF/Right
+Kane                 106 ST  109 125 120 113  75 115 657  689  Shooting       5★WF/Right
 Gabriel_Jesus        102 ST  112 118 104 121  66 105 626  688  Shooting       4★WF/Right
 David                100 ST  117 117 107 115  56 106 618  688  Finishing      5★WF/Right
+van_Persie           107 ST  111 127 109 114  67 101 629  686  Targetman      4★WF/Left
 C._Ronaldo           105 ST  113 122 106 116  60 105 622  686  Shooting       5★WF/Right
 Lewandowski          104 ST  110 126 107 116  71 120 650  685  Targetman      5★WF/Right
 Becker               103 CF  123 111 102 113  63 104 616  685  Secondstriker  4★WF/Right

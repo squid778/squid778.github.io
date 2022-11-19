@@ -1,5 +1,6 @@
 Pelé                 105 CAM 121 127 125 128  72  96 669  750  Dribbling      5★WF/Right
 Baggio               105 CF  122 126 126 123  66  86 649  742  Secondstriker  5★WF/Right
+Bergkamp             109 CAM 115 130 121 128  55  97 646  737  Counter        5★WF/Right
 Neymar_Jr            105 CAM 117 119 117 124  55  80 612  718  Longshots      5★WF/Right
 Neymar_Jr            105 CAM 117 119 117 124  55  80 612  718  Longshots      5★WF/Right
 Cruyff               101 CAM 114 120 118 123  62  91 628  712  Dribbling      5★WF/Right

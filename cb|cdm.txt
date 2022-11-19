@@ -1,5 +1,8 @@
+Ferdinand            107 CB  110  70  94  93 130 118 615  740  Defending      4★WF/Right
+Fernando_Hierro      107 CB  101  92 108 102 132 119 654  730  Marking        4★WF/Right
 van_Dijk             105 CB  111  87 104 100 126 121 649  726  Tackling       3★WF/Right
 van_Dijk             105 CB  111  87 104 100 126 121 649  726  Tackling       3★WF/Right
+Koulibaly            106 CB  111  60  94  95 126 121 607  726  Marking        4★WF/Right
 Koulibaly            104 CB  109  54  83  91 124 119 580  714  Tackling       3★WF/Right
 Koeman               105 CB  105 110 118 106 125 117 681  710  Marking        5★WF/Right
 Maldini               97 CB  102  69  94  88 125 104 582  704  Marking        4★WF/Right
