@@ -35,7 +35,6 @@ Kostić               101 LM  116 108 109 114  86  99 632  677  Dribbling     
 Golovin              101 LW  111 110 109 118  82  92 622  677  Speed          4★WF/Right
 Dempsey              100 LW  111 115 110 115  61 102 614  677  Agility        5★WF/Right
 Dempsey              100 LW  111 115 110 115  61 102 614  677  Agility        5★WF/Right
-Leckie                99 LW  120 110 100 113  73 107 623  676  Agility        5★WF/Right
 Ansu_Fati             99 LM  119 105 100 115  49  80 568  673  Counter        4★WF/Right
 Rebić                102 LM  113 112 105 114  67 102 613  671  Longshots      5★WF/Right
 Ferran_Torres        100 LW  111 114 108 113  54  90 590  670  Agility        4★WF/Right

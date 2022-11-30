@@ -2,6 +2,7 @@ Best                 107 RM  127 125 117 132  81  94 676  760  Dribbling      
 Mané                 105 LW  127 122 115 127  66 108 665  745  Speed          5★WF/Right
 Mané                 105 LW  127 122 115 127  66 108 665  745  Speed          5★WF/Right
 Barnes               107 LW  126 125 119 124  55 109 658  744  Speed          5★WF/Left
+Ljungberg            106 RM  125 118 119 128  74 100 664  743  Shortpassing   4★WF/Right
 Mbappé               106 LW  128 126 112 124  60 101 651  742  Agility        5★WF/Right
 Mbappé               106 LW  128 126 112 124  60 101 651  742  Agility        5★WF/Right
 Sterling             105 LW  123 121 116 126  65  94 645  735  Ballcontrol    4★WF/Right
@@ -64,7 +65,7 @@ Golovin              101 LW  111 110 109 118  82  92 622  677  Speed          
 Dempsey              100 LW  111 115 110 115  61 102 614  677  Agility        5★WF/Right
 Dempsey              100 LW  111 115 110 115  61 102 614  677  Agility        5★WF/Right
 Tsygankov             99 RM  114 105 111 116  68  80 594  676  Shortpassing   5★WF/Left
-Leckie                99 LW  120 110 100 113  73 107 623  676  Agility        5★WF/Right
+Leckie                99 RW  120 110 100 113  73 107 623  676  Agility        5★WF/Right
 Beckham               98 RM  107 115 119 114  87  94 636  676  Longshots      3★WF/Right
 Shaqiri               99 RW  105 118 113 117  63  96 612  675  Agility        5★WF/Left
 Hazard               102 RM  109 108 112 118  74  88 609  674  Dribbling      5★WF/Right

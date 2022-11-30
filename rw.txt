@@ -13,6 +13,7 @@ Bergwijn             102 RW  115 116 109 117  61  99 617  689  Ballcontrol    
 Al_Haydos            100 RW  119 110 105 117  56  82 589  687  Speed          4★WF/Right
 Rodrygo              102 RW  116 113 100 116  50  80 575  677  Speed          5★WF/Right
 Mbeumo               100 RW  115 111 106 115  66  93 606  677  Ballcontrol    3★WF/Left
+Leckie                99 RW  120 110 100 113  73 107 623  676  Agility        5★WF/Right
 Shaqiri               99 RW  105 118 113 117  63  96 612  675  Agility        5★WF/Left
 Pulisic              100 RW  116 106 102 116  53  91 584  672  Speed          4★WF/Right
 Pulisic              100 RW  116 106 102 116  53  91 584  672  Speed          4★WF/Right
