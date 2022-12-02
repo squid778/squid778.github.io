@@ -1,48 +1,27 @@
-Cole                 109 LB  118 100 121 125 120 110 694  714  Reactions      4★WF/Left
-Hernández            102 LB  120  99 112 123 106 107 667  678  Balanced       4★WF/Left
-Davies               101 LB  121  95 109 120 104 104 653  675  Reactions      5★WF/Left
-Zambrotta            100 LB  110  93 112 113 112 108 648  666  Balanced       5★WF/Right
-Al_Shahrani           99 LB  119  87 103 115 102  90 616  663  Balanced       5★WF/Right
-Robinson              98 LB  120  79  99 112 100  98 608  660  Reactions      4★WF/Left
-Caio_Henrique        103 LB  108  91 116 122 112  95 644  660  Pace           3★WF/Left
-Estupiñán            100 LB  110  75 105 115 107 104 616  651  Balanced       4★WF/Left
-Hernández             99 LB  116  94 105 117 100 101 633  648  Reactions      3★WF/Left
-Roberto_Carlos       103 LB  110 102 114 114 105 105 650  645  Reactions      4★WF/Left
-Mæhle                 98 LB  115  89 105 110  99 104 622  642  Pace           3★WF/Right
-Bereszyński           95 LB  114  86  98 107  99  94 598  639  Pace           3★WF/Right
-Angeliño             102 LB  105  97 116 121 107  98 644  636  Balanced       4★WF/Left
-Pellegrini            97 LB  110  81  96 108 101  90 586  633  Balanced       4★WF/Left
-Raum                  96 LB  113  85  99 111  97  94 599  630  Balanced       3★WF/Left
-Shaw                 101 LB  101  84 114 118 108 109 634  627  Pace           3★WF/Left
-Nagatomo              99 LB  104  81 102 115 105  94 601  627  Reactions      5★WF/Right
-Marcos_Alonso        102 LWB  95 104 112 115 100 101 627  627  Reactions      4★WF/Left
-Malacia              101 LB  106  81  97 117 102 105 608  624  Balanced       3★WF/Left
-Gayà                  96 LB  105  84 105 113 103  91 601  624  Balanced       4★WF/Left
-Mendy                 98 LB  107  81  99 107  99 102 595  618  Balanced       5★WF/Left
-João_Cancelo          98 LB  107  89 112 116  99  87 610  618  Pace           4★WF/Right
-Zinchenko            100 LB  100  95 112 116 104  96 623  612  Pace           4★WF/Left
-van_Aanholt           97 LB  107  91 101 108  97  96 600  612  Balanced       4★WF/Left
-Hernández             96 LB  109  87  96 109  95  95 591  612  Pace           3★WF/Left
-Emerson               96 LB  104  88  97 109  99  86 583  609  Balanced       3★WF/Left
-Walker-Peters         98 LB  100  74  98 109 101  93 575  603  Balanced       4★WF/Right
-Renan_Lodi            97 LB  103  87 102 111  98  96 597  603  Pace           3★WF/Left
-Paulo_Otávio          95 LB  108  76  96 107  93  83 563  603  Reactions      3★WF/Left
-Jordi_Alba            99 LB  104  88 105 112  97  90 596  603  Reactions      3★WF/Left
-Alioski               96 LWB 103  96  99 108  93 103 602  602  Pace           3★WF/Left
-Tagliafico            98 LB  100  77  98 106 100 101 582  600  Reactions      3★WF/Left
-Lahm                  95 LB   96  83 105 105 103  77 569  597  Reactions      3★WF/Right
-Dimarco               97 LB   99  86 106 110 100  86 587  597  Balanced       3★WF/Left
-Tsimikas              95 LB  106  80  96 104  92  95 573  594  Pace           3★WF/Left
-Sergio_Gómez         100 LB  102  96 110 120  95  87 610  591  Reactions      3★WF/Left
-Günter                96 LB  102  76  94 101  95  95 563  591  Reactions      3★WF/Left
-Williams              97 LWB 106  80 100 114  97  87 584  584  Balanced       4★WF/Right
-Zinchenko             97 LB   95  90 107 109  99  91 591  582  Balanced       3★WF/Left
-Marcelo               95 LB   99  96 108 111  95  92 601  582  Pace           4★WF/Left
-Spinazzola            96 LWB 111  84  94 106  95  88 578  578  Balanced       4★WF/Right
-Castagne              95 LB   98  75  93 100  94  85 545  576  Reactions      3★WF/Right
-Robertson             97 LB   99  73  95 100  92  82 541  573  Balanced       3★WF/Left
-De_Sciglio            97 LB   92  73 100 103  99  90 557  573  Balanced       4★WF/Right
-Guerreiro             98 LB   94  95 109 115  95  85 593  567  Pace           3★WF/Left
-Alex_Telles           95 LB   96  84  95  96  90  88 549  558  Reactions      3★WF/Left
-Reguilón              95 LWB 101  76  94 101  92  84 548  548  Pace           3★WF/Left
-Marcos_Alonso         95 LB   84  91  99 100  96  95 565  540  Pace           3★WF/Left
+Cole                 109 LB  118 100 121 125 120 110 694  714  Reactions      4★WF/Left
+Jordi_Alba           104 LB  116 102 118 125 111 109 681  681  Pace           4★WF/Left
+Hernández            102 LB  120  99 112 123 106 107 667  678  Balanced       4★WF/Left
+Davies               101 LB  121  95 109 120 104 104 653  675  Reactions      5★WF/Left
+Zambrotta            100 LB  110  93 112 113 112 108 648  666  Balanced       5★WF/Right
+Al_Shahrani           99 LB  119  87 103 115 102  90 616  663  Balanced       5★WF/Right
+Robinson              98 LB  120  79  99 112 100  98 608  660  Reactions      4★WF/Left
+Caio_Henrique        103 LB  108  91 116 122 112  95 644  660  Pace           3★WF/Left
+Estupiñán            100 LB  110  75 105 115 107 104 616  651  Balanced       4★WF/Left
+Mazraoui             100 LB  109  94 114 124 107 100 648  648  Balanced       4★WF/Right
+Hernández             99 LB  116  94 105 117 100 101 633  648  Reactions      3★WF/Left
+Roberto_Carlos       103 LB  110 102 114 114 105 105 650  645  Reactions      4★WF/Left
+Mæhle                 98 LB  115  89 105 110  99 104 622  642  Pace           3★WF/Right
+Raum                  98 LB  112  85 113 118 101 100 629  639  Pace           4★WF/Left
+Angeliño             102 LB  105  97 116 121 107  98 644  636  Balanced       4★WF/Left
+Shaw                 101 LB  101  84 114 118 108 109 634  627  Pace           3★WF/Left
+Nagatomo              99 LB  104  81 102 115 105  94 601  627  Reactions      5★WF/Right
+Marcos_Alonso        102 LWB  95 104 112 115 100 101 627  627  Reactions      4★WF/Left
+Malacia              101 LB  106  81  97 117 102 105 608  624  Balanced       3★WF/Left
+Mendy                 98 LB  107  81  99 107  99 102 595  618  Balanced       5★WF/Left
+João_Cancelo          98 LB  107  89 112 116  99  87 610  618  Pace           4★WF/Right
+Zinchenko            100 LB  100  95 112 116 104  96 623  612  Pace           4★WF/Left
+Walker-Peters         98 LB  100  74  98 109 101  93 575  603  Balanced       4★WF/Right
+Jordi_Alba            99 LB  104  88 105 112  97  90 596  603  Reactions      3★WF/Left
+Tagliafico            98 LB  100  77  98 106 100 101 582  600  Reactions      3★WF/Left
+Sergio_Gómez         100 LB  102  96 110 120  95  87 610  591  Reactions      3★WF/Left
+Guerreiro             98 LB   94  95 109 115  95  85 593  567  Pace           3★WF/Left

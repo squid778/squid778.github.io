@@ -1,61 +1,34 @@
-Petit                105 CDM 101 105 118 112 126 119 681  681  Holding        4★WF/Left
-Essien               105 CDM 102 100 116 112 121 115 666  666  Holding        4★WF/Right
-Tchouaméni           103 CDM 101 100 116 113 115 112 657  657  Interceptions  4★WF/Right
-Paredes              102 CDM  92 100 123 111 115 112 653  653  Holding        4★WF/Right
-Tonali               104 CDM 107  95 117 110 109 108 646  646  Longpassing    4★WF/Right
-Casemiro             104 CDM  93 101 111 104 116 117 642  642  Holding        4★WF/Right
-Endo                 100 CDM  96 103 115 109 107 111 641  641  Holding        5★WF/Right
-Guardiola            100 CDM 100  88 118 108 119 104 637  637  Interceptions  3★WF/Right
-Kimmich               98 CDM  96  98 115 112 111 103 635  635  Longpassing    4★WF/Right
-Adams                 99 CDM 105  90 111 110 109 108 633  633  Holding        3★WF/Right
-Delaney              102 CDM 100  97 107 104 113 109 630  630  Holding        4★WF/Left
-Tchouaméni            98 CDM  98  93 108 110 108 111 628  628  Holding        3★WF/Right
-Skhiri                99 CDM  95  98 109 109 114 102 627  627  Holding        3★WF/Right
-Bissouma              99 CDM  99  98 110 109 108 103 627  627  Holding        3★WF/Right
-Caicedo               99 CDM 105  93 109 106 109 100 622  622  Holding        4★WF/Right
-Álvarez               99 CDM 100  84 106 102 116 113 621  621  Interceptions  3★WF/Right
-Mooy                  99 CDM  93 100 117 105 100 104 619  619  Interceptions  3★WF/Right
-Sergio_Busquets      100 CDM  85  88 113 108 115 105 614  614  Interceptions  4★WF/Right
-Witsel               100 CDM  86  99 110 103 109 104 611  611  Interceptions  4★WF/Right
-Hjulmand              96 CDM  96  90 108 105 102 109 610  610  Holding        3★WF/Right
-Gravenberch           98 CDM 100  97 110 109  98  95 609  609  Longpassing    4★WF/Right
-Krychowiak            97 CDM  87 100 109  98 107 107 608  608  Holding        3★WF/Right
-Souček                95 CDM  93  96 102  99 107 108 605  605  Holding        4★WF/Right
-Paredes               99 CDM  87  93 112 104 105 104 605  605  Longpassing    4★WF/Right
-Jorginho              99 CDM  90  98 112 105 103  97 605  605  Longpassing    3★WF/Right
-S._Eustáquio          96 CDM  94  89 110 104 105 100 602  602  Holding        3★WF/Right
-Kouyaté               97 CDM  86  95  99 101 108 111 600  600  Holding        3★WF/Right
-Sydorchuk             96 CDM  94  95 106  99 107  98 599  599  Longpassing    3★WF/Right
-Matthäus              98 CDM  99  96 103  93 108  98 597  597  Holding        4★WF/Right
-Laïdouni              97 CDM  94  90 105 106 100 102 597  597  Interceptions  3★WF/Right
-Camara                98 CDM 106  81  99 108 100 102 596  596  Holding        3★WF/Right
-Kanté                 96 CDM  91  79  93 109 114 108 594  594  Holding        3★WF/Right
-Asllani               98 CDM  96  88 109 102 108  90 593  593  Holding        3★WF/Right
-Mandragora            95 CDM  84  90 108 104 104 100 590  590  Interceptions  3★WF/Left
-Keane                 97 CDM  90  90 104  97 105 104 590  590  Holding        3★WF/Right
-Phillips              99 CDM  87  85 105 100 104 106 587  587  Interceptions  3★WF/Right
-Locatelli             98 CDM  84  96 108 101 102  95 586  586  Holding        4★WF/Right
-Gbamin                96 CDM  96  82 103  98 102 104 585  585  Interceptions  3★WF/Right
-Fabinho               97 CDM  87  85 105 101 105 102 585  585  Vision         3★WF/Right
-Roldan                97 CDM  82  94 105 103  99 101 584  584  Interceptions  4★WF/Right
-Laimer                95 CDM  99  86 101  99 102  96 583  583  Longpassing    3★WF/Right
-Rúben_Neves           98 CDM  80  96 110 102  98  96 582  582  Holding        4★WF/Right
-Belkebla              96 CDM  89  82 108 103 104  96 582  582  Holding        3★WF/Right
-Coquelin              95 CDM  87  87 102 101 100 102 579  579  Interceptions  3★WF/Right
-Fernandinho           95 CDM  80  92  99  99 105 103 578  578  Holding        4★WF/Right
-Gattuso               97 CDM  92  85  92  95 108 105 577  577  Holding        3★WF/Right
-Kohr                  95 CDM  99  82  93  96 102 104 576  576  Holding        3★WF/Right
-Partey                96 CDM  84  87 104  97 100 103 575  575  Holding        3★WF/Right
-Kimmich               96 CDM  85  88 106 102 100  94 575  575  Vision         4★WF/Right
-Florentino            98 CDM  93  75  99 100 106 102 575  575  Interceptions  3★WF/Right
-Seiwald               95 CDM  88  84 103 102  99  98 574  574  Interceptions  3★WF/Right
-Rongier               95 CDM  90  87 103 102  96  94 572  572  Interceptions  4★WF/Right
-Adams                 97 CDM  89  81 103 101 100  98 572  572  Interceptions  3★WF/Right
-Schweinsteiger        95 CDM  78  93 102  97 101 100 571  571  Longpassing    3★WF/Right
-Højbjerg              97 CDM  85  89 103  96 100  97 570  570  Interceptions  4★WF/Right
-Kamara                97 CDM  94  70 100  96 105 102 567  567  Holding        3★WF/Right
-Kanté                 95 CDM  86  76  87 104 106 101 560  560  Interceptions  3★WF/Right
-Fran_Beltrán          97 CDM  83  76 103 102 101  92 557  557  Interceptions  3★WF/Right
-Fred                  95 CDM  95  79  96 100  93  88 551  551  Vision         4★WF/Left
-Casemiro              95 CDM  80  87  92  85 103 102 549  549  Holding        3★WF/Right
-Gorenc_Stanković      96 CDM  81  73  93  91 105 100 543  543  Holding        3★WF/Right
+Kimmich              106 CDM 103 108 125 121 120 115 692  692  Holding        4★WF/Right
+Xabi_Alonso          107 CDM 100 106 126 115 125 118 690  690  Interceptions  5★WF/Right
+Petit                105 CDM 101 105 118 112 126 119 681  681  Holding        4★WF/Left
+Gündoğan             103 CDM 101 115 123 118 110 108 675  675  Vision         4★WF/Right
+Essien               105 CDM 102 100 116 112 121 115 666  666  Holding        4★WF/Right
+Sergio_Busquets      102 CDM  94  99 120 114 121 113 661  661  Longpassing    3★WF/Right
+Tchouaméni           103 CDM 101 100 116 113 115 112 657  657  Interceptions  4★WF/Right
+Brozović             101 CDM  96 101 120 116 117 107 657  657  Longpassing    4★WF/Right
+Paredes              102 CDM  92 100 123 111 115 112 653  653  Holding        4★WF/Right
+Tonali               104 CDM 107  95 117 110 109 108 646  646  Longpassing    4★WF/Right
+Casemiro             104 CDM  93 101 111 104 116 117 642  642  Holding        4★WF/Right
+Endo                 100 CDM  96 103 115 109 107 111 641  641  Holding        5★WF/Right
+Guardiola            100 CDM 100  88 118 108 119 104 637  637  Interceptions  3★WF/Right
+Kimmich               98 CDM  96  98 115 112 111 103 635  635  Longpassing    4★WF/Right
+Adams                 99 CDM 105  90 111 110 109 108 633  633  Holding        3★WF/Right
+Delaney              102 CDM 100  97 107 104 113 109 630  630  Holding        4★WF/Left
+Tchouaméni            98 CDM  98  93 108 110 108 111 628  628  Holding        3★WF/Right
+Skhiri                99 CDM  95  98 109 109 114 102 627  627  Holding        3★WF/Right
+Bissouma              99 CDM  99  98 110 109 108 103 627  627  Holding        3★WF/Right
+Caicedo               99 CDM 105  93 109 106 109 100 622  622  Holding        4★WF/Right
+Álvarez               99 CDM 100  84 106 102 116 113 621  621  Interceptions  3★WF/Right
+Mooy                  99 CDM  93 100 117 105 100 104 619  619  Interceptions  3★WF/Right
+Sergio_Busquets      100 CDM  85  88 113 108 115 105 614  614  Interceptions  4★WF/Right
+Witsel               100 CDM  86  99 110 103 109 104 611  611  Interceptions  4★WF/Right
+Gravenberch           98 CDM 100  97 110 109  98  95 609  609  Longpassing    4★WF/Right
+Paredes               99 CDM  87  93 112 104 105 104 605  605  Longpassing    4★WF/Right
+Jorginho              99 CDM  90  98 112 105 103  97 605  605  Longpassing    3★WF/Right
+Matthäus              98 CDM  99  96 103  93 108  98 597  597  Holding        4★WF/Right
+Camara                98 CDM 106  81  99 108 100 102 596  596  Holding        3★WF/Right
+Asllani               98 CDM  96  88 109 102 108  90 593  593  Holding        3★WF/Right
+Phillips              99 CDM  87  85 105 100 104 106 587  587  Interceptions  3★WF/Right
+Locatelli             98 CDM  84  96 108 101 102  95 586  586  Holding        4★WF/Right
+Rúben_Neves           98 CDM  80  96 110 102  98  96 582  582  Holding        4★WF/Right
+Florentino            98 CDM  93  75  99 100 106 102 575  575  Interceptions  3★WF/Right

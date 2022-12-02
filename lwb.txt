@@ -1,5 +1,1 @@
-Marcos_Alonso        102 LWB  95 104 112 115 100 101 627  627  Reactions      4★WF/Left
-Alioski               96 LWB 103  96  99 108  93 103 602  602  Pace           3★WF/Left
-Williams              97 LWB 106  80 100 114  97  87 584  584  Balanced       4★WF/Right
-Spinazzola            96 LWB 111  84  94 106  95  88 578  578  Balanced       4★WF/Right
-Reguilón              95 LWB 101  76  94 101  92  84 548  548  Pace           3★WF/Left
+Marcos_Alonso        102 LWB  95 104 112 115 100 101 627  627  Reactions      4★WF/Left
