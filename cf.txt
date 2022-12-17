@@ -1,9 +1,10 @@
-Baggio               105 CF  122 126 126 123  66  86 649  742  Secondstriker  5★WF/Right
-Solskjær             106 CF  115 128 117 120  70 102 652  715  Shooting       5★WF/Right
-De_Bruyne            105 CF  110 124 126 122  85 100 667  714  Shooting       5★WF/Right
-De_Bruyne            105 CF  110 124 126 122  85 100 667  714  Shooting       5★WF/Right
-Becker               103 CF  123 111 102 113  63 104 616  685  Secondstriker  4★WF/Right
-Fernando_Torres       99 CF  116 117  98 116  63  99 609  679  Secondstriker  4★WF/Right
-Embolo                99 CF  113 110 104 107  72 108 614  654  Targetman      4★WF/Right
-Mertens               98 CF  103 107 104 112  52  80 558  641  Shooting       4★WF/Right
-Cantona               99 CF   98 110 108 107  67 106 596  628  Finishing      4★WF/Right
+Baggio               105 CF  122 126 126 123  66  86 649  742  Secondstriker  5★WF/Right
+Solskjær             106 CF  115 128 117 120  70 102 652  715  Shooting       5★WF/Right
+De_Bruyne            105 CF  110 124 126 122  85 100 667  714  Shooting       5★WF/Right
+De_Bruyne            105 CF  110 124 126 122  85 100 667  714  Shooting       5★WF/Right
+Hazard               105 CF  113 121 121 122  64  92 633  712  Shooting       4★WF/Right
+Becker               103 CF  123 111 102 113  63 104 616  685  Secondstriker  4★WF/Right
+Fernando_Torres       99 CF  116 117  98 116  63  99 609  679  Secondstriker  4★WF/Right
+Embolo                99 CF  113 110 104 107  72 108 614  654  Targetman      4★WF/Right
+Mertens               98 CF  103 107 104 112  52  80 558  641  Shooting       4★WF/Right
+Cantona               99 CF   98 110 108 107  67 106 596  628  Finishing      4★WF/Right
