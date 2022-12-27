@@ -19,6 +19,7 @@ Goodwin              103 LW  123 117 114 123  83 106 666  723  Ballcontrol    4�
 Pulisic              103 LW  122 117 110 124  60  96 629  719  Agility        5★WF/Right
 Ginola               104 LM  120 119 118 121  69 110 657  719  Longshots      5★WF/Left
 Sterling             103 LW  120 118 113 123  61  86 621  717  Speed          4★WF/Right
+Álvarez              102 LM  120 118 114 122  82 102 658  716  Counter        4★WF/Right
 Gakpo                 99 LW  118 118 110 120  60 103 629  704  Ballcontrol    5★WF/Right
 Ribéry               100 LM  111 118 119 122  58  80 608  703  Dribbling      5★WF/Right
 Pirès                100 LM  116 114 117 119  61  85 612  701  Dribbling      4★WF/Right

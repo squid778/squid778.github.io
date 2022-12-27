@@ -1,9 +1,11 @@
+Luís_Figo            109 RW  128 127 123 127  65 106 676  760  Agility        5★WF/Right
 Best                 107 RM  127 125 117 132  81  94 676  760  Dribbling      5★WF/Right
 Ljungberg            106 RM  125 118 119 128  74 100 664  743  Shortpassing   4★WF/Right
 Jairzinho            107 RW  125 126 116 125  64 101 657  742  Ballcontrol    5★WF/Right
 Raphinha             102 RW  124 120 112 125  65 100 646  730  Agility        4★WF/Left
 Di_María             105 RM  116 122 121 127  64  99 649  729  Longshots      4★WF/Left
 Bernardo_Silva       105 RM  115 117 124 128  95  99 678  727  Longshots      4★WF/Left
+Buchanan             102 RM  127 116 106 122  84 101 656  720  Counter        4★WF/Right
 Ziyech               104 RW  114 121 123 123  75  93 649  718  Agility        4★WF/Left
 Mbappé               103 RW  123 120 108 122  51  93 617  718  Agility        5★WF/Right
 Mbappé               103 RW  123 120 108 122  51  93 617  718  Agility        5★WF/Right
@@ -18,7 +20,6 @@ Mbeumo               101 RM  119 116 112 120  69 102 638  706  Dribbling      4�
 Garrincha            100 RW  117 116 117 119  55  80 604  705  Speed          4★WF/Right
 Jahanbakhsh          102 RM  119 116 111 118  68 103 635  701  Dribbling      5★WF/Right
 Ocampos              104 RW  114 120 113 119  87 112 665  699  Agility        4★WF/Right
-Buchanan             102 RM  127 106 103 118  78  94 626  699  Counter        4★WF/Right
 Foden                101 RW  111 116 112 124  69  90 622  698  Agility        4★WF/Left
 Sarr                  99 RW  126 114 100 115  45  93 593  696  Speed          4★WF/Right
 Adama_Traoré         100 RM  123 104 104 121  63 105 620  696  Longshots      3★WF/Right
@@ -37,6 +38,7 @@ Mbeumo               100 RW  115 111 106 115  66  93 606  677  Ballcontrol    3�
 Junior_Messias        99 RM  117 105 108 115  60  80 585  677  Longshots      3★WF/Left
 Hofmann               99 RM  106 111 116 119  84  93 629  677  Dribbling      5★WF/Right
 Buendía              103 RW  108 112 115 117  77 102 631  677  Ballcontrol    4★WF/Right
+Weah                  99 RW  117 113 101 114  63  89 597  676  Speed          4★WF/Right
 Tsygankov             99 RM  114 105 111 116  68  80 594  676  Shortpassing   5★WF/Left
 Leckie                99 RW  120 110 100 113  73 107 623  676  Agility        5★WF/Right
 Beckham               98 RM  107 115 119 114  87  94 636  676  Longshots      3★WF/Right

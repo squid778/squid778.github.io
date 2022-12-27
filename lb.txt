@@ -3,7 +3,7 @@ Jordi_Alba           104 LB  116 102 118 125 111 109 681  681  Pace           4�
 Hernández            102 LB  120  99 112 123 106 107 667  678  Balanced       4★WF/Left
 Davies               101 LB  121  95 109 120 104 104 653  675  Reactions      5★WF/Left
 Zambrotta            100 LB  110  93 112 113 112 108 648  666  Balanced       5★WF/Right
-Guerreiro            104 LB  111 105 119 126 110  94 665  663  Balanced       3★WF/Left
+Guerreiro            104 LB  111 105 119 126 110  99 670  663  Balanced       3★WF/Left
 Al_Shahrani           99 LB  119  87 103 115 102  90 616  663  Balanced       5★WF/Right
 Robinson              98 LB  120  79  99 112 100  98 608  660  Reactions      4★WF/Left
 Nuno_Tavares         103 LB  112  89 109 123 108 107 648  660  Reactions      4★WF/Left

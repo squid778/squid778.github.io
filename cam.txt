@@ -24,6 +24,7 @@ Tadić                103 CAM 102 120 119 120  66 100 627  683  Counter        4
 Reyna                101 CAM 108 112 114 120  63 100 617  682  Dribbling      4★WF/Right
 Lucas_Paquetá        102 CAM 105 117 116 119  90 106 653  681  Shortpassing   4★WF/Left
 Mount                102 CAM 101 119 120 119  74  88 621  679  Longshots      5★WF/Right
+Eriksen              102 CAM 100 118 124 118  79  84 623  678  Shortpassing   5★WF/Right
 Nkunku                99 CAM 106 113 116 116  86  88 625  673  Counter        5★WF/Right
 Alli                 103 CAM  99 123 115 115  92 101 645  666  Counter        4★WF/Right
 Zidane                98 CAM 102 115 117 111  82  95 622  658  Shortpassing   5★WF/Right

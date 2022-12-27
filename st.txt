@@ -1,5 +1,5 @@
 Eusébio              109 ST  127 133 120 126  69 110 685  759  Finishing      5★WF/Right
-Ronaldo              107 ST  125 131 111 126  71 108 672  744  Shooting       5★WF/Right
+Ronaldo              107 ST  125 131 111 126  76 113 682  744  Shooting       5★WF/Right
 C._Ronaldo           106 ST  118 128 115 122  67 114 664  723  Finishing      5★WF/Right
 C._Ronaldo           106 ST  118 128 115 122  67 114 664  723  Finishing      5★WF/Right
 Keane                106 ST  120 124 118 120  75 112 669  722  Secondstriker  5★WF/Right
@@ -8,10 +8,10 @@ Ronaldo              102 ST  119 123 110 120  73 108 653  711  Secondstriker  5�
 Morientes            106 ST  118 126 115 117  76 122 674  711  Finishing      5★WF/Right
 Di_Natale            104 ST  119 123 111 119  74 100 646  710  Secondstriker  5★WF/Right
 Richarlison          103 ST  116 123 110 122  82 116 669  709  Shooting       5★WF/Right
+Havertz              103 ST  115 119 117 120  76  97 644  706  Finishing      4★WF/Left
 David                102 ST  119 122 112 117  66 111 647  706  Secondstriker  5★WF/Right
 Messi                103 ST  112 121 118 121  55  86 613  705  Finishing      5★WF/Left
 Lewandowski          106 ST  115 128 111 118  76 122 670  705  Secondstriker  5★WF/Right
-Havertz              103 ST  112 119 117 120  76  97 641  700  Finishing      4★WF/Left
 Šuker                107 ST  115 126 107 118  66 106 638  699  Finishing      5★WF/Left
 Depay                105 ST  111 123 117 118  56 109 634  698  Secondstriker  4★WF/Right
 Taremi               103 ST  118 122 109 115  70 112 646  697  Secondstriker  5★WF/Right
@@ -33,7 +33,7 @@ Taremi               101 ST  116 119 105 113  66 108 627  682  Targetman      5�
 Mbappé               100 ST  116 117 100 116  50  91 590  681  Secondstriker  5★WF/Right
 Butragueño           105 ST  113 119 104 116  65  94 611  681  Shooting       5★WF/Right
 Son                  100 ST  115 118 110 111  67  92 613  680  Finishing      5★WF/Right
-Núñez                101 ST  118 118 102 112  66 109 625  680  Secondstriker  4★WF/Right
+Núñez                101 ST  118 118 102 112  66 115 631  680  Secondstriker  4★WF/Right
 Vlahović             104 ST  112 123 106 113  58 110 622  679  Secondstriker  4★WF/Left
 Hernández            103 ST  114 119  99 115  73  97 617  676  Finishing      4★WF/Right
 Owen                 101 ST  115 117  95 116  54  97 594  674  Finishing      5★WF/Right

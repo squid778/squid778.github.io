@@ -1,3 +1,4 @@
+Luís_Figo            109 RW  128 127 123 127  65 106 676  760  Agility        5★WF/Right
 Jairzinho            107 RW  125 126 116 125  64 101 657  742  Ballcontrol    5★WF/Right
 Raphinha             102 RW  124 120 112 125  65 100 646  730  Agility        4★WF/Left
 Ziyech               104 RW  114 121 123 123  75  93 649  718  Agility        4★WF/Left
@@ -20,6 +21,7 @@ Kramarić             100 RW  107 121 110 118  51 105 612  681  Ballcontrol    5
 Rodrygo              102 RW  116 113 100 116  50  80 575  677  Speed          5★WF/Right
 Mbeumo               100 RW  115 111 106 115  66  93 606  677  Ballcontrol    3★WF/Left
 Buendía              103 RW  108 112 115 117  77 102 631  677  Ballcontrol    4★WF/Right
+Weah                  99 RW  117 113 101 114  63  89 597  676  Speed          4★WF/Right
 Leckie                99 RW  120 110 100 113  73 107 623  676  Agility        5★WF/Right
 Shaqiri               99 RW  105 118 113 117  63  96 612  675  Agility        5★WF/Left
 Pulisic              100 RW  116 106 102 116  53  91 584  672  Speed          4★WF/Right

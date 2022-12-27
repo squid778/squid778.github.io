@@ -7,6 +7,7 @@ van_Dijk             105 CB  111  87 104 100 126 121 649  726  Tackling       3�
 van_Dijk             105 CB  111  87 104 100 126 121 649  726  Tackling       3★WF/Right
 Rüdiger              105 CB  113  78 102  94 125 122 634  726  Defending      3★WF/Right
 Koulibaly            106 CB  111  60  94  95 126 121 607  726  Marking        4★WF/Right
+Aké                  105 CB  110  86 102  99 124 118 639  716  Defending      3★WF/Left
 Koulibaly            104 CB  109  54  83  91 124 119 580  714  Tackling       3★WF/Right
 Akanji               103 CB  109  82 106 105 124 116 642  714  Defending      4★WF/Right
 Koeman               105 CB  105 110 118 106 125 117 681  710  Marking        5★WF/Right
@@ -31,6 +32,7 @@ Koundé               102 CB  106  67  93 100 119 115 600  688  Strength       3
 Córdoba              100 CB  106  81  86  94 119 114 600  688  Marking        3★WF/Right
 Córdoba              100 CB  106  81  86  94 119 114 600  688  Marking        3★WF/Right
 Alaba                103 CB  104  96 109 106 120 109 644  688  Tackling       4★WF/Left
+Hincapié              99 CB  104  66  95 102 119 110 596  684  Defending      3★WF/Left
 Carles_Puyol         101 CB   96  69  92  85 123 117 582  684  Defending      3★WF/Right
 Laporte              101 CB   93  80 106  97 124 113 613  682  Marking        3★WF/Left
 de_Ligt              103 CB  103  82  88  95 119 119 606  682  Defending      3★WF/Right
