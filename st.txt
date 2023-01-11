@@ -1,141 +1,149 @@
-Eusébio              109 ST  127 133 120 126  69 110 685  759  Finishing      5★WF/Right
-Ronaldo              107 ST  125 131 111 126  76 113 682  744  Shooting       5★WF/Right
-C._Ronaldo           106 ST  118 128 115 122  67 114 664  723  Finishing      5★WF/Right
-C._Ronaldo           106 ST  118 128 115 122  67 114 664  723  Finishing      5★WF/Right
-Keane                106 ST  120 124 118 120  75 112 669  722  Secondstriker  5★WF/Right
-Mané                 104 ST  120 120 112 124  70 110 656  720  Finishing      5★WF/Right
-Ronaldo              102 ST  119 123 110 120  73 108 653  711  Secondstriker  5★WF/Right
-Morientes            106 ST  118 126 115 117  76 122 674  711  Finishing      5★WF/Right
-Di_Natale            104 ST  119 123 111 119  74 100 646  710  Secondstriker  5★WF/Right
-Richarlison          103 ST  116 123 110 122  82 116 669  709  Shooting       5★WF/Right
-Havertz              103 ST  115 119 117 120  76  97 644  706  Finishing      4★WF/Left
-David                102 ST  119 122 112 117  66 111 647  706  Secondstriker  5★WF/Right
-Messi                103 ST  112 121 118 121  55  86 613  705  Finishing      5★WF/Left
-Lewandowski          106 ST  115 128 111 118  76 122 670  705  Secondstriker  5★WF/Right
-Šuker                107 ST  115 126 107 118  66 106 638  699  Finishing      5★WF/Left
-Depay                105 ST  111 123 117 118  56 109 634  698  Secondstriker  4★WF/Right
-Taremi               103 ST  118 122 109 115  70 112 646  697  Secondstriker  5★WF/Right
-Martínez             105 ST  113 122 108 120  75 120 658  696  Secondstriker  5★WF/Right
-Puskás               101 ST  112 124 114 116  68  94 628  694  Secondstriker  5★WF/Left
-Morata               105 ST  113 124 111 116  65 116 645  693  Targetman      5★WF/Right
-Morata               105 ST  113 124 111 116  65 116 645  693  Targetman      5★WF/Right
-van_Basten           107 ST  111 130 103 118  69 101 632  691  Secondstriker  5★WF/Right
-Suárez               105 ST  110 124 117 115  74 117 657  691  Targetman      5★WF/Right
-Embolo               101 ST  119 118 110 112  74 114 647  690  Secondstriker  4★WF/Right
-Kane                 106 ST  109 125 120 113  75 115 657  689  Shooting       5★WF/Right
-Kane                 106 ST  109 125 120 113  75 115 657  689  Shooting       5★WF/Right
-Gabriel_Jesus        102 ST  112 118 104 121  66 105 626  688  Shooting       4★WF/Right
-David                100 ST  117 117 107 115  56 106 618  688  Finishing      5★WF/Right
-van_Persie           107 ST  111 127 109 114  67 101 629  686  Targetman      4★WF/Left
-C._Ronaldo           105 ST  113 122 106 116  60 105 622  686  Shooting       5★WF/Right
-Lewandowski          104 ST  110 126 107 116  71 120 650  685  Targetman      5★WF/Right
-Taremi               101 ST  116 119 105 113  66 108 627  682  Targetman      5★WF/Right
-Mbappé               100 ST  116 117 100 116  50  91 590  681  Secondstriker  5★WF/Right
-Butragueño           105 ST  113 119 104 116  65  94 611  681  Shooting       5★WF/Right
-Son                  100 ST  115 118 110 111  67  92 613  680  Finishing      5★WF/Right
-Núñez                101 ST  118 118 102 112  66 115 631  680  Secondstriker  4★WF/Right
-Vlahović             104 ST  112 123 106 113  58 110 622  679  Secondstriker  4★WF/Left
-Hernández            103 ST  114 119  99 115  73  97 617  676  Finishing      4★WF/Right
-Owen                 101 ST  115 117  95 116  54  97 594  674  Finishing      5★WF/Right
-Klose                105 ST  112 125 101 110  68 112 628  670  Secondstriker  5★WF/Right
-Haaland              103 ST  115 123  92 112  69 117 628  669  Secondstriker  4★WF/Left
-Haaland              103 ST  115 123  92 112  69 117 628  669  Secondstriker  4★WF/Left
-Havertz               99 ST  110 113 111 112  71  92 609  668  Secondstriker  5★WF/Left
-Fernando_Torres       99 ST  116 120  92 112  63  99 602  668  Finishing      4★WF/Right
-Valencia              99 ST  118 112 100 109  69 110 618  666  Finishing      4★WF/Right
-Giroud               102 ST  105 120 110 113  68 115 631  666  Shooting       4★WF/Left
-Gouiri               103 ST  109 118 107 111  69 100 614  665  Targetman      4★WF/Right
-Diogo_Jota           102 ST  110 114 102 114  80 105 625  664  Shooting       5★WF/Right
-Müller               101 ST  106 121 102 114  62 109 614  663  Finishing      5★WF/Right
-Benzema              101 ST  105 119 107 113  59 104 607  662  Secondstriker  5★WF/Right
-Benzema              101 ST  105 119 107 113  59 104 607  662  Secondstriker  5★WF/Right
-Mitrović             105 ST  106 124 100 112  62 120 624  660  Secondstriker  5★WF/Right
-Iñaki_Williams       100 ST  118 113 101 105  62 111 610  660  Shooting       4★WF/Right
-Higuaín              100 ST  102 120 108 114  59 111 614  660  Finishing      5★WF/Right
-Gonçalo_Ramos         99 ST  112 112 100 111  65 113 613  658  Finishing      4★WF/Right
-C._Ronaldo           100 ST  110 117 100 110  53  99 589  657  Targetman      5★WF/Right
-Lewandowski          101 ST  105 120 102 111  57 112 607  654  Finishing      5★WF/Right
-Kudus                100 ST  114 104 100 111  78 101 608  654  Secondstriker  4★WF/Left
-Morata               102 ST  110 115 100 109  55 110 599  653  Shooting       5★WF/Right
-Khazri                99 ST  102 116 109 111  65  95 598  651  Shooting       4★WF/Right
-Raúl                 103 ST  105 113 101 112  67  94 592  648  Secondstriker  5★WF/Left
-Kane                 102 ST  103 117 114 105  69 109 617  647  Targetman      5★WF/Right
-Kane                 102 ST  103 117 114 105  69 109 617  647  Targetman      5★WF/Right
-Aubameyang           101 ST  112 114 101 104  60  91 582  647  Secondstriker  5★WF/Right
-Suárez                98 ST  101 117 105 111  68 111 613  646  Finishing      5★WF/Right
-Dia                  100 ST  111 114  96 107  54 108 590  646  Targetman      4★WF/Right
-João_Pedro           100 ST  101 112 109 111  67 105 605  645  Secondstriker  5★WF/Right
-Ibrahimović          101 ST  100 120 109 107  59 114 609  643  Finishing      5★WF/Right
-Vardy                103 ST  110 113  95 107  74 100 599  642  Targetman      4★WF/Right
-Kean                 102 ST  113 113  87 108  65 104 590  642  Secondstriker  4★WF/Right
-Ben_Yedder            98 ST  106 110 100 110  56  93 575  642  Shooting       5★WF/Right
-Hwang_Hee_Chan        98 ST  110 107 100 107  54  97 575  641  Targetman      4★WF/Right
-Campbell              99 ST  104 112 106 107  66 105 600  640  Finishing      4★WF/Left
-Aboubakar             99 ST  105 113 104 106  59 111 598  639  Secondstriker  5★WF/Right
-Suárez                99 ST  113 110  94 104  63 106 590  638  Targetman      4★WF/Right
-Zoller                99 ST  105 112  99 108  62  94 580  637  Finishing      4★WF/Right
-Tadić                102 ST   97 112 112 109  64  99 593  636  Finishing      4★WF/Left
-Larin                 99 ST  107 113  99 104  58 107 588  634  Targetman      4★WF/Right
-Dolberg               99 ST  102 115 101 107  55  95 575  634  Finishing      4★WF/Right
-Werner               101 ST  111 109  92 105  54  90 561  633  Shooting       5★WF/Right
-Schick               100 ST   99 113 100 111  61  99 583  633  Secondstriker  4★WF/Left
-Gomez                100 ST  107 117  92 105  61 112 594  633  Finishing      5★WF/Right
-Gomez                100 ST  107 117  92 105  61 112 594  633  Finishing      5★WF/Right
-Świderski             99 ST  103 114  98 107  59 100 581  632  Targetman      4★WF/Left
-Jiménez               99 ST  102 112 106 105  69 110 604  632  Targetman      4★WF/Right
-Morelos              102 ST  107 111  92 107  68 110 595  631  Finishing      4★WF/Right
-Griezmann             99 ST   99 109 106 109  71  95 589  631  Shooting       4★WF/Left
-Lacazette            100 ST   98 111 101 109  66 101 586  626  Secondstriker  5★WF/Right
-Mitrović             102 ST  103 115  93 105  59 117 592  624  Targetman      4★WF/Right
-Mitrović             102 ST  103 115  93 105  59 117 592  624  Targetman      4★WF/Right
-Núñez                 98 ST  108 106  97 101  61 108 581  621  Finishing      4★WF/Right
-Hwang_Ui_Jo           98 ST  105 109  94 104  69  94 575  621  Targetman      4★WF/Right
-Choupo-Moting         98 ST   96 110 103 108  62 102 581  621  Targetman      4★WF/Right
-Siebatcheu           100 ST  101 113  95 105  59 109 582  620  Shooting       4★WF/Right
-Eto'o                 98 ST  104 109  97 103  64  96 573  620  Targetman      4★WF/Right
-Caputo                99 ST  105 108  89 106  52  94 554  619  Targetman      4★WF/Right
-Wood                  99 ST  100 117  97 102  72 111 599  618  Shooting       5★WF/Right
-Mbappé                98 ST  108 107  87 104  45  83 534  618  Shooting       4★WF/Right
-Mbappé                98 ST  108 107  87 104  45  83 534  618  Shooting       4★WF/Right
-Depay                 98 ST  100 107 103 104  48  97 559  618  Finishing      4★WF/Right
-Vieri                101 ST  102 113  94 103  62 106 580  617  Finishing      5★WF/Left
-Richarlison           99 ST  103 105  96 105  72 105 586  617  Finishing      5★WF/Right
-Kangin_Lee            99 ST   99 106 103 105  51  81 545  617  Targetman      3★WF/Left
-Belotti              101 ST  102 116  87 105  63 111 584  617  Secondstriker  5★WF/Right
-Benzema               98 ST   96 111 101 105  54  98 565  614  Finishing      4★WF/Right
-Joselu                99 ST   99 115 100 100  50 110 574  613  Shooting       4★WF/Right
-Šeško                100 ST  104 109  95 100  69 106 583  612  Shooting       4★WF/Right
-Gómez                100 ST   96 114 102 102  60 109 583  612  Targetman      3★WF/Right
-Giménez               98 ST  108 109  93  97  63 103 573  612  Targetman      3★WF/Left
-En-Nesyri             99 ST  103 114  90 101  61 108 577  612  Secondstriker  4★WF/Left
-Origi                 99 ST  103 105  95 102  52 104 561  610  Shooting       4★WF/Right
-Mariano               98 ST  103 110  90 102  67 111 583  610  Secondstriker  4★WF/Right
-Larsson               98 ST  103 108  95 100  61  90 557  609  Finishing      4★WF/Right
-Isak                  99 ST  104 108  91 101  49  90 543  609  Finishing      5★WF/Right
-C._Ronaldo            98 ST  101 111  92 102  46  91 543  609  Secondstriker  4★WF/Right
-Ali                   99 ST  107 113  88  97  53 104 562  609  Shooting       5★WF/Right
-Trezeguet             98 ST  101 107  90 103  62  89 552  605  Targetman      4★WF/Right
-Moore                 99 ST  104 111  90  98  71 112 586  605  Secondstriker  4★WF/Right
-Boyé                  98 ST  102 104  92 102  72 108 580  604  Targetman      3★WF/Right
-Barrow               100 ST  105 102  92 100  47  85 531  604  Shooting       4★WF/Right
-Sadiq                 98 ST  109 106  85  97  53 100 550  603  Finishing      4★WF/Right
-Lukaku               101 ST  103 111  95  95  58 107 569  602  Secondstriker  4★WF/Left
-Iličić                98 ST   92 108 104 103  55  79 541  602  Finishing      4★WF/Left
-Vitinha               98 ST  107 107  80 100  57  93 544  601  Shooting       4★WF/Right
-Rush                  98 ST  100 108  91 101  61  99 560  601  Finishing      4★WF/Right
-Milik                101 ST   90 115  94 106  61  98 564  601  Targetman      4★WF/Left
-Gomis                 99 ST   91 118 103  98  64 109 583  599  Targetman      4★WF/Right
-Lewandowski           98 ST   94 112  87 105  51 105 554  597  Shooting       4★WF/Right
-Larin                 98 ST   98 106  91  98  55 103 551  589  Shooting       4★WF/Right
-Icardi                99 ST   90 110  89 105  56 100 550  589  Secondstriker  5★WF/Right
-En-Nesyri             98 ST  100 110  82  98  54 102 546  588  Shooting       4★WF/Left
-Giroud               100 ST   91 109  98  99  59 105 561  587  Finishing      4★WF/Left
-Džeko                 99 ST   85 108 100 104  62  99 558  586  Shooting       5★WF/Right
-Volland               98 ST   90 108  99  99  57 102 555  585  Finishing      4★WF/Left
-Modeste               98 ST   92 108  92 100  56 109 557  584  Secondstriker  4★WF/Right
-Weghorst             100 ST   91 110  91 100  71 108 571  583  Secondstriker  4★WF/Right
-Immobile              98 ST  100 108  81  97  55  96 537  583  Targetman      4★WF/Right
-Suárez                98 ST   90 107  94 100  57 100 548  581  Secondstriker  4★WF/Right
-Suárez                98 ST   90 107  94 100  57 100 548  581  Secondstriker  4★WF/Right
-Haller                99 ST   88 109  90 100  75 109 571  575  Secondstriker  4★WF/Right
-Cavani                99 ST   90 111  92  96  70 106 565  575  Finishing      5★WF/Right
+Álvarez              108 ST  127 129 120 129  89 114 708  761  Finishing      5★WF/Right
+Eusébio              109 ST  127 133 120 126  69 110 685  759  Finishing      5★WF/Right
+Richarlison          108 ST  122 131 115 130  87 123 708  750  Secondstriker  5★WF/Right
+Ronaldo              107 ST  125 131 111 126  76 113 682  744  Shooting       5★WF/Right
+C._Ronaldo           106 ST  118 128 115 122  67 114 664  723  Finishing      5★WF/Right
+C._Ronaldo           106 ST  118 128 115 122  67 114 664  723  Finishing      5★WF/Right
+Keane                106 ST  120 124 118 120  75 112 669  722  Secondstriker  5★WF/Right
+Mané                 104 ST  120 120 112 124  70 110 656  720  Finishing      5★WF/Right
+Ronaldo              102 ST  119 123 110 120  73 108 653  711  Secondstriker  5★WF/Right
+Morientes            106 ST  118 126 115 117  76 122 674  711  Finishing      5★WF/Right
+Di_Natale            104 ST  119 123 111 119  74 100 646  710  Secondstriker  5★WF/Right
+Richarlison          103 ST  116 123 110 122  82 116 669  709  Shooting       5★WF/Right
+Havertz              103 ST  115 119 117 120  76  97 644  706  Finishing      4★WF/Left
+David                102 ST  119 122 112 117  66 111 647  706  Secondstriker  5★WF/Right
+Messi                103 ST  112 121 118 121  55  86 613  705  Finishing      5★WF/Left
+Lewandowski          106 ST  115 128 111 118  76 122 670  705  Secondstriker  5★WF/Right
+Šuker                107 ST  115 126 107 118  66 106 638  699  Finishing      5★WF/Left
+Depay                105 ST  111 123 117 118  56 109 634  698  Secondstriker  4★WF/Right
+Taremi               103 ST  118 122 109 115  70 112 646  697  Secondstriker  5★WF/Right
+Martínez             105 ST  113 122 108 120  75 120 658  696  Secondstriker  5★WF/Right
+Puskás               101 ST  112 124 114 116  68  94 628  694  Secondstriker  5★WF/Left
+Morata               105 ST  113 124 111 116  65 116 645  693  Targetman      5★WF/Right
+Morata               105 ST  113 124 111 116  65 116 645  693  Targetman      5★WF/Right
+van_Basten           107 ST  111 130 103 118  69 101 632  691  Secondstriker  5★WF/Right
+Suárez               105 ST  110 124 117 115  74 117 657  691  Targetman      5★WF/Right
+Embolo               101 ST  119 118 110 112  74 114 647  690  Secondstriker  4★WF/Right
+Kane                 106 ST  109 125 120 113  75 115 657  689  Shooting       5★WF/Right
+Kane                 106 ST  109 125 120 113  75 115 657  689  Shooting       5★WF/Right
+Gabriel_Jesus        102 ST  112 118 104 121  66 105 626  688  Shooting       4★WF/Right
+David                100 ST  117 117 107 115  56 106 618  688  Finishing      5★WF/Right
+van_Persie           107 ST  111 127 109 114  67 101 629  686  Targetman      4★WF/Left
+C._Ronaldo           105 ST  113 122 106 116  60 105 622  686  Shooting       5★WF/Right
+Lewandowski          104 ST  110 126 107 116  71 120 650  685  Targetman      5★WF/Right
+Taremi               101 ST  116 119 105 113  66 108 627  682  Targetman      5★WF/Right
+Mbappé               100 ST  116 117 100 116  50  91 590  681  Secondstriker  5★WF/Right
+Butragueño           105 ST  113 119 104 116  65  94 611  681  Shooting       5★WF/Right
+Son                  100 ST  115 118 110 111  67  92 613  680  Finishing      5★WF/Right
+Núñez                101 ST  118 118 102 112  66 115 631  680  Secondstriker  4★WF/Right
+Lukaku               102 ST  111 119 109 115  62 114 630  680  Finishing      4★WF/Left
+Vlahović             104 ST  112 123 106 113  58 110 622  679  Secondstriker  4★WF/Left
+Hernández            103 ST  114 119  99 115  73  97 617  676  Finishing      4★WF/Right
+Owen                 101 ST  115 117  95 116  54  97 594  674  Finishing      5★WF/Right
+Klose                105 ST  112 125 101 110  68 112 628  670  Secondstriker  5★WF/Right
+Haaland              103 ST  115 123  92 112  69 117 628  669  Secondstriker  4★WF/Left
+Haaland              103 ST  115 123  92 112  69 117 628  669  Secondstriker  4★WF/Left
+Havertz               99 ST  110 113 111 112  71  92 609  668  Secondstriker  5★WF/Left
+Fernando_Torres       99 ST  116 120  92 112  63  99 602  668  Finishing      4★WF/Right
+Valencia              99 ST  118 112 100 109  69 110 618  666  Finishing      4★WF/Right
+Giroud               102 ST  105 120 110 113  68 115 631  666  Shooting       4★WF/Left
+Gouiri               103 ST  109 118 107 111  69 100 614  665  Targetman      4★WF/Right
+Diogo_Jota           102 ST  110 114 102 114  80 105 625  664  Shooting       5★WF/Right
+Müller               101 ST  106 121 102 114  62 109 614  663  Finishing      5★WF/Right
+Benzema              101 ST  105 119 107 113  59 104 607  662  Secondstriker  5★WF/Right
+Benzema              101 ST  105 119 107 113  59 104 607  662  Secondstriker  5★WF/Right
+Mitrović             105 ST  106 124 100 112  62 120 624  660  Secondstriker  5★WF/Right
+Iñaki_Williams       100 ST  118 113 101 105  62 111 610  660  Shooting       4★WF/Right
+Higuaín              100 ST  102 120 108 114  59 111 614  660  Finishing      5★WF/Right
+Gonçalo_Ramos         99 ST  112 112 100 111  65 113 613  658  Finishing      4★WF/Right
+C._Ronaldo           100 ST  110 117 100 110  53  99 589  657  Targetman      5★WF/Right
+Lewandowski          101 ST  105 120 102 111  57 112 607  654  Finishing      5★WF/Right
+Kudus                100 ST  114 104 100 111  78 101 608  654  Secondstriker  4★WF/Left
+Morata               102 ST  110 115 100 109  55 110 599  653  Shooting       5★WF/Right
+Khazri                99 ST  102 116 109 111  65  95 598  651  Shooting       4★WF/Right
+Petković              98 ST  107 109 112 107  63 106 604  649  Secondstriker  4★WF/Right
+Raúl                 103 ST  105 113 101 112  67  94 592  648  Secondstriker  5★WF/Left
+Kane                 102 ST  103 117 114 105  69 109 617  647  Targetman      5★WF/Right
+Kane                 102 ST  103 117 114 105  69 109 617  647  Targetman      5★WF/Right
+Azmoun                99 ST  105 113 104 110  66 108 606  647  Targetman      4★WF/Right
+Aubameyang           101 ST  112 114 101 104  60  91 582  647  Secondstriker  5★WF/Right
+Suárez                98 ST  101 117 105 111  68 111 613  646  Finishing      5★WF/Right
+Dia                  100 ST  111 114  96 107  54 108 590  646  Targetman      4★WF/Right
+Cavani               104 ST  100 125 105 108  81 116 635  646  Targetman      5★WF/Right
+João_Pedro           100 ST  101 112 109 111  67 105 605  645  Secondstriker  5★WF/Right
+Ibrahimović          101 ST  100 120 109 107  59 114 609  643  Finishing      5★WF/Right
+Vardy                103 ST  110 113  95 107  74 100 599  642  Targetman      4★WF/Right
+Kean                 102 ST  113 113  87 108  65 104 590  642  Secondstriker  4★WF/Right
+Ben_Yedder            98 ST  106 110 100 110  56  93 575  642  Shooting       5★WF/Right
+Hwang_Hee_Chan        98 ST  110 107 100 107  54  97 575  641  Targetman      4★WF/Right
+Campbell              99 ST  104 112 106 107  66 105 600  640  Finishing      4★WF/Left
+Aboubakar             99 ST  105 113 104 106  59 111 598  639  Secondstriker  5★WF/Right
+Suárez                99 ST  113 110  94 104  63 106 590  638  Targetman      4★WF/Right
+Zoller                99 ST  105 112  99 108  62  94 580  637  Finishing      4★WF/Right
+Tadić                102 ST   97 112 112 109  64  99 593  636  Finishing      4★WF/Left
+Larin                 99 ST  107 113  99 104  58 107 588  634  Targetman      4★WF/Right
+Dolberg               99 ST  102 115 101 107  55  95 575  634  Finishing      4★WF/Right
+Werner               101 ST  111 109  92 105  54  90 561  633  Shooting       5★WF/Right
+Schick               100 ST   99 113 100 111  61  99 583  633  Secondstriker  4★WF/Left
+Gomez                100 ST  107 117  92 105  61 112 594  633  Finishing      5★WF/Right
+Gomez                100 ST  107 117  92 105  61 112 594  633  Finishing      5★WF/Right
+Świderski             99 ST  103 114  98 107  59 100 581  632  Targetman      4★WF/Left
+Jiménez               99 ST  102 112 106 105  69 110 604  632  Targetman      4★WF/Right
+Weghorst             102 ST  100 120  99 106  79 123 627  631  Shooting       4★WF/Right
+Morelos              102 ST  107 111  92 107  68 110 595  631  Finishing      4★WF/Right
+Griezmann             99 ST   99 109 106 109  71  95 589  631  Shooting       4★WF/Left
+Lacazette            100 ST   98 111 101 109  66 101 586  626  Secondstriker  5★WF/Right
+Mitrović             102 ST  103 115  93 105  59 117 592  624  Targetman      4★WF/Right
+Mitrović             102 ST  103 115  93 105  59 117 592  624  Targetman      4★WF/Right
+Füllkrug             100 ST  104 116  98 101  60 111 590  624  Finishing      4★WF/Right
+Núñez                 98 ST  108 106  97 101  61 108 581  621  Finishing      4★WF/Right
+Hwang_Ui_Jo           98 ST  105 109  94 104  69  94 575  621  Targetman      4★WF/Right
+Choupo-Moting         98 ST   96 110 103 108  62 102 581  621  Targetman      4★WF/Right
+Siebatcheu           100 ST  101 113  95 105  59 109 582  620  Shooting       4★WF/Right
+Eto'o                 98 ST  104 109  97 103  64  96 573  620  Targetman      4★WF/Right
+Caputo                99 ST  105 108  89 106  52  94 554  619  Targetman      4★WF/Right
+Wood                  99 ST  100 117  97 102  72 111 599  618  Shooting       5★WF/Right
+Mbappé                98 ST  108 107  87 104  45  83 534  618  Shooting       4★WF/Right
+Mbappé                98 ST  108 107  87 104  45  83 534  618  Shooting       4★WF/Right
+Depay                 98 ST  100 107 103 104  48  97 559  618  Finishing      4★WF/Right
+Vieri                101 ST  102 113  94 103  62 106 580  617  Finishing      5★WF/Left
+Richarlison           99 ST  103 105  96 105  72 105 586  617  Finishing      5★WF/Right
+Kangin_Lee            99 ST   99 106 103 105  51  81 545  617  Targetman      3★WF/Left
+Belotti              101 ST  102 116  87 105  63 111 584  617  Secondstriker  5★WF/Right
+Benzema               98 ST   96 111 101 105  54  98 565  614  Finishing      4★WF/Right
+Joselu                99 ST   99 115 100 100  50 110 574  613  Shooting       4★WF/Right
+Šeško                100 ST  104 109  95 100  69 106 583  612  Shooting       4★WF/Right
+Gómez                100 ST   96 114 102 102  60 109 583  612  Targetman      3★WF/Right
+Giménez               98 ST  108 109  93  97  63 103 573  612  Targetman      3★WF/Left
+En-Nesyri             99 ST  103 114  90 101  61 108 577  612  Secondstriker  4★WF/Left
+Origi                 99 ST  103 105  95 102  52 104 561  610  Shooting       4★WF/Right
+Mariano               98 ST  103 110  90 102  67 111 583  610  Secondstriker  4★WF/Right
+Larsson               98 ST  103 108  95 100  61  90 557  609  Finishing      4★WF/Right
+Isak                  99 ST  104 108  91 101  49  90 543  609  Finishing      5★WF/Right
+C._Ronaldo            98 ST  101 111  92 102  46  91 543  609  Secondstriker  4★WF/Right
+Ali                   99 ST  107 113  88  97  53 104 562  609  Shooting       5★WF/Right
+Trezeguet             98 ST  101 107  90 103  62  89 552  605  Targetman      4★WF/Right
+Moore                 99 ST  104 111  90  98  71 112 586  605  Secondstriker  4★WF/Right
+Boyé                  98 ST  102 104  92 102  72 108 580  604  Targetman      3★WF/Right
+Barrow               100 ST  105 102  92 100  47  85 531  604  Shooting       4★WF/Right
+Sadiq                 98 ST  109 106  85  97  53 100 550  603  Finishing      4★WF/Right
+Lukaku               101 ST  103 111  95  95  58 107 569  602  Secondstriker  4★WF/Left
+Iličić                98 ST   92 108 104 103  55  79 541  602  Finishing      4★WF/Left
+Vitinha               98 ST  107 107  80 100  57  93 544  601  Shooting       4★WF/Right
+Rush                  98 ST  100 108  91 101  61  99 560  601  Finishing      4★WF/Right
+Milik                101 ST   90 115  94 106  61  98 564  601  Targetman      4★WF/Left
+Gomis                 99 ST   91 118 103  98  64 109 583  599  Targetman      4★WF/Right
+Lewandowski           98 ST   94 112  87 105  51 105 554  597  Shooting       4★WF/Right
+Larin                 98 ST   98 106  91  98  55 103 551  589  Shooting       4★WF/Right
+Icardi                99 ST   90 110  89 105  56 100 550  589  Secondstriker  5★WF/Right
+En-Nesyri             98 ST  100 110  82  98  54 102 546  588  Shooting       4★WF/Left
+Giroud               100 ST   91 109  98  99  59 105 561  587  Finishing      4★WF/Left
+Džeko                 99 ST   85 108 100 104  62  99 558  586  Shooting       5★WF/Right
+Volland               98 ST   90 108  99  99  57 102 555  585  Finishing      4★WF/Left
+Modeste               98 ST   92 108  92 100  56 109 557  584  Secondstriker  4★WF/Right
+Weghorst             100 ST   91 110  91 100  71 108 571  583  Secondstriker  4★WF/Right
+Immobile              98 ST  100 108  81  97  55  96 537  583  Targetman      4★WF/Right
+Suárez                98 ST   90 107  94 100  57 100 548  581  Secondstriker  4★WF/Right
+Suárez                98 ST   90 107  94 100  57 100 548  581  Secondstriker  4★WF/Right
+Haller                99 ST   88 109  90 100  75 109 571  575  Secondstriker  4★WF/Right
+Cavani                99 ST   90 111  92  96  70 106 565  575  Finishing      5★WF/Right
