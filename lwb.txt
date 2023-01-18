@@ -1,2 +1,4 @@
-Brehme               107 LWB 118  99 118 115 119 115 684  684  Balanced       5★WF/Left
-Marcos_Alonso        102 LWB  95 104 112 115 100 101 627  627  Reactions      4★WF/Left
+Brehme               107 LWB 118  99 118 115 119 115 684  684  Balanced       5★WF/Left
+Marcos_Alonso        102 LWB  95 104 112 115 100 101 627  627  Reactions      4★WF/Left
+Pellegrini            98 LWB 112  86 100 116 102  95 611  611  Pace           4★WF/Left
+Acuña                 98 LWB  91  90 101 110  92  93 577  577  Balanced       3★WF/Left

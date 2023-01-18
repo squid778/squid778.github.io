@@ -1,46 +1,53 @@
-Messi                108 RW  130 133 132 134  62  99 690  793  Agility        5★WF/Left
-Messi                108 RW  130 133 132 134  62  99 690  793  Agility        5★WF/Left
-Luís_Figo            109 RW  128 127 123 127  65 106 676  760  Agility        5★WF/Right
-Jairzinho            107 RW  125 126 116 125  64 101 657  742  Ballcontrol    5★WF/Right
-Saka                 103 RW  121 119 117 127  89  96 669  732  Agility        4★WF/Left
-Raphinha             102 RW  124 120 112 125  65 100 646  730  Agility        4★WF/Left
-Ziyech               104 RW  114 121 123 123  75  93 649  718  Agility        4★WF/Left
-Mbappé               103 RW  123 120 108 122  51  93 617  718  Agility        5★WF/Right
-Mbappé               103 RW  123 120 108 122  51  93 617  718  Agility        5★WF/Right
-Cole                 104 RW  117 118 119 122  67 101 644  715  Speed          5★WF/Right
-Dembélé              101 RW  118 118 111 123  53  93 616  711  Speed          5★WF/Left
-Lozano               102 RW  124 119 105 119  57  91 615  710  Agility        4★WF/Right
-Ferran_Torres        103 RW  116 120 114 122  59 101 632  710  Speed          4★WF/Right
-Garrincha            100 RW  117 116 117 119  55  80 604  705  Speed          4★WF/Right
-Ocampos              104 RW  114 120 113 119  87 112 665  699  Agility        4★WF/Right
-Foden                101 RW  111 116 112 124  69  90 622  698  Agility        4★WF/Left
-Sarr                  99 RW  126 114 100 115  45  93 593  696  Speed          4★WF/Right
-Salah                100 RW  117 116 105 120  56  90 604  695  Speed          5★WF/Left
-Di_María             102 RW  111 116 114 120  64  93 618  692  Agility        5★WF/Left
-Saka                 101 RW  117 110 110 118  85  91 631  690  Speed          4★WF/Left
-Bergwijn             102 RW  115 116 109 117  61  99 617  689  Ballcontrol    4★WF/Right
-Al_Haydos            100 RW  119 110 105 117  56  82 589  687  Speed          4★WF/Right
-Kramarić             100 RW  107 121 110 118  51 105 612  681  Ballcontrol    5★WF/Right
-Rodrygo              102 RW  116 113 100 116  50  80 575  677  Speed          5★WF/Right
-Mbeumo               100 RW  115 111 106 115  66  93 606  677  Ballcontrol    3★WF/Left
-Hwang_Hee_Chan        99 RW  114 114 103 116  53 103 603  677  Agility        4★WF/Right
-Buendía              103 RW  108 112 115 117  77 102 631  677  Ballcontrol    4★WF/Right
-Weah                  99 RW  117 113 101 114  63  89 597  676  Speed          4★WF/Right
-Leckie                99 RW  120 110 100 113  73 107 623  676  Agility        5★WF/Right
-Shaqiri               99 RW  105 118 113 117  63  96 612  675  Agility        5★WF/Left
-Pulisic              100 RW  116 106 102 116  53  91 584  672  Speed          4★WF/Right
-Pulisic              100 RW  116 106 102 116  53  91 584  672  Speed          4★WF/Right
-Müller               104 RW  100 121 118 115  71  96 621  669  Speed          5★WF/Right
-Bale                 100 RW  112 114 111 110  75  97 619  669  Agility        3★WF/Left
-Saelemaekers          98 RW  112 105 104 114  78  94 607  661  Agility        4★WF/Right
-Álvarez              100 RW  114 111 101 110  62  92 590  660  Agility        4★WF/Right
-Messi                 98 RW  106 111 108 112  41  70 548  655  Speed          4★WF/Left
-Jahanbakhsh          100 RW  108 113  99 112  62 100 594  652  Agility        4★WF/Right
-Trincão               98 RW  108 107 100 114  55  92 576  651  Agility        4★WF/Left
-Salah                 98 RW  107 109  99 112  54  84 565  646  Agility        4★WF/Left
-Sancho                98 RW  104 107 104 113  49  82 559  645  Ballcontrol    5★WF/Right
-Diatta                98 RW  118 101  91 108  60  91 569  644  Agility        4★WF/Right
-Berardi               98 RW  102 106 107 111  50  87 563  639  Speed          3★WF/Left
-Candreva              99 RW  100 107 106 110  75  79 577  633  Speed          4★WF/Right
-Zubkov                98 RW  115 108  92 101  38  81 535  632  Ballcontrol    4★WF/Left
-Honorat               98 RW  106 109  98 106  60  83 562  631  Agility        4★WF/Right
+Messi                108 RW  130 133 132 134  62  99 690  793  Agility        5★WF/Left
+Messi                108 RW  130 133 132 134  62  99 690  793  Agility        5★WF/Left
+Luís_Figo            109 RW  128 127 123 127  65 106 676  760  Agility        5★WF/Right
+Jairzinho            107 RW  125 126 116 125  64 101 657  742  Ballcontrol    5★WF/Right
+Kuyt                 107 RW  124 129 114 122  90 110 689  735  Ballcontrol    4★WF/Right
+Kulusevski           106 RW  119 125 118 126  87 112 687  733  Speed          4★WF/Left
+Kulusevski           106 RW  119 125 118 126  87 112 687  733  Speed          4★WF/Left
+Saka                 103 RW  121 119 117 127  89  96 669  732  Agility        4★WF/Left
+Zaniolo              105 RW  124 120 115 124  84 111 678  731  Speed          4★WF/Left
+Raphinha             102 RW  124 120 112 125  65 100 646  730  Agility        4★WF/Left
+Ziyech               104 RW  114 121 123 123  75  93 649  718  Agility        4★WF/Left
+Mbappé               103 RW  123 120 108 122  51  93 617  718  Agility        5★WF/Right
+Mbappé               103 RW  123 120 108 122  51  93 617  718  Agility        5★WF/Right
+Cole                 104 RW  117 118 119 122  67 101 644  715  Speed          5★WF/Right
+Dembélé              101 RW  118 118 111 123  53  93 616  711  Speed          5★WF/Left
+Lozano               102 RW  124 119 105 119  57  91 615  710  Agility        4★WF/Right
+Ferran_Torres        103 RW  116 120 114 122  59 101 632  710  Speed          4★WF/Right
+Garrincha            100 RW  117 116 117 119  55  80 604  705  Speed          4★WF/Right
+Best                 101 RW  116 121 110 121  73  89 630  705  Speed          5★WF/Right
+Ocampos              104 RW  114 120 113 119  87 112 665  699  Agility        4★WF/Right
+Foden                101 RW  111 116 112 124  69  90 622  698  Agility        4★WF/Left
+Sarr                  99 RW  126 114 100 115  45  93 593  696  Speed          4★WF/Right
+Salah                100 RW  117 116 105 120  56  90 604  695  Speed          5★WF/Left
+Di_María             102 RW  111 116 114 120  64  93 618  692  Agility        5★WF/Left
+Saka                 101 RW  117 110 110 118  85  91 631  690  Speed          4★WF/Left
+Man                   99 RW  123 112 101 115  67  99 617  689  Ballcontrol    3★WF/Left
+Bergwijn             102 RW  115 116 109 117  61  99 617  689  Ballcontrol    4★WF/Right
+Al_Haydos            100 RW  119 110 105 117  56  82 589  687  Speed          4★WF/Right
+Kramarić             100 RW  107 121 110 118  51 105 612  681  Ballcontrol    5★WF/Right
+Rodrygo              102 RW  116 113 100 116  50  80 575  677  Speed          5★WF/Right
+Mbeumo               100 RW  115 111 106 115  66  93 606  677  Ballcontrol    3★WF/Left
+Hwang_Hee_Chan        99 RW  114 114 103 116  53 103 603  677  Agility        4★WF/Right
+Buendía              103 RW  108 112 115 117  77 102 631  677  Ballcontrol    4★WF/Right
+Weah                  99 RW  117 113 101 114  63  89 597  676  Speed          4★WF/Right
+Leckie                99 RW  120 110 100 113  73 107 623  676  Agility        5★WF/Right
+Shaqiri               99 RW  105 118 113 117  63  96 612  675  Agility        5★WF/Left
+Pulisic              100 RW  116 106 102 116  53  91 584  672  Speed          4★WF/Right
+Pulisic              100 RW  116 106 102 116  53  91 584  672  Speed          4★WF/Right
+Müller               104 RW  100 121 118 115  71  96 621  669  Speed          5★WF/Right
+Bale                 100 RW  112 114 111 110  75  97 619  669  Agility        3★WF/Left
+Saelemaekers          98 RW  112 105 104 114  78  94 607  661  Agility        4★WF/Right
+Álvarez              100 RW  114 111 101 110  62  92 590  660  Agility        4★WF/Right
+Yarmolenko            98 RW  100 118 111 114  60  99 602  657  Agility        4★WF/Left
+Messi                 98 RW  106 111 108 112  41  70 548  655  Speed          4★WF/Left
+Jahanbakhsh          100 RW  108 113  99 112  62 100 594  652  Agility        4★WF/Right
+Trincão               98 RW  108 107 100 114  55  92 576  651  Agility        4★WF/Left
+Salah                 98 RW  107 109  99 112  54  84 565  646  Agility        4★WF/Left
+Sancho                98 RW  104 107 104 113  49  82 559  645  Ballcontrol    5★WF/Right
+Diatta                98 RW  118 101  91 108  60  91 569  644  Agility        4★WF/Right
+Berardi               98 RW  102 106 107 111  50  87 563  639  Speed          3★WF/Left
+Candreva              99 RW  100 107 106 110  75  79 577  633  Speed          4★WF/Right
+Zubkov                98 RW  115 108  92 101  38  81 535  632  Ballcontrol    4★WF/Left
+Honorat               98 RW  106 109  98 106  60  83 562  631  Agility        4★WF/Right
