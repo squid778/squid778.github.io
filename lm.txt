@@ -14,6 +14,7 @@ Sabitzer             106 LM  112 123 121 125  93 108 682  718  Longshots      4�
 Musiala              105 LM  116 120 111 125  91  95 658  713  Dribbling      4★WF/Right
 Ribéry               100 LM  111 118 119 122  58  80 608  703  Dribbling      5★WF/Right
 Sinisterra           100 LM  119 110 110 122  80  93 634  702  Counter        4★WF/Right
+Hložek               102 LM  120 116 112 117  61 103 629  702  Dribbling      4★WF/Right
 Pirès                100 LM  116 114 117 119  61  85 612  701  Dribbling      4★WF/Right
 Goodwin              101 LM  116 113 112 120  80 100 641  697  Longshots      4★WF/Left
 Martial              103 LM  117 113 107 121  59  94 611  696  Dribbling      4★WF/Right
@@ -27,8 +28,10 @@ Minamino              99 LM  114 112 107 121  58  93 605  689  Shortpassing   4�
 Sánchez              102 LM  110 112 115 120  70 103 630  687  Counter        5★WF/Right
 De_la_Cruz            99 LM  116 108 111 118  92  94 639  687  Counter        4★WF/Right
 Silas                102 LM  118 107 102 119  75  94 615  683  Longshots      3★WF/Right
+McLean                99 LM  113 111 114 116  92 106 652  683  Longshots      4★WF/Left
 Amiri                 99 LM  113 108 111 117  62  90 601  679  Longshots      4★WF/Left
 Kostić               101 LM  116 108 109 114  86  99 632  677  Dribbling      4★WF/Left
+Kerkez                98 LM  121  93 104 119  88  94 619  677  Shortpassing   3★WF/Left
 Saville               98 LM  109 110 112 117  94 103 645  674  Shortpassing   3★WF/Left
 Ansu_Fati             99 LM  119 105 100 115  49  80 568  673  Counter        4★WF/Right
 Rebić                102 LM  113 112 105 114  67 102 613  671  Longshots      5★WF/Right
@@ -43,6 +46,7 @@ Draxler               99 LM  103 107 110 115  77  91 603  653  Longshots      5�
 Perišić               99 LM  107 107 103 110  81 100 608  644  Shortpassing   5★WF/Left
 Gosens               100 LM  109 105 101 110  97 104 626  644  Longshots      4★WF/Left
 Cucurella             98 LM  107 100 106 112  91  95 611  644  Dribbling      4★WF/Left
+Rashford              98 LM  109 106  99 108  56  90 568  639  Dribbling      3★WF/Right
 Juanmi                98 LM  104 107  99 112  50  78 550  638  Longshots      3★WF/Right
 Terrier               98 LM  109 105  99 103  52  86 554  628  Longshots      3★WF/Right
 Rivaldo               99 LM   99 109 104 108  55  88 563  627  Counter        4★WF/Left

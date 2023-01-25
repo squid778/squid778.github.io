@@ -37,6 +37,8 @@ Musiala              105 LM  116 120 111 125  91  95 658  713  Dribbling      4�
 Gakpo                 99 LW  118 118 110 120  60 103 629  704  Ballcontrol    5★WF/Right
 Ribéry               100 LM  111 118 119 122  58  80 608  703  Dribbling      5★WF/Right
 Sinisterra           100 LM  119 110 110 122  80  93 634  702  Counter        4★WF/Right
+Hložek               102 LM  120 116 112 117  61 103 629  702  Dribbling      4★WF/Right
+Þorsteinsson          99 LW  123 111 106 119  65 100 624  701  Speed          4★WF/Right
 Pirès                100 LM  116 114 117 119  61  85 612  701  Dribbling      4★WF/Right
 Perišić              102 LW  111 121 114 121 102 107 676  699  Speed          5★WF/Right
 Ronaldinho            98 LW  118 114 111 118  47  93 601  697  Agility        4★WF/Right
@@ -60,10 +62,12 @@ Carrasco             103 LW  115 116 107 116  59  90 603  685  Agility        5�
 Benrahma             101 LW  111 114 111 119  60  86 601  685  Speed          4★WF/Right
 Boufal                99 LW  113 111 109 119  55  78 585  684  Ballcontrol    4★WF/Right
 Silas                102 LM  118 107 102 119  75  94 615  683  Longshots      3★WF/Right
+McLean                99 LM  113 111 114 116  92 106 652  683  Longshots      4★WF/Left
 Dani_Olmo             99 LW  100 119 115 123  69  83 609  680  Ballcontrol    4★WF/Right
 Amiri                 99 LM  113 108 111 117  62  90 601  679  Longshots      4★WF/Left
 Reus                 105 LW  103 120 114 119  64  88 608  678  Ballcontrol    5★WF/Right
 Kostić               101 LM  116 108 109 114  86  99 632  677  Dribbling      4★WF/Left
+Kerkez                98 LM  121  93 104 119  88  94 619  677  Shortpassing   3★WF/Left
 Golovin              101 LW  111 110 109 118  82  92 622  677  Speed          4★WF/Right
 Dempsey              100 LW  111 115 110 115  61 102 614  677  Agility        5★WF/Right
 Dempsey              100 LW  111 115 110 115  61 102 614  677  Agility        5★WF/Right
@@ -98,6 +102,7 @@ Cucurella             98 LM  107 100 106 112  91  95 611  644  Dribbling      4�
 Oyarzabal             98 LW  108 107 102 109  50  77 553  643  Speed          4★WF/Left
 Chiesa                98 LW  110 107  99 108  56  84 564  642  Agility        4★WF/Right
 Forsberg              99 LW   98 108 111 113  51  84 565  641  Ballcontrol    4★WF/Right
+Rashford              98 LM  109 106  99 108  56  90 568  639  Dribbling      3★WF/Right
 Juanmi                98 LM  104 107  99 112  50  78 550  638  Longshots      3★WF/Right
 Laudrup               99 LW  101 107 107 109  46  77 547  634  Speed          4★WF/Right
 Terrier               98 LM  109 105  99 103  52  86 554  628  Longshots      3★WF/Right

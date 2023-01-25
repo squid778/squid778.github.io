@@ -6,6 +6,7 @@ De_Bruyne            105 CF  110 124 126 122  85 100 667  714  Shooting       5�
 Becker               103 CF  123 111 102 113  63 104 616  685  Secondstriker  4★WF/Right
 Fernando_Torres       99 CF  116 117  98 116  63  99 609  679  Secondstriker  4★WF/Right
 Embolo                99 CF  113 110 104 107  72 108 614  654  Targetman      4★WF/Right
+Dybala               103 CF   98 112 113 116  57  80 576  653  Finishing      3★WF/Left
 Szoboszlai           100 CF  105 115 105 110  60  94 589  650  Targetman      4★WF/Right
 Mertens               98 CF  103 107 104 112  52  80 558  641  Shooting       4★WF/Right
 Cantona               99 CF   98 110 108 107  67 106 596  628  Finishing      4★WF/Right

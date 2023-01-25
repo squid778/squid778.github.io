@@ -1,5 +1,6 @@
 Desailly             109 CB  114  83 106 100 135 126 664  768  Marking        3★WF/Right
 Nesta                109 CB  113  70  94  95 134 121 627  762  Marking        4★WF/Right
+Maldini              107 CB  112  77 102  96 133 120 640  756  Strength       4★WF/Right
 Mascherano           107 CB  107  87 108 105 132 122 661  742  Defending      3★WF/Right
 Stones               108 CB  108  86 112 112 131 122 671  740  Defending      5★WF/Right
 Ferdinand            107 CB  110  70  94  93 130 118 615  740  Defending      4★WF/Right
@@ -40,6 +41,7 @@ Christensen          101 CB  100  62 100 100 123 109 594  692  Strength       3�
 Timber               100 CB  107  73  98 105 119 112 614  690  Strength       3★WF/Right
 Süle                 102 CB   99  74  99  83 123 116 594  690  Strength       3★WF/Right
 Romero               100 CB  101  70  86  95 122 116 590  690  Marking        3★WF/Right
+Matvienko            102 CB  107  89 103 105 119 111 634  690  Tackling       3★WF/Left
 van_Dijk             100 CB  100  80  96  95 122 116 609  688  Marking        3★WF/Right
 van_Dijk             100 CB  100  80  96  95 122 116 609  688  Marking        3★WF/Right
 Koundé               102 CB  106  67  93 100 119 115 600  688  Strength       3★WF/Right
@@ -51,6 +53,7 @@ Hincapié              99 CB  104  66  95 102 119 110 596  684  Defending      3
 Carles_Puyol         101 CB   96  69  92  85 123 117 582  684  Defending      3★WF/Right
 Laporte              101 CB   93  80 106  97 124 113 613  682  Marking        3★WF/Left
 de_Ligt              103 CB  103  82  88  95 119 119 606  682  Defending      3★WF/Right
+Wöber                100 CB  104  80  99  99 118 116 616  680  Strength       3★WF/Left
 Marquinhos            99 CB  102  70  99  96 119 110 596  680  Defending      3★WF/Right
 Kjær                 102 CB   92  80  98  92 124 116 602  680  Defending      3★WF/Right
 Castelletto          100 CB  101  62  85  97 119 115 579  678  Marking        3★WF/Right
@@ -133,3 +136,4 @@ Piqué                 99 CB   80  82  95  88 111 104 560  604  Defending      3
 Lindelöf              98 CB   83  71  97  93 109 103 556  602  Tackling       4★WF/Right
 Laporte               98 CB   83  62  87  81 109 105 527  602  Defending      3★WF/Left
 Sakho                100 CB   80  55  90  80 108 112 525  592  Defending      2★WF/Left
+Thiago_Silva          99 CB   63  69  91  86 108  98 515  558  Strength       3★WF/Right

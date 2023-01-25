@@ -21,6 +21,7 @@ Sterling             103 LW  120 118 113 123  61  86 621  717  Speed          4�
 Diatta               101 LW  129 113 105 120  69 100 636  716  Ballcontrol    4★WF/Right
 Rashford             104 LW  121 122 113 119  64 103 642  715  Speed          4★WF/Right
 Gakpo                 99 LW  118 118 110 120  60 103 629  704  Ballcontrol    5★WF/Right
+Þorsteinsson          99 LW  123 111 106 119  65 100 624  701  Speed          4★WF/Right
 Perišić              102 LW  111 121 114 121 102 107 676  699  Speed          5★WF/Right
 Ronaldinho            98 LW  118 114 111 118  47  93 601  697  Agility        4★WF/Right
 Vinícius_Jr.         100 LW  123 110 101 119  44  90 587  695  Ballcontrol    5★WF/Right

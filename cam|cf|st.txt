@@ -38,6 +38,7 @@ Ronaldo              102 ST  119 123 110 120  73 108 653  711  Secondstriker  5�
 Morientes            106 ST  118 126 115 117  76 122 674  711  Finishing      5★WF/Right
 Di_Natale            104 ST  119 123 111 119  74 100 646  710  Secondstriker  5★WF/Right
 Richarlison          103 ST  116 123 110 122  82 116 669  709  Shooting       5★WF/Right
+Ødegaard             104 CAM 113 114 123 123  86  95 654  709  Dribbling      5★WF/Left
 Bruno_Fernandes      105 CAM 108 125 124 122  92 103 674  709  Dribbling      4★WF/Right
 Haaland              106 ST  123 126 103 116  75 123 666  707  Shooting       4★WF/Left
 Havertz              103 ST  115 119 117 120  76  97 644  706  Finishing      4★WF/Left
@@ -63,12 +64,13 @@ Rafa                 100 CAM 119 110 107 119  68  81 604  693  Dribbling      4�
 Morata               105 ST  113 124 111 116  65 116 645  693  Targetman      5★WF/Right
 Morata               105 ST  113 124 111 116  65 116 645  693  Targetman      5★WF/Right
 Kamada               103 CAM 104 117 120 124  71  90 626  693  Dribbling      4★WF/Right
+Ibrahimović          106 ST  111 127 120 112  69 124 663  693  Secondstriker  5★WF/Right
 Iago_Aspas           103 ST  111 123 111 118  64  96 623  692  Finishing      4★WF/Left
 Cruyff               101 CAM 112 117 113 119  60 102 623  692  Longshots      5★WF/Right
 van_Basten           107 ST  111 130 103 118  69 101 632  691  Secondstriker  5★WF/Right
 Suárez               105 ST  110 124 117 115  74 117 657  691  Targetman      5★WF/Right
+Larsson              107 ST  115 124 105 116  70 106 636  691  Shooting       5★WF/Right
 Embolo               101 ST  119 118 110 112  74 114 647  690  Secondstriker  4★WF/Right
-Malinovskyi          103 CAM 103 124 123 118  86 108 662  689  Dribbling      4★WF/Left
 Kane                 106 ST  109 125 120 113  75 115 657  689  Shooting       5★WF/Right
 Kane                 106 ST  109 125 120 113  75 115 657  689  Shooting       5★WF/Right
 Gabriel_Jesus        102 ST  112 118 104 121  66 105 626  688  Shooting       4★WF/Right
@@ -76,6 +78,7 @@ David                100 ST  117 117 107 115  56 106 618  688  Finishing      5�
 Immobile             105 ST  115 126 103 114  64 108 630  687  Secondstriker  4★WF/Right
 van_Persie           107 ST  111 127 109 114  67 101 629  686  Targetman      4★WF/Left
 C._Ronaldo           105 ST  113 122 106 116  60 105 622  686  Shooting       5★WF/Right
+Malinovskyi          103 CAM 103 121 122 118  86 108 658  685  Dribbling      4★WF/Left
 Lewandowski          104 ST  110 126 107 116  71 120 650  685  Targetman      5★WF/Right
 Becker               103 CF  123 111 102 113  63 104 616  685  Secondstriker  4★WF/Right
 Tadić                103 CAM 102 120 119 120  66 100 627  683  Counter        4★WF/Left
@@ -118,12 +121,14 @@ Higuaín              100 ST  102 120 108 114  59 111 614  660  Finishing      5
 Zidane                98 CAM 102 115 117 111  82  95 622  658  Shortpassing   5★WF/Right
 Gonçalo_Ramos         99 ST  112 112 100 111  65 113 613  658  Finishing      4★WF/Right
 Ivanušec              99 CAM 107 107 106 115  76  96 607  657  Dribbling      4★WF/Right
+Gregoritsch          102 ST  102 120 111 111  74 106 624  657  Finishing      4★WF/Left
 Fábio_Vieira         103 CAM 103 112 113 113  60  80 581  657  Counter        4★WF/Left
 C._Ronaldo           100 ST  110 117 100 110  53  99 589  657  Targetman      5★WF/Right
 Lewandowski          101 ST  105 120 102 111  57 112 607  654  Finishing      5★WF/Right
 Kudus                100 ST  114 104 100 111  78 101 608  654  Secondstriker  4★WF/Left
 Embolo                99 CF  113 110 104 107  72 108 614  654  Targetman      4★WF/Right
 Morata               102 ST  110 115 100 109  55 110 599  653  Shooting       5★WF/Right
+Dybala               103 CF   98 112 113 116  57  80 576  653  Finishing      3★WF/Left
 Kökçü                101 CAM 100 109 113 115  76  95 608  652  Longshots      5★WF/Right
 Khazri                99 ST  102 116 109 111  65  95 598  651  Shooting       4★WF/Right
 Szoboszlai           100 CF  105 115 105 110  60  94 589  650  Targetman      4★WF/Right
@@ -228,9 +233,11 @@ Vitinha               98 ST  107 107  80 100  57  93 544  601  Shooting       4�
 Rush                  98 ST  100 108  91 101  61  99 560  601  Finishing      4★WF/Right
 Milik                101 ST   90 115  94 106  61  98 564  601  Targetman      4★WF/Left
 Gomis                 99 ST   91 118 103  98  64 109 583  599  Targetman      4★WF/Right
+Szalai                99 ST  100 116  96  93  69 107 581  598  Targetman      3★WF/Right
 Lewandowski           98 ST   94 112  87 105  51 105 554  597  Shooting       4★WF/Right
 Guðjohnsen            98 ST   97 113  90 100  66 116 582  597  Finishing      4★WF/Left
 Luis_Alberto          98 CAM  82 103 111 106  70  70 542  590  Longshots      3★WF/Right
+Osimhen               98 ST  105 103  84  96  54 100 542  589  Shooting       4★WF/Right
 Larin                 98 ST   98 106  91  98  55 103 551  589  Shooting       4★WF/Right
 Icardi                99 ST   90 110  89 105  56 100 550  589  Secondstriker  5★WF/Right
 En-Nesyri             98 ST  100 110  82  98  54 102 546  588  Shooting       4★WF/Left

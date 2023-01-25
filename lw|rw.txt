@@ -7,6 +7,8 @@ Ronaldinho           107 LW  124 125 121 128  50 107 655  750  Speed          5�
 Mané                 105 LW  127 122 115 127  66 108 665  745  Speed          5★WF/Right
 Mané                 105 LW  127 122 115 127  66 108 665  745  Speed          5★WF/Right
 Barnes               107 LW  126 125 119 124  55 109 658  744  Speed          5★WF/Left
+Chiesa               106 RW  125 127 114 126  75 103 670  743  Ballcontrol    4★WF/Right
+Chiesa               106 RW  125 127 114 126  75 103 670  743  Ballcontrol    4★WF/Right
 Mbappé               106 LW  128 126 112 124  60 101 651  742  Agility        5★WF/Right
 Mbappé               106 LW  128 126 112 124  60 101 651  742  Agility        5★WF/Right
 Jairzinho            107 RW  125 126 116 125  64 101 657  742  Ballcontrol    5★WF/Right
@@ -40,6 +42,7 @@ Ferran_Torres        103 RW  116 120 114 122  59 101 632  710  Speed          4�
 Garrincha            100 RW  117 116 117 119  55  80 604  705  Speed          4★WF/Right
 Best                 101 RW  116 121 110 121  73  89 630  705  Speed          5★WF/Right
 Gakpo                 99 LW  118 118 110 120  60 103 629  704  Ballcontrol    5★WF/Right
+Þorsteinsson          99 LW  123 111 106 119  65 100 624  701  Speed          4★WF/Right
 Perišić              102 LW  111 121 114 121 102 107 676  699  Speed          5★WF/Right
 Ocampos              104 RW  114 120 113 119  87 112 665  699  Agility        4★WF/Right
 Foden                101 RW  111 116 112 124  69  90 622  698  Agility        4★WF/Left
@@ -51,6 +54,7 @@ Msakni               102 LW  112 117 110 122  67  90 618  695  Agility        4�
 Di_María             102 RW  111 116 114 120  64  93 618  692  Agility        5★WF/Left
 Al_Dawsari           100 LW  116 113 109 119  69 103 629  692  Speed          5★WF/Right
 Damsgaard             99 LW  119 109 106 119  64  92 609  691  Speed          4★WF/Right
+Sørloth              103 RW  118 121 107 113  65 113 637  690  Ballcontrol    5★WF/Left
 Saka                 101 RW  117 110 110 118  85  91 631  690  Speed          4★WF/Left
 Sané                 103 LW  115 116 109 117  60  97 614  689  Agility        4★WF/Left
 Man                   99 RW  123 112 101 115  67  99 617  689  Ballcontrol    3★WF/Left

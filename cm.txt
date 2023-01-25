@@ -2,6 +2,7 @@ Keane                109 CM  112 114 131 121 124 125 727  727  Vision         4�
 Bellingham           108 CM  117 116 128 128 117 121 727  727  Longpassing    5★WF/Right
 Modrić               108 CM  115 121 132 131 113 109 721  721  Vision         5★WF/Right
 Schweinsteiger       107 CM  109 116 130 116 117 116 704  704  Vision         4★WF/Right
+Barella              106 CM  113 109 126 128 112 114 702  702  Interceptions  4★WF/Right
 Verón                107 CM  110 116 130 115 110 111 692  692  Vision         4★WF/Right
 Xavi                 109 CM  115 116 137 129 100  93 690  690  Longpassing    4★WF/Right
 Valverde             105 CM  116 108 124 116 112 114 690  690  Vision         4★WF/Right
@@ -26,11 +27,14 @@ Guendouzi            102 CM  106 102 122 113 110 111 664  664  Vision         3�
 Gerrard              105 CM  106 115 125 110 101 107 664  664  Vision         4★WF/Right
 Rabiot               101 CM  104 104 121 113 111 110 663  663  Longpassing    4★WF/Left
 Renato_Sanches       102 CM  111 103 117 115 100 115 661  661  Vision         5★WF/Right
+Marin                 98 CM  102 116 122 113 103 105 661  661  Longpassing    4★WF/Right
 Pogba                103 CM  100 113 124 114  94 115 660  660  Longpassing    5★WF/Right
+Zinchenko            104 CM  101 104 124 115 114 101 659  659  Longpassing    5★WF/Left
 Stepanenko           101 CM  106 105 116 106 113 113 659  659  Longpassing    3★WF/Left
 Koke                 104 CM  104 108 122 113 107 105 659  659  Vision         4★WF/Right
 Herrera              102 CM   97 108 122 111 108 113 659  659  Interceptions  4★WF/Right
 Bentancur            102 CM  104  99 123 113 112 108 659  659  Longpassing    4★WF/Right
+Berge                101 CM  100 104 119 107 112 116 658  658  Vision         3★WF/Right
 Sow                  100 CM  105 101 119 116 107 109 657  657  Vision         4★WF/Right
 Gullit                99 CM  110 112 117 110 101 107 657  657  Longpassing    5★WF/Right
 Zambo_Anguissa        99 CM  104  99 114 116 109 114 656  656  Interceptions  3★WF/Right

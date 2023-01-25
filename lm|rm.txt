@@ -26,6 +26,7 @@ Antony               103 RM  123 112 111 121  59  91 617  711  Dribbling      4�
 Mbeumo               101 RM  119 116 112 120  69 102 638  706  Dribbling      4★WF/Left
 Ribéry               100 LM  111 118 119 122  58  80 608  703  Dribbling      5★WF/Right
 Sinisterra           100 LM  119 110 110 122  80  93 634  702  Counter        4★WF/Right
+Hložek               102 LM  120 116 112 117  61 103 629  702  Dribbling      4★WF/Right
 Pirès                100 LM  116 114 117 119  61  85 612  701  Dribbling      4★WF/Right
 Jahanbakhsh          102 RM  119 116 111 118  68 103 635  701  Dribbling      5★WF/Right
 Goodwin              101 LM  116 113 112 120  80 100 641  697  Longshots      4★WF/Left
@@ -46,10 +47,12 @@ De_Arrascaeta         99 RM  112 114 116 116  61  81 600  686  Longshots      4�
 Cuadrado             103 RM  116 105 107 121  96  98 643  686  Counter        4★WF/Right
 Ziyech               103 RM  108 112 119 119  71  84 613  685  Dribbling      4★WF/Left
 Silas                102 LM  118 107 102 119  75  94 615  683  Longshots      3★WF/Right
+McLean                99 LM  113 111 114 116  92 106 652  683  Longshots      4★WF/Left
 Doan                  98 RM  115 107 109 118  65  79 593  682  Longshots      4★WF/Left
 Raphinha             100 RM  118 107 104 117  65  92 603  681  Longshots      5★WF/Left
 Amiri                 99 LM  113 108 111 117  62  90 601  679  Longshots      4★WF/Left
 Kostić               101 LM  116 108 109 114  86  99 632  677  Dribbling      4★WF/Left
+Kerkez                98 LM  121  93 104 119  88  94 619  677  Shortpassing   3★WF/Left
 Junior_Messias        99 RM  117 105 108 115  60  80 585  677  Longshots      3★WF/Left
 Hofmann               99 RM  106 111 116 119  84  93 629  677  Dribbling      5★WF/Right
 Tsygankov             99 RM  114 105 111 116  68  80 594  676  Shortpassing   5★WF/Left
@@ -59,6 +62,7 @@ Hazard               102 RM  109 108 112 118  74  88 609  674  Dribbling      5�
 Ayew                  99 RM  111 110 107 117  74 101 620  673  Shortpassing   4★WF/Right
 Ansu_Fati             99 LM  119 105 100 115  49  80 568  673  Counter        4★WF/Right
 Rebić                102 LM  113 112 105 114  67 102 613  671  Longshots      5★WF/Right
+Bolla                 98 RM  115 104 107 115  96  98 635  671  Shortpassing   3★WF/Right
 Berardi               98 RM  106 111 111 116  54  92 590  666  Longshots      4★WF/Left
 Insigne               99 LM  110 106 109 115  56  70 566  665  Longshots      4★WF/Right
 Insigne               99 LM  110 106 109 115  56  70 566  665  Longshots      4★WF/Right
@@ -82,6 +86,7 @@ Perišić               99 LM  107 107 103 110  81 100 608  644  Shortpassing   
 Gosens               100 LM  109 105 101 110  97 104 626  644  Longshots      4★WF/Left
 Cucurella             98 LM  107 100 106 112  91  95 611  644  Dribbling      4★WF/Left
 El_Ghazi              98 RM  102 110 103 112  59  94 580  641  Longshots      5★WF/Right
+Rashford              98 LM  109 106  99 108  56  90 568  639  Dribbling      3★WF/Right
 Gnabry                98 RM  106 105 100 111  53  81 556  639  Dribbling      4★WF/Right
 Juanmi                98 LM  104 107  99 112  50  78 550  638  Longshots      3★WF/Right
 Terrier               98 LM  109 105  99 103  52  86 554  628  Longshots      3★WF/Right

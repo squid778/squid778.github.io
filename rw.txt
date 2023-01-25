@@ -1,6 +1,8 @@
 Messi                108 RW  130 133 132 134  62  99 690  793  Agility        5★WF/Left
 Messi                108 RW  130 133 132 134  62  99 690  793  Agility        5★WF/Left
 Luís_Figo            109 RW  128 127 123 127  65 106 676  760  Agility        5★WF/Right
+Chiesa               106 RW  125 127 114 126  75 103 670  743  Ballcontrol    4★WF/Right
+Chiesa               106 RW  125 127 114 126  75 103 670  743  Ballcontrol    4★WF/Right
 Jairzinho            107 RW  125 126 116 125  64 101 657  742  Ballcontrol    5★WF/Right
 Kuyt                 107 RW  124 129 114 122  90 110 689  735  Ballcontrol    4★WF/Right
 Kulusevski           106 RW  119 125 118 126  87 112 687  733  Speed          4★WF/Left
@@ -22,6 +24,7 @@ Foden                101 RW  111 116 112 124  69  90 622  698  Agility        4�
 Sarr                  99 RW  126 114 100 115  45  93 593  696  Speed          4★WF/Right
 Salah                100 RW  117 116 105 120  56  90 604  695  Speed          5★WF/Left
 Di_María             102 RW  111 116 114 120  64  93 618  692  Agility        5★WF/Left
+Sørloth              103 RW  118 121 107 113  65 113 637  690  Ballcontrol    5★WF/Left
 Saka                 101 RW  117 110 110 118  85  91 631  690  Speed          4★WF/Left
 Man                   99 RW  123 112 101 115  67  99 617  689  Ballcontrol    3★WF/Left
 Bergwijn             102 RW  115 116 109 117  61  99 617  689  Ballcontrol    4★WF/Right

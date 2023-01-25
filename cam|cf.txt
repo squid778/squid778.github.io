@@ -19,6 +19,7 @@ Griezmann            103 CAM 112 124 121 123  75 103 658  715  Counter        4�
 De_Bruyne            105 CF  110 124 126 122  85 100 667  714  Shooting       5★WF/Right
 De_Bruyne            105 CF  110 124 126 122  85 100 667  714  Shooting       5★WF/Right
 Cruyff               101 CAM 114 120 118 123  62  91 628  712  Dribbling      5★WF/Right
+Ødegaard             104 CAM 113 114 123 123  86  95 654  709  Dribbling      5★WF/Left
 Bruno_Fernandes      105 CAM 108 125 124 122  92 103 674  709  Dribbling      4★WF/Right
 Kaká                 101 CAM 114 116 118 120  59  88 615  702  Dribbling      4★WF/Right
 Dybala               104 CAM 107 120 119 124  58  81 609  701  Longshots      4★WF/Left
@@ -30,7 +31,7 @@ McGinn               104 CAM 112 117 115 119  92 109 664  694  Shortpassing   3�
 Rafa                 100 CAM 119 110 107 119  68  81 604  693  Dribbling      4★WF/Right
 Kamada               103 CAM 104 117 120 124  71  90 626  693  Dribbling      4★WF/Right
 Cruyff               101 CAM 112 117 113 119  60 102 623  692  Longshots      5★WF/Right
-Malinovskyi          103 CAM 103 124 123 118  86 108 662  689  Dribbling      4★WF/Left
+Malinovskyi          103 CAM 103 121 122 118  86 108 658  685  Dribbling      4★WF/Left
 Becker               103 CF  123 111 102 113  63 104 616  685  Secondstriker  4★WF/Right
 Tadić                103 CAM 102 120 119 120  66 100 627  683  Counter        4★WF/Left
 Reyna                101 CAM 108 112 114 120  63 100 617  682  Dribbling      4★WF/Right
@@ -45,6 +46,7 @@ Zidane                98 CAM 102 115 117 111  82  95 622  658  Shortpassing   5�
 Ivanušec              99 CAM 107 107 106 115  76  96 607  657  Dribbling      4★WF/Right
 Fábio_Vieira         103 CAM 103 112 113 113  60  80 581  657  Counter        4★WF/Left
 Embolo                99 CF  113 110 104 107  72 108 614  654  Targetman      4★WF/Right
+Dybala               103 CF   98 112 113 116  57  80 576  653  Finishing      3★WF/Left
 Kökçü                101 CAM 100 109 113 115  76  95 608  652  Longshots      5★WF/Right
 Szoboszlai           100 CF  105 115 105 110  60  94 589  650  Targetman      4★WF/Right
 Ødegaard              98 CAM 100 108 114 114  76  80 592  650  Counter        4★WF/Left

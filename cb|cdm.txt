@@ -1,5 +1,6 @@
 Desailly             109 CB  114  83 106 100 135 126 664  768  Marking        3★WF/Right
 Nesta                109 CB  113  70  94  95 134 121 627  762  Marking        4★WF/Right
+Maldini              107 CB  112  77 102  96 133 120 640  756  Strength       4★WF/Right
 Mascherano           107 CB  107  87 108 105 132 122 661  742  Defending      3★WF/Right
 Stones               108 CB  108  86 112 112 131 122 671  740  Defending      5★WF/Right
 Ferdinand            107 CB  110  70  94  93 130 118 615  740  Defending      4★WF/Right
@@ -43,6 +44,7 @@ Xabi_Alonso          107 CDM 100 106 126 115 125 118 690  690  Interceptions  5�
 Timber               100 CB  107  73  98 105 119 112 614  690  Strength       3★WF/Right
 Süle                 102 CB   99  74  99  83 123 116 594  690  Strength       3★WF/Right
 Romero               100 CB  101  70  86  95 122 116 590  690  Marking        3★WF/Right
+Matvienko            102 CB  107  89 103 105 119 111 634  690  Tackling       3★WF/Left
 van_Dijk             100 CB  100  80  96  95 122 116 609  688  Marking        3★WF/Right
 van_Dijk             100 CB  100  80  96  95 122 116 609  688  Marking        3★WF/Right
 Koundé               102 CB  106  67  93 100 119 115 600  688  Strength       3★WF/Right
@@ -55,6 +57,8 @@ Carles_Puyol         101 CB   96  69  92  85 123 117 582  684  Defending      3�
 Laporte              101 CB   93  80 106  97 124 113 613  682  Marking        3★WF/Left
 de_Ligt              103 CB  103  82  88  95 119 119 606  682  Defending      3★WF/Right
 Petit                105 CDM 101 105 118 112 126 119 681  681  Holding        4★WF/Left
+Wöber                100 CB  104  80  99  99 118 116 616  680  Strength       3★WF/Left
+McTominay            103 CDM 103 110 118 111 120 118 680  680  Holding        4★WF/Right
 Marquinhos            99 CB  102  70  99  96 119 110 596  680  Defending      3★WF/Right
 Kjær                 102 CB   92  80  98  92 124 116 602  680  Defending      3★WF/Right
 Fernández            101 CDM 100 108 123 118 116 113 678  678  Interceptions  4★WF/Right
@@ -111,6 +115,7 @@ Moreno                99 CB   87  79  99  98 119 109 591  650  Strength       4�
 Goldson              102 CB   97  78  95  94 114 114 592  650  Strength       3★WF/Right
 Pepe                  98 CB  106  87  87  85 109 113 587  648  Strength       3★WF/Right
 Koundé                98 CB  100  59  85  92 112 104 552  648  Defending      3★WF/Right
+Davis                100 CDM  88 101 123 115 115 105 647  647  Interceptions  3★WF/Right
 Tonali               104 CDM 107  95 117 110 109 108 646  646  Longpassing    4★WF/Right
 Mepham                98 CB   91  69  91  95 116 109 571  646  Tackling       3★WF/Right
 Kelly                 98 CB  105  73  93 100 109 106 586  646  Marking        3★WF/Left
@@ -136,6 +141,7 @@ Adams                 99 CDM 105  90 111 110 109 108 633  633  Holding        3�
 Süle                 100 CB   88  64  86  74 114 106 532  632  Tackling       3★WF/Right
 Bartra                98 CB   92  81  99  98 112 105 587  632  Tackling       3★WF/Right
 Romagnoli             98 CB   89  60  80  88 113 105 535  630  Strength       3★WF/Left
+Král                  99 CDM 103  98 110 107 104 108 630  630  Holding        3★WF/Right
 Delaney              102 CDM 100  97 107 104 113 109 630  630  Holding        4★WF/Left
 Bentaleb              99 CDM  93  99 115 110 105 108 630  630  Holding        3★WF/Left
 Tchouaméni            98 CDM  98  93 108 110 108 111 628  628  Holding        3★WF/Right
@@ -176,4 +182,5 @@ Phillips              99 CDM  87  85 105 100 104 106 587  587  Interceptions  3�
 Locatelli             98 CDM  84  96 108 101 102  95 586  586  Holding        4★WF/Right
 Rúben_Neves           98 CDM  80  96 110 102  98  96 582  582  Holding        4★WF/Right
 Florentino            98 CDM  93  75  99 100 106 102 575  575  Interceptions  3★WF/Right
+Thiago_Silva          99 CB   63  69  91  86 108  98 515  558  Strength       3★WF/Right
 Casemiro              99 CDM  75  86  94  87 103 105 550  550  Interceptions  3★WF/Right

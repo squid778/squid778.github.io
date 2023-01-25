@@ -16,6 +16,7 @@ Livaković             98 GK   74  19  57  61  23  83 317  317  Handling       3
 Gulácsi              105 GK   69  20  51  60  26  91 317  317  Handling       2★WF/Right
 Lloris                99 GK   80  21  58  57  21  78 315  315  Reflexes       3★WF/Left
 Dudek                107 GK   78  17  48  63  22  86 314  314  Reflexes       3★WF/Left
+Sail                 101 GK   72  20  46  66  18  91 313  313  Reflexes       2★WF/Right
 Borjan                99 GK   63  23  53  57  25  92 313  313  Number1        3★WF/Right
 Szczęsny             105 GK   73  21  51  60  19  88 312  312  Number1        3★WF/Right
 Maignan              100 GK   69  16  58  62  23  84 312  312  Reflexes       4★WF/Right

@@ -30,9 +30,11 @@ Martínez             105 ST  113 122 108 120  75 120 658  696  Secondstriker  5
 Puskás               101 ST  112 124 114 116  68  94 628  694  Secondstriker  5★WF/Left
 Morata               105 ST  113 124 111 116  65 116 645  693  Targetman      5★WF/Right
 Morata               105 ST  113 124 111 116  65 116 645  693  Targetman      5★WF/Right
+Ibrahimović          106 ST  111 127 120 112  69 124 663  693  Secondstriker  5★WF/Right
 Iago_Aspas           103 ST  111 123 111 118  64  96 623  692  Finishing      4★WF/Left
 van_Basten           107 ST  111 130 103 118  69 101 632  691  Secondstriker  5★WF/Right
 Suárez               105 ST  110 124 117 115  74 117 657  691  Targetman      5★WF/Right
+Larsson              107 ST  115 124 105 116  70 106 636  691  Shooting       5★WF/Right
 Embolo               101 ST  119 118 110 112  74 114 647  690  Secondstriker  4★WF/Right
 Kane                 106 ST  109 125 120 113  75 115 657  689  Shooting       5★WF/Right
 Kane                 106 ST  109 125 120 113  75 115 657  689  Shooting       5★WF/Right
@@ -70,6 +72,7 @@ Mitrović             105 ST  106 124 100 112  62 120 624  660  Secondstriker  5
 Iñaki_Williams       100 ST  118 113 101 105  62 111 610  660  Shooting       4★WF/Right
 Higuaín              100 ST  102 120 108 114  59 111 614  660  Finishing      5★WF/Right
 Gonçalo_Ramos         99 ST  112 112 100 111  65 113 613  658  Finishing      4★WF/Right
+Gregoritsch          102 ST  102 120 111 111  74 106 624  657  Finishing      4★WF/Left
 C._Ronaldo           100 ST  110 117 100 110  53  99 589  657  Targetman      5★WF/Right
 Lewandowski          101 ST  105 120 102 111  57 112 607  654  Finishing      5★WF/Right
 Kudus                100 ST  114 104 100 111  78 101 608  654  Secondstriker  4★WF/Left
@@ -149,8 +152,10 @@ Vitinha               98 ST  107 107  80 100  57  93 544  601  Shooting       4�
 Rush                  98 ST  100 108  91 101  61  99 560  601  Finishing      4★WF/Right
 Milik                101 ST   90 115  94 106  61  98 564  601  Targetman      4★WF/Left
 Gomis                 99 ST   91 118 103  98  64 109 583  599  Targetman      4★WF/Right
+Szalai                99 ST  100 116  96  93  69 107 581  598  Targetman      3★WF/Right
 Lewandowski           98 ST   94 112  87 105  51 105 554  597  Shooting       4★WF/Right
 Guðjohnsen            98 ST   97 113  90 100  66 116 582  597  Finishing      4★WF/Left
+Osimhen               98 ST  105 103  84  96  54 100 542  589  Shooting       4★WF/Right
 Larin                 98 ST   98 106  91  98  55 103 551  589  Shooting       4★WF/Right
 Icardi                99 ST   90 110  89 105  56 100 550  589  Secondstriker  5★WF/Right
 En-Nesyri             98 ST  100 110  82  98  54 102 546  588  Shooting       4★WF/Left
