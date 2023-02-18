@@ -1,4 +1,2 @@
-Zanetti              107 RWB 118  93 122 125 117 108 683  683  Reactions      4★WF/Right
-James                105 RWB 114 101 121 124 107 109 676  676  Pace           4★WF/Right
-Dumfries              99 RWB 110  91 102 113 102 114 632  632  Reactions      3★WF/Right
-Koundé                98 RWB  99  60  85 100  98  98 540  540  Reactions      3★WF/Right
+Zanetti              107 RWB                         0  0 span class="player-card-name-width" data-v-6bbf264b Zanetti
+James                105 RWB                         0  0 span class="player-card-name-width" data-v-6bbf264b James

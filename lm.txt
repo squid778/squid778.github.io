@@ -1,52 +1,16 @@
-Gakpo                108 LM  130 129 121 130  69 112 691  770  Longshots      5★WF/Right
-Rivaldo              109 LM  125 127 123 132  70 102 679  764  Longshots      5★WF/Left
-Davies               105 LM  129 115 117 127 101 110 699  744  Longshots      4★WF/Left
-Davies               105 LM  129 115 117 127 101 110 699  744  Longshots      4★WF/Left
-Park_Ji_Sung         107 LM  123 117 121 128 105 103 697  740  Counter        4★WF/Right
-Kostić               102 LM  126 118 120 123  91 105 683  736  Shortpassing   4★WF/Left
-Al_Dawsari           104 LM  125 118 113 125  79 108 668  731  Dribbling      5★WF/Right
-Carrasco             104 LM  122 120 116 125  76 100 659  730  Dribbling      4★WF/Right
-Rafael_Leão          102 LM  125 119 108 126  52 101 631  729  Longshots      4★WF/Right
-João_Félix           103 LM  117 119 119 127  68 103 653  726  Dribbling      4★WF/Right
-Ginola               104 LM  120 119 118 121  69 110 657  719  Longshots      5★WF/Left
-Sabitzer             106 LM  112 123 121 125  93 108 682  718  Longshots      4★WF/Right
-Álvarez              102 LM  120 118 114 122  82 102 658  716  Counter        4★WF/Right
-Musiala              105 LM  116 120 111 125  91  95 658  713  Dribbling      4★WF/Right
-Ribéry               100 LM  111 118 119 122  58  80 608  703  Dribbling      5★WF/Right
-Sinisterra           100 LM  119 110 110 122  80  93 634  702  Counter        4★WF/Right
-Hložek               102 LM  120 116 112 117  61 103 629  702  Dribbling      4★WF/Right
-Pirès                100 LM  116 114 117 119  61  85 612  701  Dribbling      4★WF/Right
-Goodwin              101 LM  116 113 112 120  80 100 641  697  Longshots      4★WF/Left
-Martial              103 LM  117 113 107 121  59  94 611  696  Dribbling      4★WF/Right
-Hazard               100 LM  115 112 113 120  56  82 598  695  Longshots      5★WF/Right
-Hazard               100 LM  115 112 113 120  56  82 598  695  Longshots      5★WF/Right
-Gholizadeh            99 LM  118 109 111 119  71 101 629  694  Counter        3★WF/Left
-Oršić                100 LM  120 113 104 118  80  88 623  693  Longshots      5★WF/Right
-Zalewski              98 LM  124 100 108 118  79  79 608  692  Shortpassing   4★WF/Right
-Pedro_Gonçalves      102 LM  108 115 114 122  78  83 620  689  Shortpassing   4★WF/Right
-Minamino              99 LM  114 112 107 121  58  93 605  689  Shortpassing   4★WF/Right
-Sánchez              102 LM  110 112 115 120  70 103 630  687  Counter        5★WF/Right
-De_la_Cruz            99 LM  116 108 111 118  92  94 639  687  Counter        4★WF/Right
-Silas                102 LM  118 107 102 119  75  94 615  683  Longshots      3★WF/Right
-McLean                99 LM  113 111 114 116  92 106 652  683  Longshots      4★WF/Left
-Amiri                 99 LM  113 108 111 117  62  90 601  679  Longshots      4★WF/Left
-Kostić               101 LM  116 108 109 114  86  99 632  677  Dribbling      4★WF/Left
-Kerkez                98 LM  121  93 104 119  88  94 619  677  Shortpassing   3★WF/Left
-Saville               98 LM  109 110 112 117  94 103 645  674  Shortpassing   3★WF/Left
-Ansu_Fati             99 LM  119 105 100 115  49  80 568  673  Counter        4★WF/Right
-Rebić                102 LM  113 112 105 114  67 102 613  671  Longshots      5★WF/Right
-Insigne               99 LM  110 106 109 115  56  70 566  665  Longshots      4★WF/Right
-Insigne               99 LM  110 106 109 115  56  70 566  665  Longshots      4★WF/Right
-Toko_Ekambi           99 LM  114 111 103 110  46  90 574  662  Longshots      4★WF/Right
-Ayew                  99 LM  105 112 108 116  77 104 622  662  Counter        4★WF/Left
-Coman                 99 LM  115 102 100 114  45  76 552  660  Shortpassing   4★WF/Right
-Gonçalo_Guedes       100 LM  111 107 102 112  55  87 574  655  Dribbling      4★WF/Right
-Son                   98 LM  111 113 103 108  55  80 570  654  Shortpassing   5★WF/Right
-Draxler               99 LM  103 107 110 115  77  91 603  653  Longshots      5★WF/Right
-Perišić               99 LM  107 107 103 110  81 100 608  644  Shortpassing   5★WF/Left
-Gosens               100 LM  109 105 101 110  97 104 626  644  Longshots      4★WF/Left
-Cucurella             98 LM  107 100 106 112  91  95 611  644  Dribbling      4★WF/Left
-Rashford              98 LM  109 106  99 108  56  90 568  639  Dribbling      3★WF/Right
-Juanmi                98 LM  104 107  99 112  50  78 550  638  Longshots      3★WF/Right
-Terrier               98 LM  109 105  99 103  52  86 554  628  Longshots      3★WF/Right
-Rivaldo               99 LM   99 109 104 108  55  88 563  627  Counter        4★WF/Left
+Stoichkov            109 LM                          0  0 span class="player-card-name-width" data-v-6bbf264b Stoichkov
+Sabitzer             106 LM                          0  0 span class="player-card-name-width" data-v-6bbf264b Sabitzer
+Rivaldo              109 LM                          0  0 span class="player-card-name-width" data-v-6bbf264b Rivaldo
+Perišić              103 LM                          0  0 span class="player-card-name-width" data-v-6bbf264b Perišić
+Park_Ji_Sung         107 LM                          0  0 span class="player-card-name-width" data-v-6bbf264b ParkJiSung
+Musiala              105 LM                          0  0 span class="player-card-name-width" data-v-6bbf264b Musiala
+Martial              103 LM                          0  0 span class="player-card-name-width" data-v-6bbf264b Martial
+Mané                 108 LM                          0  0 span class="player-card-name-width" data-v-6bbf264b Mané
+Kostić               103 LM                          0  0 span class="player-card-name-width" data-v-6bbf264b Kostić
+João_Félix           103 LM                          0  0 span class="player-card-name-width" data-v-6bbf264b JoãoFélix
+Ginola               104 LM                          0  0 span class="player-card-name-width" data-v-6bbf264b Ginola
+Gakpo                108 LM                          0  0 span class="player-card-name-width" data-v-6bbf264b Gakpo
+Davies               105 LM                          0  0 span class="player-card-name-width" data-v-6bbf264b Davies
+Davies               105 LM                          0  0 span class="player-card-name-width" data-v-6bbf264b Davies
+Carrasco             104 LM                          0  0 span class="player-card-name-width" data-v-6bbf264b Carrasco
+Al_Dawsari           104 LM                          0  0 span class="player-card-name-width" data-v-6bbf264b AlDawsari
