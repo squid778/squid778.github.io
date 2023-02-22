@@ -1,14 +1,14 @@
-Bernardo_Silva       107 RM  129 125 128 146  86  90 704  803 4★WF/Left       Dribbling
-Saka                 105 RM  135 121 124 139  92  91 702  793 4★WF/Left       Dribbling
-Diaby                103 RM  136 113 116 136  66  83 650  773 3★WF/Left       Counter
-Best                 107 RM  127 125 117 132  81  94 676  760 5★WF/Right      Dribbling
-Bruno_Fernandes      108 RM  116 131 129 129  97 109 711  750 4★WF/Right      Counter
-Ljungberg            106 RM  125 118 119 128  74 100 664  743 4★WF/Right      Shortpassing
-Di_María             105 RM  116 122 121 127  64  99 649  729 4★WF/Left       Longshots
-Bernardo_Silva       105 RM  115 117 124 128  95  99 678  727 4★WF/Left       Longshots
-Bale                 104 RM  120 122 116 119  83 105 665  716 4★WF/Left       Longshots
-Felipe_Anderson      104 RM  121 113 113 122  75  80 624  712 5★WF/Right      Longshots
-Antony               103 RM  123 112 111 121  59  91 617  711 4★WF/Left       Dribbling
-Cuadrado             103 RM  116 105 107 121  96  98 643  686 4★WF/Right      Counter
-Ziyech               103 RM  108 112 119 119  71  84 613  685 4★WF/Left       Dribbling
-Mahrez               103 RM  105 111 108 121  55  74 574  671 4★WF/Left       Dribbling
+Bernardo_Silva       107 RM  129 125 128 146  86  90 704  803 4★WF/Left       Dribbling $-20s
+Saka                 105 RM  135 121 124 139  92  91 702  793 4★WF/Left       Dribbling $-20s
+Diaby                103 RM  136 113 116 136  66  83 650  773 3★WF/Left       Counter $-20s
+Best                 107 RM  127 125 117 132  81  94 676  760 5★WF/Right      Dribbling $-20s
+Bruno_Fernandes      108 RM  116 131 129 129  97 109 711  750 4★WF/Right      Counter $-20s
+Ljungberg            106 RM  125 118 119 128  74 100 664  743 4★WF/Right      Shortpassing $-20s
+Di_María             105 RM  116 122 121 127  64  99 649  729 4★WF/Left       Longshots $-20s
+Bernardo_Silva       105 RM  115 117 124 128  95  99 678  727 4★WF/Left       Longshots $-20s
+Bale                 104 RM  120 122 116 119  83 105 665  716 4★WF/Left       Longshots $-20s
+Felipe_Anderson      104 RM  121 113 113 122  75  80 624  712 5★WF/Right      Longshots $-20s
+Antony               103 RM  123 112 111 121  59  91 617  711 4★WF/Left       Dribbling $-20s
+Cuadrado             103 RM  116 105 107 121  96  98 643  686 4★WF/Right      Counter $-20s
+Ziyech               103 RM  108 112 119 119  71  84 613  685 4★WF/Left       Dribbling $-20s
+Mahrez               103 RM  105 111 108 121  55  74 574  671 4★WF/Left       Dribbling $-20s

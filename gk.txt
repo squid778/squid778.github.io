@@ -1,33 +1,33 @@
-Yashin               110 GK   87  27  66  84  32 112 408  0 3★WF/Right      Number1
-van_der_Sar          104 GK   66  13  61  57  14  80 291  0 3★WF/Right      Number1
-ter_Stegen           103 GK   55  14  62  50  19  81 281  0 4★WF/Right      Number1
-Szczęsny             105 GK   73  21  51  60  19  88 312  0 3★WF/Right      Number1
-Szczęsny             103 GK   73  25  52  63  24  91 328  0 3★WF/Right      Number1
-Seaman               107 GK   71  21  35  51  14  83 275  0 3★WF/Right      Reflexes
-Schmeichel           109 GK   71  30  59  64  27  96 347  0 3★WF/Right      Reflexes
-Schmeichel           105 GK   70  22  60  66  19  85 322  0 3★WF/Right      Handling
-Schmeichel           104 GK   68  18  57  62  18  77 300  0 3★WF/Right      Number1
-Pavlenka             103 GK   53  17  34  48  15  68 235  0 3★WF/Right      Number1
-Ochoa                104 GK   71  21  52  58  21  82 305  0 3★WF/Right      Number1
-Neuer                105 GK   74  26  68  66  22  87 343  0 4★WF/Right      Number1
-Navas                103 GK   67  23  51  59  21  78 299  0 3★WF/Right      Number1
-Martínez             108 GK   87  25  70  66  22  94 364  0 5★WF/Right      Number1
-Martínez             108 GK   87  25  70  66  22  94 364  0 5★WF/Right      Number1
-Martínez             105 GK   86  29  72  69  26  94 376  0 5★WF/Right      Number1
-Martínez             103 GK   81  25  66  61  21  86 340  0 4★WF/Right      Reflexes
-Maignan              106 GK   78  29  71  73  29  99 379  0 4★WF/Right      Handling
-Lloris               103 GK   85  25  65  65  27  78 345  0 3★WF/Left       Reflexes
-Gulácsi              105 GK   69  20  51  60  26  91 317  0 2★WF/Right      Handling
-Ederson              107 GK   88  32  75  75  28  97 395  0 3★WF/Left       Reflexes
-Dudek                107 GK   78  17  48  63  22  86 314  0 3★WF/Left       Reflexes
-Donnarumma           106 GK   67  23  48  60  20  76 294  0 3★WF/Right      Reflexes
-Donnarumma           106 GK   67  23  48  60  20  76 294  0 3★WF/Right      Reflexes
-Courtois             109 GK   71  27  54  69  26  90 337  0 3★WF/Left       Reflexes
-Courtois             109 GK   71  27  54  69  26  90 337  0 3★WF/Left       Reflexes
-Courtois             106 GK   67  23  49  61  20  83 303  0 3★WF/Left       Reflexes
-Čech                 107 GK   70  10  55  63  26  83 307  0 3★WF/Left       Reflexes
-Casillas             105 GK   68   9  57  59  16  85 294  0 3★WF/Left       Reflexes
-Campos               104 GK  100  73  77  95  49  81 475  0 4★WF/Right      Reflexes
-Bounou               104 GK   63  27  62  61  25  85 323  0 3★WF/Left       Handling
-Alisson              108 GK   78  28  73  70  26  91 366  0 3★WF/Right      Reflexes
-Alisson              104 GK   72  24  66  61  21  80 324  0 3★WF/Right      Reflexes
+Yashin               110 GK   87  27  66  84  32 112 408  0 3★WF/Right      Number1 $-20s
+van_der_Sar          104 GK   66  13  61  57  14  80 291  0 3★WF/Right      Number1 $-20s
+ter_Stegen           103 GK   55  14  62  50  19  81 281  0 4★WF/Right      Number1 $-20s
+Szczęsny             105 GK   73  21  51  60  19  88 312  0 3★WF/Right      Number1 $-20s
+Szczęsny             103 GK   73  25  52  63  24  91 328  0 3★WF/Right      Number1 $-20s
+Seaman               107 GK   71  21  35  51  14  83 275  0 3★WF/Right      Reflexes $-20s
+Schmeichel           109 GK   71  30  59  64  27  96 347  0 3★WF/Right      Reflexes $-20s
+Schmeichel           105 GK   70  22  60  66  19  85 322  0 3★WF/Right      Handling $-20s
+Schmeichel           104 GK   68  18  57  62  18  77 300  0 3★WF/Right      Number1 $-20s
+Pavlenka             103 GK   53  17  34  48  15  68 235  0 3★WF/Right      Number1 $-20s
+Ochoa                104 GK   71  21  52  58  21  82 305  0 3★WF/Right      Number1 $-20s
+Neuer                105 GK   74  26  68  66  22  87 343  0 4★WF/Right      Number1 $-20s
+Navas                103 GK   67  23  51  59  21  78 299  0 3★WF/Right      Number1 $-20s
+Martínez             108 GK   87  25  70  66  22  94 364  0 5★WF/Right      Number1 $-20s
+Martínez             108 GK   87  25  70  66  22  94 364  0 5★WF/Right      Number1 $-20s
+Martínez             105 GK   86  29  72  69  26  94 376  0 5★WF/Right      Number1 $-20s
+Martínez             103 GK   81  25  66  61  21  86 340  0 4★WF/Right      Reflexes $-20s
+Maignan              106 GK   78  29  71  73  29  99 379  0 4★WF/Right      Handling $-20s
+Lloris               103 GK   85  25  65  65  27  78 345  0 3★WF/Left       Reflexes $-20s
+Gulácsi              105 GK   69  20  51  60  26  91 317  0 2★WF/Right      Handling $-20s
+Ederson              107 GK   88  32  75  75  28  97 395  0 3★WF/Left       Reflexes $-20s
+Dudek                107 GK   78  17  48  63  22  86 314  0 3★WF/Left       Reflexes $-20s
+Donnarumma           106 GK   67  23  48  60  20  76 294  0 3★WF/Right      Reflexes $-20s
+Donnarumma           106 GK   67  23  48  60  20  76 294  0 3★WF/Right      Reflexes $-20s
+Courtois             109 GK   71  27  54  69  26  90 337  0 3★WF/Left       Reflexes $-20s
+Courtois             109 GK   71  27  54  69  26  90 337  0 3★WF/Left       Reflexes $-20s
+Courtois             106 GK   67  23  49  61  20  83 303  0 3★WF/Left       Reflexes $-20s
+Čech                 107 GK   70  10  55  63  26  83 307  0 3★WF/Left       Reflexes $-20s
+Casillas             105 GK   68   9  57  59  16  85 294  0 3★WF/Left       Reflexes $-20s
+Campos               104 GK  100  73  77  95  49  81 475  0 4★WF/Right      Reflexes $-20s
+Bounou               104 GK   63  27  62  61  25  85 323  0 3★WF/Left       Handling $-20s
+Alisson              108 GK   78  28  73  70  26  91 366  0 3★WF/Right      Reflexes $-20s
+Alisson              104 GK   72  24  66  61  21  80 324  0 3★WF/Right      Reflexes $-20s

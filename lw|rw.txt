@@ -1,58 +1,58 @@
-Henry                110 LW  148 143 132 142  73 107 745  855 4★WF/Right      Speed
-Garrincha            111 RW  142 139 138 145  63  94 721  851 4★WF/Right      Speed
-Vinícius_Jr.         108 LW  145 135 119 144  49  97 689  832 5★WF/Right      Speed
-Rafael_Leão          107 LW  144 134 119 140  49 104 690  821 4★WF/Right      Speed
-Salah                108 RW  139 138 123 139  64  99 702  817 5★WF/Left       Agility
-Neymar_Jr            107 LW  136 133 127 142  56  87 681  816 5★WF/Right      Agility
-Son                  108 LW  137 139 124 136  62  93 691  809 5★WF/Right      Agility
-Foden                106 LW  133 132 126 142  74  85 692  808 4★WF/Left       Agility
-Messi                108 RW  130 133 132 134  62  99 690  793 5★WF/Left       Agility
-Messi                108 RW  130 133 132 134  62  99 690  793 5★WF/Left       Agility
-Mbappé               105 LW  138 131 115 134  54  97 669  790 5★WF/Right      Speed
-Mbappé               108 LW  133 133 118 131  65 111 691  779 5★WF/Right      Speed
-Mbappé               108 LW  133 133 118 131  65 111 691  779 5★WF/Right      Speed
-Dembélé              103 RW  135 123 118 131  54  83 644  773 5★WF/Left       Speed
-Luís_Figo            109 RW  128 127 123 127  65 106 676  760 5★WF/Right      Agility
-Gakpo                103 LW  128 128 115 127  58 101 657  753 5★WF/Right      Longshots
-Ronaldinho           107 LW  124 125 121 128  50 107 655  750 5★WF/Right      Speed
-Mané                 105 LW  127 122 115 127  66 108 665  745 5★WF/Right      Speed
-Mané                 105 LW  127 122 115 127  66 108 665  745 5★WF/Right      Speed
-Barnes               107 LW  126 125 119 124  55 109 658  744 5★WF/Left       Speed
-Chiesa               106 RW  125 127 114 126  75 103 670  743 4★WF/Right      Ballcontrol
-Chiesa               106 RW  125 127 114 126  75 103 670  743 4★WF/Right      Ballcontrol
-Mbappé               106 LW  128 126 112 124  60 101 651  742 5★WF/Right      Agility
-Mbappé               106 LW  128 126 112 124  60 101 651  742 5★WF/Right      Agility
-Jairzinho            107 RW  125 126 116 125  64 101 657  742 5★WF/Right      Ballcontrol
-Son                  106 LW  122 125 118 125  62  95 647  737 5★WF/Right      Agility
-Son                  106 LW  122 125 118 125  62  95 647  737 5★WF/Right      Agility
-Sterling             105 LW  123 121 116 126  65  94 645  735 4★WF/Right      Ballcontrol
-Kuyt                 107 RW  124 129 114 122  90 110 689  735 4★WF/Right      Ballcontrol
-Kulusevski           106 RW  119 125 118 126  87 112 687  733 4★WF/Left       Speed
-Kulusevski           106 RW  119 125 118 126  87 112 687  733 4★WF/Left       Speed
-Wu_Lei               105 RW  124 122 114 124  77 112 673  732 4★WF/Right      Speed
-Vinícius_Jr.         106 LW  127 119 111 124  54  96 631  732 5★WF/Right      Speed
-Saka                 103 RW  121 119 117 127  89  96 669  732 4★WF/Left       Agility
-Zaniolo              105 RW  124 120 115 124  84 111 678  731 4★WF/Left       Speed
-Kvaratskhelia        103 LW  123 115 116 123  68 103 648  723 5★WF/Right      Agility
-Goodwin              103 LW  123 117 114 123  83 106 666  723 4★WF/Left       Ballcontrol
-Gómez                104 LW  119 119 116 125  62  95 636  723 4★WF/Right      Ballcontrol
-Forsberg             106 LW  115 118 122 126  61  97 639  722 4★WF/Right      Speed
-Tsygankov            103 LW  121 122 117 120  68  94 642  721 4★WF/Left       Ballcontrol
-Pulisic              103 LW  122 117 110 124  60  96 629  719 5★WF/Right      Agility
-Pellegrini           104 LW  118 120 119 122  93 106 678  719 4★WF/Right      Agility
-Ziyech               104 RW  114 121 123 123  75  93 649  718 4★WF/Left       Agility
-Mbappé               103 RW  123 120 108 122  51  93 617  718 5★WF/Right      Agility
-Mbappé               103 RW  123 120 108 122  51  93 617  718 5★WF/Right      Agility
-Sterling             103 LW  120 118 113 123  61  86 621  717 4★WF/Right      Speed
-Rashford             104 LW  121 122 113 119  64 103 642  715 4★WF/Right      Speed
-Cole                 104 RW  117 118 119 122  67 101 644  715 5★WF/Right      Speed
-Ferran_Torres        103 RW  116 120 114 122  59 101 632  710 4★WF/Right      Speed
-Ocampos              104 RW  114 120 113 119  87 112 665  699 4★WF/Right      Agility
-Sørloth              103 RW  118 121 107 113  65 113 637  690 5★WF/Left       Ballcontrol
-Sané                 103 LW  115 116 109 117  60  97 614  689 4★WF/Left       Agility
-Carrasco             103 LW  115 116 107 116  59  90 603  685 5★WF/Right      Agility
-Reus                 105 LW  103 120 114 119  64  88 608  678 5★WF/Right      Ballcontrol
-Buendía              103 RW  108 112 115 117  77 102 631  677 4★WF/Right      Ballcontrol
-Müller               104 RW  100 121 118 115  71  96 621  669 5★WF/Right      Speed
-Berardi              103 RW  106 114 108 117  49  93 587  668 3★WF/Left       Ballcontrol
-Brehme               107 LWB 118  99 118 115 119 115 684  0 5★WF/Left       Balanced
+Henry                110 LW  148 143 132 142  73 107 745  855 4★WF/Right      Speed $-20s
+Garrincha            111 RW  142 139 138 145  63  94 721  851 4★WF/Right      Speed $-20s
+Vinícius_Jr.         108 LW  145 135 119 144  49  97 689  832 5★WF/Right      Speed $-20s
+Rafael_Leão          107 LW  144 134 119 140  49 104 690  821 4★WF/Right      Speed $-20s
+Salah                108 RW  139 138 123 139  64  99 702  817 5★WF/Left       Agility $-20s
+Neymar_Jr            107 LW  136 133 127 142  56  87 681  816 5★WF/Right      Agility $-20s
+Son                  108 LW  137 139 124 136  62  93 691  809 5★WF/Right      Agility $-20s
+Foden                106 LW  133 132 126 142  74  85 692  808 4★WF/Left       Agility $-20s
+Messi                108 RW  130 133 132 134  62  99 690  793 5★WF/Left       Agility $-20s
+Messi                108 RW  130 133 132 134  62  99 690  793 5★WF/Left       Agility $-20s
+Mbappé               105 LW  138 131 115 134  54  97 669  790 5★WF/Right      Speed $-20s
+Mbappé               108 LW  133 133 118 131  65 111 691  779 5★WF/Right      Speed $-20s
+Mbappé               108 LW  133 133 118 131  65 111 691  779 5★WF/Right      Speed $-20s
+Dembélé              103 RW  135 123 118 131  54  83 644  773 5★WF/Left       Speed $-20s
+Luís_Figo            109 RW  128 127 123 127  65 106 676  760 5★WF/Right      Agility $-20s
+Gakpo                103 LW  128 128 115 127  58 101 657  753 5★WF/Right      Longshots $-20s
+Ronaldinho           107 LW  124 125 121 128  50 107 655  750 5★WF/Right      Speed $-20s
+Mané                 105 LW  127 122 115 127  66 108 665  745 5★WF/Right      Speed $-20s
+Mané                 105 LW  127 122 115 127  66 108 665  745 5★WF/Right      Speed $-20s
+Barnes               107 LW  126 125 119 124  55 109 658  744 5★WF/Left       Speed $-20s
+Chiesa               106 RW  125 127 114 126  75 103 670  743 4★WF/Right      Ballcontrol $-20s
+Chiesa               106 RW  125 127 114 126  75 103 670  743 4★WF/Right      Ballcontrol $-20s
+Mbappé               106 LW  128 126 112 124  60 101 651  742 5★WF/Right      Agility $-20s
+Mbappé               106 LW  128 126 112 124  60 101 651  742 5★WF/Right      Agility $-20s
+Jairzinho            107 RW  125 126 116 125  64 101 657  742 5★WF/Right      Ballcontrol $-20s
+Son                  106 LW  122 125 118 125  62  95 647  737 5★WF/Right      Agility $-20s
+Son                  106 LW  122 125 118 125  62  95 647  737 5★WF/Right      Agility $-20s
+Sterling             105 LW  123 121 116 126  65  94 645  735 4★WF/Right      Ballcontrol $-20s
+Kuyt                 107 RW  124 129 114 122  90 110 689  735 4★WF/Right      Ballcontrol $-20s
+Kulusevski           106 RW  119 125 118 126  87 112 687  733 4★WF/Left       Speed $-20s
+Kulusevski           106 RW  119 125 118 126  87 112 687  733 4★WF/Left       Speed $-20s
+Wu_Lei               105 RW  124 122 114 124  77 112 673  732 4★WF/Right      Speed $-20s
+Vinícius_Jr.         106 LW  127 119 111 124  54  96 631  732 5★WF/Right      Speed $-20s
+Saka                 103 RW  121 119 117 127  89  96 669  732 4★WF/Left       Agility $-20s
+Zaniolo              105 RW  124 120 115 124  84 111 678  731 4★WF/Left       Speed $-20s
+Kvaratskhelia        103 LW  123 115 116 123  68 103 648  723 5★WF/Right      Agility $-20s
+Goodwin              103 LW  123 117 114 123  83 106 666  723 4★WF/Left       Ballcontrol $-20s
+Gómez                104 LW  119 119 116 125  62  95 636  723 4★WF/Right      Ballcontrol $-20s
+Forsberg             106 LW  115 118 122 126  61  97 639  722 4★WF/Right      Speed $-20s
+Tsygankov            103 LW  121 122 117 120  68  94 642  721 4★WF/Left       Ballcontrol $-20s
+Pulisic              103 LW  122 117 110 124  60  96 629  719 5★WF/Right      Agility $-20s
+Pellegrini           104 LW  118 120 119 122  93 106 678  719 4★WF/Right      Agility $-20s
+Ziyech               104 RW  114 121 123 123  75  93 649  718 4★WF/Left       Agility $-20s
+Mbappé               103 RW  123 120 108 122  51  93 617  718 5★WF/Right      Agility $-20s
+Mbappé               103 RW  123 120 108 122  51  93 617  718 5★WF/Right      Agility $-20s
+Sterling             103 LW  120 118 113 123  61  86 621  717 4★WF/Right      Speed $-20s
+Rashford             104 LW  121 122 113 119  64 103 642  715 4★WF/Right      Speed $-20s
+Cole                 104 RW  117 118 119 122  67 101 644  715 5★WF/Right      Speed $-20s
+Ferran_Torres        103 RW  116 120 114 122  59 101 632  710 4★WF/Right      Speed $-20s
+Ocampos              104 RW  114 120 113 119  87 112 665  699 4★WF/Right      Agility $-20s
+Sørloth              103 RW  118 121 107 113  65 113 637  690 5★WF/Left       Ballcontrol $-20s
+Sané                 103 LW  115 116 109 117  60  97 614  689 4★WF/Left       Agility $-20s
+Carrasco             103 LW  115 116 107 116  59  90 603  685 5★WF/Right      Agility $-20s
+Reus                 105 LW  103 120 114 119  64  88 608  678 5★WF/Right      Ballcontrol $-20s
+Buendía              103 RW  108 112 115 117  77 102 631  677 4★WF/Right      Ballcontrol $-20s
+Müller               104 RW  100 121 118 115  71  96 621  669 5★WF/Right      Speed $-20s
+Berardi              103 RW  106 114 108 117  49  93 587  668 3★WF/Left       Ballcontrol $-20s
+Brehme               107 LWB 118  99 118 115 119 115 684  0 5★WF/Left       Balanced $-20s
