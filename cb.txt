@@ -1,58 +1,58 @@
-Maldini              112 CB  136  85 116 110 150 132 729  872 Marking          4★ WF / Right
-Campbell             109 CB  122  73 100  96 147 138 676  832 Marking          3★ WF / Right
-Blanc                109 CB  119  98 111 118 148 132 726  830 Marking          3★ WF / Right
-Marquinhos           106 CB  114  83 111 108 143 125 684  800 Marking          3★ WF / Right
-van_Dijk             108 CB  115  85 107 104 142 132 685  798 Tackling         3★ WF / Right
-Tomori               104 CB  118  65  93 103 134 125 638  772 Tackling         4★ WF / Right
-Koulibaly            105 CB  114  58  93  97 136 128 626  772 Marking          4★ WF / Right
-Romero               105 CB  109  72  93 104 138 130 646  770 Marking          3★ WF / Right
-Desailly             109 CB  114  83 106 100 135 126 664  768 Marking          3★ WF / Right
-Rúben_Dias           107 CB   98  66 102 103 142 131 642  764 Strength         4★ WF / Right
-Nesta                109 CB  113  70  94  95 134 121 627  762 Marking          4★ WF / Right
-Gvardiol             104 CB  116  82 105 109 132 128 672  760 Tackling         5★ WF / Left
-Maldini              107 CB  112  77 102  96 133 120 640  756 Strength         4★ WF / Right
-Éder_Militão         103 CB  117  76 101 104 130 121 649  754 Defending        3★ WF / Right
-Mascherano           107 CB  107  87 108 105 132 122 661  742 Defending        3★ WF / Right
-Stones               108 CB  108  86 112 112 131 122 671  740 Defending        5★ WF / Right
-Ferdinand            107 CB  110  70  94  93 130 118 615  740 Defending        4★ WF / Right
-Thiago_Silva         106 CB   85  82 110 106 142 126 651  738 Marking          4★ WF / Right
-Gvardiol             108 CB  114  92 109 111 127 128 681  736 Tackling         5★ WF / Left
-Varane               105 CB  113  78 101  98 127 118 635  734 Tackling         4★ WF / Right
-Konaté               106 CB  111  64  94  99 128 120 616  734 Defending        3★ WF / Right
-Thiago_Silva         108 CB  100  97 118 110 133 123 681  732 Marking          4★ WF / Right
-Marquinhos           105 CB  115  85 108 103 125 119 655  730 Marking          3★ WF / Right
-Marquinhos           105 CB  115  85 108 103 125 119 655  730 Marking          3★ WF / Right
-Fernando_Hierro      107 CB  101  92 108 102 132 119 654  730 Marking          4★ WF / Right
-Carles_Puyol         107 CB  101  70  96  89 132 121 609  730 Strength         3★ WF / Right
-Alaba                106 CB  113 103 116 112 126 118 688  730 Defending        4★ WF / Left
-Alaba                106 CB  113 103 116 112 126 118 688  730 Defending        4★ WF / Left
-van_Dijk             105 CB  111  87 104 100 126 121 649  726 Tackling         3★ WF / Right
-van_Dijk             105 CB  111  87 104 100 126 121 649  726 Tackling         3★ WF / Right
-Rüdiger              105 CB  113  78 102  94 125 122 634  726 Defending        3★ WF / Right
-Koulibaly            106 CB  111  60  94  95 126 121 607  726 Marking          4★ WF / Right
-Aké                  105 CB  110  86 102  99 124 118 639  716 Defending        3★ WF / Left
-Koulibaly            104 CB  109  54  83  91 124 119 580  714 Tackling         3★ WF / Right
-Akanji               103 CB  109  82 106 105 124 116 642  714 Defending        4★ WF / Right
-Saliba               104 CB  106  67 103 101 125 119 621  712 Marking          3★ WF / Right
-Koeman               105 CB  105 110 118 106 125 117 681  710 Marking          5★ WF / Right
-Bonucci              106 CB  103  87 108 102 126 121 647  710 Tackling         4★ WF / Right
-Lindelöf             105 CB  104  84 111 106 125 117 647  708 Strength         4★ WF / Right
-Orban                104 CB  101  66  97  93 125 121 603  702 Defending        3★ WF / Right
-Rúben_Dias           104 CB  100  75 101 101 125 119 621  700 Strength         4★ WF / Right
-de_Ligt              105 CB  106  86  96  99 122 121 630  700 Tackling         3★ WF / Right
-Cannavaro            105 CB  102  68  88  98 124 111 591  700 Marking          3★ WF / Right
-Rüdiger              104 CB  105  68  97  92 122 120 604  698 Marking          3★ WF / Right
-Rüdiger              104 CB  105  68  97  92 122 120 604  698 Marking          3★ WF / Right
-Kohler               104 CB  103  79  96  98 123 122 621  698 Defending        3★ WF / Right
-Stones               103 CB  100  76 103 103 124 114 620  696 Strength         4★ WF / Right
-Gomez                104 CB  106  57  97  99 121 114 594  696 Defending        3★ WF / Right
-Coleman              104 CB  106  95 112 103 121 112 649  696 Marking          3★ WF / Right
-Araujo               103 CB  107  80  97  93 120 118 615  694 Marking          3★ WF / Right
-Alaba                103 CB  104  96 109 106 120 109 644  688 Tackling         4★ WF / Left
-de_Ligt              103 CB  103  82  88  95 119 119 606  682 Defending        3★ WF / Right
-Szalai               103 CB  106  79 101  98 116 120 620  676 Tackling         3★ WF / Left
-Rodri                103 CB   90 104 114 107 124 116 655  676 Marking          4★ WF / Right
-Dier                 104 CB   91  96 107  94 121 121 630  666 Defending        3★ WF / Right
-Diakhaby             103 CB   93  75  97  98 120 120 603  666 Tackling         3★ WF / Right
-Mancini              103 CB   94  75  85  90 118 117 579  660 Defending        3★ WF / Right
-Dier                 103 CB   87  97 102  90 117 118 611  642 Marking          3★ WF / Right
+Maldini              112 CB  136  85 116 110 150 132 729  872 4★WF/Right       Marking 
+Campbell             109 CB  122  73 100  96 147 138 676  832 3★WF/Right       Marking 
+Blanc                109 CB  119  98 111 118 148 132 726  830 3★WF/Right       Marking 
+Marquinhos           106 CB  114  83 111 108 143 125 684  800 3★WF/Right       Marking 
+van_Dijk             108 CB  115  85 107 104 142 132 685  798 3★WF/Right       Tackling 
+Tomori               104 CB  118  65  93 103 134 125 638  772 4★WF/Right       Tackling 
+Koulibaly            105 CB  114  58  93  97 136 128 626  772 4★WF/Right       Marking 
+Romero               105 CB  109  72  93 104 138 130 646  770 3★WF/Right       Marking 
+Desailly             109 CB  114  83 106 100 135 126 664  768 3★WF/Right       Marking 
+Rúben_Dias           107 CB   98  66 102 103 142 131 642  764 4★WF/Right       Strength 
+Nesta                109 CB  113  70  94  95 134 121 627  762 4★WF/Right       Marking 
+Gvardiol             104 CB  116  82 105 109 132 128 672  760 5★WF/Left        Tackling 
+Maldini              107 CB  112  77 102  96 133 120 640  756 4★WF/Right       Strength 
+Éder_Militão         103 CB  117  76 101 104 130 121 649  754 3★WF/Right       Defending 
+Mascherano           107 CB  107  87 108 105 132 122 661  742 3★WF/Right       Defending 
+Stones               108 CB  108  86 112 112 131 122 671  740 5★WF/Right       Defending 
+Ferdinand            107 CB  110  70  94  93 130 118 615  740 4★WF/Right       Defending 
+Thiago_Silva         106 CB   85  82 110 106 142 126 651  738 4★WF/Right       Marking 
+Gvardiol             108 CB  114  92 109 111 127 128 681  736 5★WF/Left        Tackling 
+Varane               105 CB  113  78 101  98 127 118 635  734 4★WF/Right       Tackling 
+Konaté               106 CB  111  64  94  99 128 120 616  734 3★WF/Right       Defending 
+Thiago_Silva         108 CB  100  97 118 110 133 123 681  732 4★WF/Right       Marking 
+Marquinhos           105 CB  115  85 108 103 125 119 655  730 3★WF/Right       Marking 
+Marquinhos           105 CB  115  85 108 103 125 119 655  730 3★WF/Right       Marking 
+Fernando_Hierro      107 CB  101  92 108 102 132 119 654  730 4★WF/Right       Marking 
+Carles_Puyol         107 CB  101  70  96  89 132 121 609  730 3★WF/Right       Strength 
+Alaba                106 CB  113 103 116 112 126 118 688  730 4★WF/Left        Defending 
+Alaba                106 CB  113 103 116 112 126 118 688  730 4★WF/Left        Defending 
+van_Dijk             105 CB  111  87 104 100 126 121 649  726 3★WF/Right       Tackling 
+van_Dijk             105 CB  111  87 104 100 126 121 649  726 3★WF/Right       Tackling 
+Rüdiger              105 CB  113  78 102  94 125 122 634  726 3★WF/Right       Defending 
+Koulibaly            106 CB  111  60  94  95 126 121 607  726 4★WF/Right       Marking 
+Aké                  105 CB  110  86 102  99 124 118 639  716 3★WF/Left        Defending 
+Koulibaly            104 CB  109  54  83  91 124 119 580  714 3★WF/Right       Tackling 
+Akanji               103 CB  109  82 106 105 124 116 642  714 4★WF/Right       Defending 
+Saliba               104 CB  106  67 103 101 125 119 621  712 3★WF/Right       Marking 
+Koeman               105 CB  105 110 118 106 125 117 681  710 5★WF/Right       Marking 
+Bonucci              106 CB  103  87 108 102 126 121 647  710 4★WF/Right       Tackling 
+Lindelöf             105 CB  104  84 111 106 125 117 647  708 4★WF/Right       Strength 
+Orban                104 CB  101  66  97  93 125 121 603  702 3★WF/Right       Defending 
+Rúben_Dias           104 CB  100  75 101 101 125 119 621  700 4★WF/Right       Strength 
+de_Ligt              105 CB  106  86  96  99 122 121 630  700 3★WF/Right       Tackling 
+Cannavaro            105 CB  102  68  88  98 124 111 591  700 3★WF/Right       Marking 
+Rüdiger              104 CB  105  68  97  92 122 120 604  698 3★WF/Right       Marking 
+Rüdiger              104 CB  105  68  97  92 122 120 604  698 3★WF/Right       Marking 
+Kohler               104 CB  103  79  96  98 123 122 621  698 3★WF/Right       Defending 
+Stones               103 CB  100  76 103 103 124 114 620  696 4★WF/Right       Strength 
+Gomez                104 CB  106  57  97  99 121 114 594  696 3★WF/Right       Defending 
+Coleman              104 CB  106  95 112 103 121 112 649  696 3★WF/Right       Marking 
+Araujo               103 CB  107  80  97  93 120 118 615  694 3★WF/Right       Marking 
+Alaba                103 CB  104  96 109 106 120 109 644  688 4★WF/Left        Tackling 
+de_Ligt              103 CB  103  82  88  95 119 119 606  682 3★WF/Right       Defending 
+Szalai               103 CB  106  79 101  98 116 120 620  676 3★WF/Left        Tackling 
+Rodri                103 CB   90 104 114 107 124 116 655  676 4★WF/Right       Marking 
+Dier                 104 CB   91  96 107  94 121 121 630  666 3★WF/Right       Defending 
+Diakhaby             103 CB   93  75  97  98 120 120 603  666 3★WF/Right       Tackling 
+Mancini              103 CB   94  75  85  90 118 117 579  660 3★WF/Right       Defending 
+Dier                 103 CB   87  97 102  90 117 118 611  642 3★WF/Right       Marking 

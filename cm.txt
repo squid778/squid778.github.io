@@ -1,43 +1,43 @@
-Zinchenko            104 CM  101 104 124 115 114 101 659  0 Longpassing      5★ WF / Left
-Xavi                 109 CM  115 116 137 129 100  93 690  0 Longpassing      4★ WF / Right
-Verratti             106 CM  107  96 126 125 113 103 670  0 Longpassing      4★ WF / Right
-Verón                107 CM  110 116 130 115 110 111 692  0 Vision           4★ WF / Right
-Valverde             106 CM  127 116 136 125 115 111 730  0 Vision           4★ WF / Right
-Valverde             105 CM  116 108 124 116 112 114 690  0 Vision           4★ WF / Right
-Tchouaméni           105 CM  106 108 124 116 116 116 686  0 Longpassing      3★ WF / Right
-Tchouaméni           103 CM  103 104 129 117 115 112 680  0 Longpassing      3★ WF / Right
-Seiwald              105 CM  104 105 119 112 108 100 648  0 Holding          3★ WF / Right
-Seedorf              109 CM  125 129 145 133 111 120 763  0 Vision           4★ WF / Right
-Schweinsteiger       107 CM  109 116 130 116 117 116 704  0 Vision           4★ WF / Right
-Scholes              105 CM  106 117 128 115  92 108 666  0 Vision           4★ WF / Right
-Schlager             104 CM  106 108 120 114 107 114 669  0 Vision           4★ WF / Left
-Rabiot               103 CM  109 108 127 117 111 107 679  0 Longpassing      4★ WF / Left
-Pogba                103 CM  100 113 124 114  94 115 660  0 Longpassing      5★ WF / Right
-Pirlo                110 CM  117 121 147 135 107  95 722  0 Longpassing      4★ WF / Right
-Pedri                104 CM  113 101 131 126 100  98 669  0 Vision           4★ WF / Right
-Modrić               109 CM  114 118 145 134 110  97 718  0 Vision           5★ WF / Right
-Modrić               109 CM  114 118 145 134 110  97 718  0 Vision           5★ WF / Right
-Modrić               108 CM  115 121 132 131 113 109 721  0 Vision           5★ WF / Right
-Modrić               106 CM  110 115 128 122 105 101 681  0 Longpassing      5★ WF / Right
-Milinković-Savić     105 CM  104 116 132 118 113 116 699  0 Vision           5★ WF / Right
-McKennie             105 CM  110 111 122 114 115 114 686  0 Vision           4★ WF / Right
-Mac_Allister         103 CM  105 112 125 116  95 101 654  0 Vision           4★ WF / Right
-Lucas_Paquetá        105 CM  107 116 124 120 106 112 685  0 Longpassing      4★ WF / Left
-Lo_Celso             103 CM  105 112 123 125  97 105 667  0 Vision           4★ WF / Left
-Kroos                107 CM   92 120 143 121 106  92 674  0 Longpassing      5★ WF / Right
-Koke                 104 CM  104 108 122 113 107 105 659  0 Vision           4★ WF / Right
-Keane                109 CM  112 114 131 121 124 125 727  0 Vision           4★ WF / Right
-Gerrard              105 CM  106 115 125 110 101 107 664  0 Vision           4★ WF / Right
-Fernández            104 CM  114 111 131 121 112 113 702  0 Interceptions    4★ WF / Right
-Delaney              105 CM  102 104 120 110 119 117 672  0 Longpassing      4★ WF / Left
-de_Jong              106 CM  114 101 126 121 111 110 683  0 Vision           4★ WF / Right
-De_Bruyne            109 CM  113 126 145 127  98 104 713  0 Vision           5★ WF / Right
-Casemiro             105 CM  100 106 118 108 121 124 677  0 Longpassing      4★ WF / Right
-Cahill               104 CM  110 116 115 114 100 120 675  0 Vision           4★ WF / Right
-Bellingham           108 CM  117 116 128 128 117 121 727  0 Longpassing      5★ WF / Right
-Bellingham           106 CM  116 116 134 129 115 114 724  0 Longpassing      5★ WF / Right
-Bellingham           105 CM  111 110 120 121 112 116 690  0 Vision           4★ WF / Right
-Barella              106 CM  113 109 126 128 112 114 702  0 Interceptions    4★ WF / Right
-Ballack              110 CM  138 130 145 128 120 126 787  0 Vision           4★ WF / Right
-Arthur               103 CM   99 100 122 120 102 102 645  0 Longpassing      4★ WF / Right
-Arthur               103 CM   99 100 122 120 102 102 645  0 Longpassing      4★ WF / Right
+Zinchenko            104 CM  101 104 124 115 114 101 659  0 5★WF/Left        Longpassing 
+Xavi                 109 CM  115 116 137 129 100  93 690  0 4★WF/Right       Longpassing 
+Verratti             106 CM  107  96 126 125 113 103 670  0 4★WF/Right       Longpassing 
+Verón                107 CM  110 116 130 115 110 111 692  0 4★WF/Right       Vision 
+Valverde             106 CM  127 116 136 125 115 111 730  0 4★WF/Right       Vision 
+Valverde             105 CM  116 108 124 116 112 114 690  0 4★WF/Right       Vision 
+Tchouaméni           105 CM  106 108 124 116 116 116 686  0 3★WF/Right       Longpassing 
+Tchouaméni           103 CM  103 104 129 117 115 112 680  0 3★WF/Right       Longpassing 
+Seiwald              105 CM  104 105 119 112 108 100 648  0 3★WF/Right       Holding 
+Seedorf              109 CM  125 129 145 133 111 120 763  0 4★WF/Right       Vision 
+Schweinsteiger       107 CM  109 116 130 116 117 116 704  0 4★WF/Right       Vision 
+Scholes              105 CM  106 117 128 115  92 108 666  0 4★WF/Right       Vision 
+Schlager             104 CM  106 108 120 114 107 114 669  0 4★WF/Left        Vision 
+Rabiot               103 CM  109 108 127 117 111 107 679  0 4★WF/Left        Longpassing 
+Pogba                103 CM  100 113 124 114  94 115 660  0 5★WF/Right       Longpassing 
+Pirlo                110 CM  117 121 147 135 107  95 722  0 4★WF/Right       Longpassing 
+Pedri                104 CM  113 101 131 126 100  98 669  0 4★WF/Right       Vision 
+Modrić               109 CM  114 118 145 134 110  97 718  0 5★WF/Right       Vision 
+Modrić               109 CM  114 118 145 134 110  97 718  0 5★WF/Right       Vision 
+Modrić               108 CM  115 121 132 131 113 109 721  0 5★WF/Right       Vision 
+Modrić               106 CM  110 115 128 122 105 101 681  0 5★WF/Right       Longpassing 
+Milinković-Savić     105 CM  104 116 132 118 113 116 699  0 5★WF/Right       Vision 
+McKennie             105 CM  110 111 122 114 115 114 686  0 4★WF/Right       Vision 
+Mac_Allister         103 CM  105 112 125 116  95 101 654  0 4★WF/Right       Vision 
+Lucas_Paquetá        105 CM  107 116 124 120 106 112 685  0 4★WF/Left        Longpassing 
+Lo_Celso             103 CM  105 112 123 125  97 105 667  0 4★WF/Left        Vision 
+Kroos                107 CM   92 120 143 121 106  92 674  0 5★WF/Right       Longpassing 
+Koke                 104 CM  104 108 122 113 107 105 659  0 4★WF/Right       Vision 
+Keane                109 CM  112 114 131 121 124 125 727  0 4★WF/Right       Vision 
+Gerrard              105 CM  106 115 125 110 101 107 664  0 4★WF/Right       Vision 
+Fernández            104 CM  114 111 131 121 112 113 702  0 4★WF/Right       Interceptions 
+Delaney              105 CM  102 104 120 110 119 117 672  0 4★WF/Left        Longpassing 
+de_Jong              106 CM  114 101 126 121 111 110 683  0 4★WF/Right       Vision 
+De_Bruyne            109 CM  113 126 145 127  98 104 713  0 5★WF/Right       Vision 
+Casemiro             105 CM  100 106 118 108 121 124 677  0 4★WF/Right       Longpassing 
+Cahill               104 CM  110 116 115 114 100 120 675  0 4★WF/Right       Vision 
+Bellingham           108 CM  117 116 128 128 117 121 727  0 5★WF/Right       Longpassing 
+Bellingham           106 CM  116 116 134 129 115 114 724  0 5★WF/Right       Longpassing 
+Bellingham           105 CM  111 110 120 121 112 116 690  0 4★WF/Right       Vision 
+Barella              106 CM  113 109 126 128 112 114 702  0 4★WF/Right       Interceptions 
+Ballack              110 CM  138 130 145 128 120 126 787  0 4★WF/Right       Vision 
+Arthur               103 CM   99 100 122 120 102 102 645  0 4★WF/Right       Longpassing 
+Arthur               103 CM   99 100 122 120 102 102 645  0 4★WF/Right       Longpassing 
