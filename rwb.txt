@@ -1,2 +1,2 @@
-Zanetti              107 RWB                         0  0 span class="player-card-name-width" data-v-6bbf264b Zanetti
-James                105 RWB                         0  0 span class="player-card-name-width" data-v-6bbf264b James
+Zanetti              107 RWB 118  93 122 125 117 108 683  0 Reactions        4★ WF / Right
+James                105 RWB 114 101 121 124 107 109 676  0 Pace             4★ WF / Right

@@ -1,75 +1,75 @@
-Yaremchuk            103 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Yaremchuk
-Vlahović             105 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Vlahović
-Vlahović             104 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Vlahović
-Vardy                103 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Vardy
-van_Persie           107 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b vanPersie
-van_Nistelrooy       109 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b vanNistelrooy
-van_Basten           111 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b vanBasten
-van_Basten           107 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b vanBasten
-Taremi               103 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Taremi
-Šuker                107 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Šuker
-Suárez               105 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Suárez
-Shevchenko           109 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Shevchenko
-Schick               105 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Schick
-Ronaldo              112 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Ronaldo
-Ronaldo              107 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Ronaldo
-Richarlison          108 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Richarlison
-Richarlison          103 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Richarlison
-Raúl                 103 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Raúl
-Puskás               107 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Puskás
-Pukki                103 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Pukki
-Pelé                 108 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Pelé
-Osimhen              104 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Osimhen
-Morientes            106 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Morientes
-Morata               105 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Morata
-Morata               105 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Morata
-Mitrović             105 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Mitrović
-Milito               107 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Milito
-Messi                103 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Messi
-Mbappé               109 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Mbappé
-Martínez             105 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Martínez
-Martínez             103 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Martínez
-Mané                 104 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Mané
-Lewandowski          109 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Lewandowski
-Lewandowski          106 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Lewandowski
-Lewandowski          104 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Lewandowski
-Larsson              107 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Larsson
-Klose                106 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Klose
-Klose                105 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Klose
-Keane                106 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Keane
-Kane                 107 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Kane
-Kane                 106 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Kane
-Kane                 106 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Kane
-Isak                 103 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Isak
-Immobile             105 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Immobile
-Immobile             103 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Immobile
-Ibrahimović          106 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Ibrahimović
-Iago_Aspas           103 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b IagoAspas
-Hernández            103 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Hernández
-Havertz              103 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Havertz
-Haaland              109 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Haaland
-Haaland              109 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Haaland
-Haaland              106 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Haaland
-Haaland              103 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Haaland
-Haaland              103 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Haaland
-Gouiri               103 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Gouiri
-Giroud               104 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Giroud
-Gabriel_Jesus        104 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b GabrielJesus
-Fowler               109 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Fowler
-Eusébio              109 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Eusébio
-Drogba               110 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Drogba
-Drogba               108 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Drogba
-Di_Natale            104 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b DiNatale
-Depay                105 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Depay
-Del_Piero            107 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b DelPiero
-C._Ronaldo           106 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b C.Ronaldo
-C._Ronaldo           106 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b C.Ronaldo
-C._Ronaldo           105 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b C.Ronaldo
-C._Ronaldo           104 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b C.Ronaldo
-Cavani               104 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Cavani
-Cantona              110 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Cantona
-Butragueño           105 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Butragueño
-Benzema              109 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Benzema
-Benzema              106 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Benzema
-Álvarez              108 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b Álvarez
-Al_Jaber             107 ST                          0  0 span class="player-card-name-width" data-v-6bbf264b AlJaber
+Pelé                 108 ST  144 147 136 144  95 120 786  859 Finishing        5★ WF / Right
+Ronaldo              112 ST  146 146 116 141  76 120 745  836 Shooting         5★ WF / Right
+Mbappé               109 ST  148 138 111 134  63 111 705  813 Finishing        5★ WF / Right
+Cantona              110 ST  135 142 124 136  84 133 754  808 Finishing        4★ WF / Right
+Haaland              109 ST  144 141  99 125  75 127 711  778 Finishing        4★ WF / Left
+Haaland              109 ST  144 141  99 125  75 127 711  778 Finishing        4★ WF / Left
+Drogba               110 ST  136 143 111 126  77 130 723  778 Finishing        4★ WF / Right
+van_Basten           111 ST  129 144 109 132  71 111 696  775 Secondstriker    5★ WF / Right
+van_Nistelrooy       109 ST  133 141 107 128  68 123 700  770 Finishing        4★ WF / Right
+Álvarez              108 ST  127 129 120 129  89 114 708  761 Finishing        5★ WF / Right
+Benzema              109 ST  127 138 114 127  66 114 686  760 Shooting         5★ WF / Right
+Eusébio              109 ST  127 133 120 126  69 110 685  759 Finishing        5★ WF / Right
+Puskás               107 ST  125 133 121 127  77 108 691  758 Secondstriker    5★ WF / Left
+Fowler               109 ST  126 134 117 124  91 122 714  751 Secondstriker    5★ WF / Left
+Richarlison          108 ST  122 131 115 130  87 123 708  750 Secondstriker    5★ WF / Right
+Lewandowski          109 ST  123 140 110 127  69 123 692  750 Secondstriker    5★ WF / Right
+Klose                106 ST  130 138 106 123  71 119 687  750 Secondstriker    5★ WF / Right
+Ronaldo              107 ST  125 131 111 126  76 113 682  744 Shooting         5★ WF / Right
+Gabriel_Jesus        104 ST  125 129 106 129  66 111 666  743 Shooting         4★ WF / Right
+Shevchenko           109 ST  121 132 110 122  65 117 667  728 Shooting         5★ WF / Right
+Kane                 107 ST  115 140 114 122  73 119 683  728 Shooting         5★ WF / Right
+Osimhen              104 ST  130 128  97 120  65 119 659  725 Shooting         4★ WF / Right
+Drogba               108 ST  122 130 111 120  79 127 689  725 Secondstriker    5★ WF / Right
+C._Ronaldo           106 ST  118 128 115 122  67 114 664  723 Finishing        5★ WF / Right
+C._Ronaldo           106 ST  118 128 115 122  67 114 664  723 Finishing        5★ WF / Right
+Keane                106 ST  120 124 118 120  75 112 669  722 Secondstriker    5★ WF / Right
+Mané                 104 ST  120 120 112 124  70 110 656  720 Finishing        5★ WF / Right
+Al_Jaber             107 ST  122 124 115 117  75 103 656  717 Shooting         4★ WF / Right
+Vlahović             105 ST  124 135  99 117  57 113 645  716 Secondstriker    4★ WF / Left
+Benzema              106 ST  115 126 116 121  70 113 661  714 Targetman        5★ WF / Right
+Milito               107 ST  115 126 112 122  73 115 663  712 Finishing        4★ WF / Right
+Morientes            106 ST  118 126 115 117  76 122 674  711 Finishing        5★ WF / Right
+Martínez             103 ST  118 125 102 124  72 120 661  711 Secondstriker    5★ WF / Right
+Di_Natale            104 ST  119 123 111 119  74 100 646  710 Secondstriker    5★ WF / Right
+Richarlison          103 ST  116 123 110 122  82 116 669  709 Shooting         5★ WF / Right
+Isak                 103 ST  117 124 107 121  60 109 638  707 Shooting         5★ WF / Right
+Haaland              106 ST  123 126 103 116  75 123 666  707 Shooting         4★ WF / Left
+Havertz              103 ST  115 119 117 120  76  97 644  706 Finishing        4★ WF / Left
+Messi                103 ST  112 121 118 121  55  86 613  705 Finishing        5★ WF / Left
+Lewandowski          106 ST  115 128 111 118  76 122 670  705 Secondstriker    5★ WF / Right
+Immobile             103 ST  120 129  97 118  64 108 636  702 Finishing        4★ WF / Right
+Schick               105 ST  114 125 111 118  69 114 651  700 Finishing        5★ WF / Left
+Šuker                107 ST  115 126 107 118  66 106 638  699 Finishing        5★ WF / Left
+Del_Piero            107 ST  114 125 110 118  64  97 628  699 Targetman        5★ WF / Right
+Depay                105 ST  111 123 117 118  56 109 634  698 Secondstriker    4★ WF / Right
+Taremi               103 ST  118 122 109 115  70 112 646  697 Secondstriker    5★ WF / Right
+Pukki                103 ST  119 122 105 116  74 117 653  697 Targetman        4★ WF / Right
+Martínez             105 ST  113 122 108 120  75 120 658  696 Secondstriker    5★ WF / Right
+Morata               105 ST  113 124 111 116  65 116 645  693 Targetman        5★ WF / Right
+Morata               105 ST  113 124 111 116  65 116 645  693 Targetman        5★ WF / Right
+Ibrahimović          106 ST  111 127 120 112  69 124 663  693 Secondstriker    5★ WF / Right
+Iago_Aspas           103 ST  111 123 111 118  64  96 623  692 Finishing        4★ WF / Left
+van_Basten           107 ST  111 130 103 118  69 101 632  691 Secondstriker    5★ WF / Right
+Suárez               105 ST  110 124 117 115  74 117 657  691 Targetman        5★ WF / Right
+Larsson              107 ST  115 124 105 116  70 106 636  691 Shooting         5★ WF / Right
+Kane                 106 ST  109 125 120 113  75 115 657  689 Shooting         5★ WF / Right
+Kane                 106 ST  109 125 120 113  75 115 657  689 Shooting         5★ WF / Right
+Yaremchuk            103 ST  119 122 105 111  78 121 656  687 Shooting         4★ WF / Right
+Immobile             105 ST  115 126 103 114  64 108 630  687 Secondstriker    4★ WF / Right
+van_Persie           107 ST  111 127 109 114  67 101 629  686 Targetman        4★ WF / Left
+C._Ronaldo           105 ST  113 122 106 116  60 105 622  686 Shooting         5★ WF / Right
+Lewandowski          104 ST  110 126 107 116  71 120 650  685 Targetman        5★ WF / Right
+Butragueño           105 ST  113 119 104 116  65  94 611  681 Shooting         5★ WF / Right
+Vlahović             104 ST  112 123 106 113  58 110 622  679 Secondstriker    4★ WF / Left
+Hernández            103 ST  114 119  99 115  73  97 617  676 Finishing        4★ WF / Right
+Klose                105 ST  112 125 101 110  68 112 628  670 Secondstriker    5★ WF / Right
+Haaland              103 ST  115 123  92 112  69 117 628  669 Secondstriker    4★ WF / Left
+Haaland              103 ST  115 123  92 112  69 117 628  669 Secondstriker    4★ WF / Left
+Gouiri               103 ST  109 118 107 111  69 100 614  665 Targetman        4★ WF / Right
+Mitrović             105 ST  106 124 100 112  62 120 624  660 Secondstriker    5★ WF / Right
+Raúl                 103 ST  105 113 101 112  67  94 592  648 Secondstriker    5★ WF / Left
+Cavani               104 ST  100 125 105 108  81 116 635  646 Targetman        5★ WF / Right
+Vardy                103 ST  110 113  95 107  74 100 599  642 Targetman        4★ WF / Right
+Giroud               104 ST   83 131 105 113  69 122 623  628 Shooting         4★ WF / Left
+C._Ronaldo           104 ST   99 118  97 104  52  97 567  621 Secondstriker    4★ WF / Right

@@ -1,33 +1,33 @@
-Yashin               110 GK                          0  0 span class="player-card-name-width" data-v-6bbf264b Yashin
-van_der_Sar          104 GK                          0  0 span class="player-card-name-width" data-v-6bbf264b vanderSar
-ter_Stegen           103 GK                          0  0 span class="player-card-name-width" data-v-6bbf264b terStegen
-Szczęsny             105 GK                          0  0 span class="player-card-name-width" data-v-6bbf264b Szczęsny
-Szczęsny             103 GK                          0  0 span class="player-card-name-width" data-v-6bbf264b Szczęsny
-Seaman               107 GK                          0  0 span class="player-card-name-width" data-v-6bbf264b Seaman
-Schmeichel           109 GK                          0  0 span class="player-card-name-width" data-v-6bbf264b Schmeichel
-Schmeichel           105 GK                          0  0 span class="player-card-name-width" data-v-6bbf264b Schmeichel
-Schmeichel           104 GK                          0  0 span class="player-card-name-width" data-v-6bbf264b Schmeichel
-Pavlenka             103 GK                          0  0 span class="player-card-name-width" data-v-6bbf264b Pavlenka
-Ochoa                104 GK                          0  0 span class="player-card-name-width" data-v-6bbf264b Ochoa
-Neuer                105 GK                          0  0 span class="player-card-name-width" data-v-6bbf264b Neuer
-Navas                103 GK                          0  0 span class="player-card-name-width" data-v-6bbf264b Navas
-Martínez             108 GK                          0  0 span class="player-card-name-width" data-v-6bbf264b Martínez
-Martínez             108 GK                          0  0 span class="player-card-name-width" data-v-6bbf264b Martínez
-Martínez             105 GK                          0  0 span class="player-card-name-width" data-v-6bbf264b Martínez
-Martínez             103 GK                          0  0 span class="player-card-name-width" data-v-6bbf264b Martínez
-Maignan              106 GK                          0  0 span class="player-card-name-width" data-v-6bbf264b Maignan
-Lloris               103 GK                          0  0 span class="player-card-name-width" data-v-6bbf264b Lloris
-Gulácsi              105 GK                          0  0 span class="player-card-name-width" data-v-6bbf264b Gulácsi
-Ederson              107 GK                          0  0 span class="player-card-name-width" data-v-6bbf264b Ederson
-Dudek                107 GK                          0  0 span class="player-card-name-width" data-v-6bbf264b Dudek
-Donnarumma           106 GK                          0  0 span class="player-card-name-width" data-v-6bbf264b Donnarumma
-Donnarumma           106 GK                          0  0 span class="player-card-name-width" data-v-6bbf264b Donnarumma
-Courtois             109 GK                          0  0 span class="player-card-name-width" data-v-6bbf264b Courtois
-Courtois             109 GK                          0  0 span class="player-card-name-width" data-v-6bbf264b Courtois
-Courtois             106 GK                          0  0 span class="player-card-name-width" data-v-6bbf264b Courtois
-Čech                 107 GK                          0  0 span class="player-card-name-width" data-v-6bbf264b Čech
-Casillas             105 GK                          0  0 span class="player-card-name-width" data-v-6bbf264b Casillas
-Campos               104 GK                          0  0 span class="player-card-name-width" data-v-6bbf264b Campos
-Bounou               104 GK                          0  0 span class="player-card-name-width" data-v-6bbf264b Bounou
-Alisson              108 GK                          0  0 span class="player-card-name-width" data-v-6bbf264b Alisson
-Alisson              104 GK                          0  0 span class="player-card-name-width" data-v-6bbf264b Alisson
+Yashin               110 GK   87  27  66  84  32 112 408  0 Number1          3★ WF / Right
+van_der_Sar          104 GK   66  13  61  57  14  80 291  0 Number1          3★ WF / Right
+ter_Stegen           103 GK   55  14  62  50  19  81 281  0 Number1          4★ WF / Right
+Szczęsny             105 GK   73  21  51  60  19  88 312  0 Number1          3★ WF / Right
+Szczęsny             103 GK   73  25  52  63  24  91 328  0 Number1          3★ WF / Right
+Seaman               107 GK   71  21  35  51  14  83 275  0 Reflexes         3★ WF / Right
+Schmeichel           109 GK   71  30  59  64  27  96 347  0 Reflexes         3★ WF / Right
+Schmeichel           105 GK   70  22  60  66  19  85 322  0 Handling         3★ WF / Right
+Schmeichel           104 GK   68  18  57  62  18  77 300  0 Number1          3★ WF / Right
+Pavlenka             103 GK   53  17  34  48  15  68 235  0 Number1          3★ WF / Right
+Ochoa                104 GK   71  21  52  58  21  82 305  0 Number1          3★ WF / Right
+Neuer                105 GK   74  26  68  66  22  87 343  0 Number1          4★ WF / Right
+Navas                103 GK   67  23  51  59  21  78 299  0 Number1          3★ WF / Right
+Martínez             108 GK   87  25  70  66  22  94 364  0 Number1          5★ WF / Right
+Martínez             108 GK   87  25  70  66  22  94 364  0 Number1          5★ WF / Right
+Martínez             105 GK   86  29  72  69  26  94 376  0 Number1          5★ WF / Right
+Martínez             103 GK   81  25  66  61  21  86 340  0 Reflexes         4★ WF / Right
+Maignan              106 GK   78  29  71  73  29  99 379  0 Handling         4★ WF / Right
+Lloris               103 GK   85  25  65  65  27  78 345  0 Reflexes         3★ WF / Left
+Gulácsi              105 GK   69  20  51  60  26  91 317  0 Handling         2★ WF / Right
+Ederson              107 GK   88  32  75  75  28  97 395  0 Reflexes         3★ WF / Left
+Dudek                107 GK   78  17  48  63  22  86 314  0 Reflexes         3★ WF / Left
+Donnarumma           106 GK   67  23  48  60  20  76 294  0 Reflexes         3★ WF / Right
+Donnarumma           106 GK   67  23  48  60  20  76 294  0 Reflexes         3★ WF / Right
+Courtois             109 GK   71  27  54  69  26  90 337  0 Reflexes         3★ WF / Left
+Courtois             109 GK   71  27  54  69  26  90 337  0 Reflexes         3★ WF / Left
+Courtois             106 GK   67  23  49  61  20  83 303  0 Reflexes         3★ WF / Left
+Čech                 107 GK   70  10  55  63  26  83 307  0 Reflexes         3★ WF / Left
+Casillas             105 GK   68   9  57  59  16  85 294  0 Reflexes         3★ WF / Left
+Campos               104 GK  100  73  77  95  49  81 475  0 Reflexes         4★ WF / Right
+Bounou               104 GK   63  27  62  61  25  85 323  0 Handling         3★ WF / Left
+Alisson              108 GK   78  28  73  70  26  91 366  0 Reflexes         3★ WF / Right
+Alisson              104 GK   72  24  66  61  21  80 324  0 Reflexes         3★ WF / Right

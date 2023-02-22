@@ -1,46 +1,44 @@
-Zidane               107 CAM                         0  0 span class="player-card-name-width" data-v-6bbf264b Zidane
-Tadić                103 CAM                         0  0 span class="player-card-name-width" data-v-6bbf264b Tadić
-Solskjær             106 CF                          0  0 span class="player-card-name-width" data-v-6bbf264b Solskjær
-Rooney               109 CAM                         0  0 span class="player-card-name-width" data-v-6bbf264b Rooney
-Ricken               106 CAM                         0  0 span class="player-card-name-width" data-v-6bbf264b Ricken
-Pelé                 108 CF                          0  0 span class="player-card-name-width" data-v-6bbf264b Pelé
-Pelé                 108 CAM                         0  0 span class="player-card-name-width" data-v-6bbf264b Pelé
-Pelé                 105 CAM                         0  0 span class="player-card-name-width" data-v-6bbf264b Pelé
-Payet                104 CAM                         0  0 span class="player-card-name-width" data-v-6bbf264b Payet
-Ødegaard             105 CAM                         0  0 span class="player-card-name-width" data-v-6bbf264b Ødegaard
-Ødegaard             104 CAM                         0  0 span class="player-card-name-width" data-v-6bbf264b Ødegaard
-Nkunku               106 CF                          0  0 span class="player-card-name-width" data-v-6bbf264b Nkunku
-Neymar_Jr            106 CAM                         0  0 span class="player-card-name-width" data-v-6bbf264b NeymarJr
-Neymar_Jr            106 CAM                         0  0 span class="player-card-name-width" data-v-6bbf264b NeymarJr
-Neymar_Jr            105 CAM                         0  0 span class="player-card-name-width" data-v-6bbf264b NeymarJr
-Neymar_Jr            105 CAM                         0  0 span class="player-card-name-width" data-v-6bbf264b NeymarJr
-Müller               105 CAM                         0  0 span class="player-card-name-width" data-v-6bbf264b Müller
-Messi                109 CAM                         0  0 span class="player-card-name-width" data-v-6bbf264b Messi
-Messi                106 CAM                         0  0 span class="player-card-name-width" data-v-6bbf264b Messi
-Messi                106 CAM                         0  0 span class="player-card-name-width" data-v-6bbf264b Messi
-McGinn               104 CAM                         0  0 span class="player-card-name-width" data-v-6bbf264b McGinn
-Malinovskyi          103 CAM                         0  0 span class="player-card-name-width" data-v-6bbf264b Malinovskyi
-Kudus                104 CAM                         0  0 span class="player-card-name-width" data-v-6bbf264b Kudus
-Kamada               103 CAM                         0  0 span class="player-card-name-width" data-v-6bbf264b Kamada
-Kaká                 110 CAM                         0  0 span class="player-card-name-width" data-v-6bbf264b Kaká
-João_Félix           104 CF                          0  0 span class="player-card-name-width" data-v-6bbf264b JoãoFélix
-Hazard               105 CF                          0  0 span class="player-card-name-width" data-v-6bbf264b Hazard
-Hagi                 105 CAM                         0  0 span class="player-card-name-width" data-v-6bbf264b Hagi
-Griezmann            108 CAM                         0  0 span class="player-card-name-width" data-v-6bbf264b Griezmann
-Griezmann            105 CAM                         0  0 span class="player-card-name-width" data-v-6bbf264b Griezmann
-Griezmann            103 CAM                         0  0 span class="player-card-name-width" data-v-6bbf264b Griezmann
-Fábio_Vieira         103 CAM                         0  0 span class="player-card-name-width" data-v-6bbf264b FábioVieira
-Dybala               104 CAM                         0  0 span class="player-card-name-width" data-v-6bbf264b Dybala
-Dybala               103 CF                          0  0 span class="player-card-name-width" data-v-6bbf264b Dybala
-De_Bruyne            105 CF                          0  0 span class="player-card-name-width" data-v-6bbf264b DeBruyne
-De_Bruyne            105 CF                          0  0 span class="player-card-name-width" data-v-6bbf264b DeBruyne
-Campos               104 GK                          0  0 span class="player-card-name-width" data-v-6bbf264b Campos
-Campbell             109 CB                          0  0 span class="player-card-name-width" data-v-6bbf264b Campbell
-Bruno_Fernandes      105 CAM                         0  0 span class="player-card-name-width" data-v-6bbf264b BrunoFernandes
-Bruno_Fernandes      105 CAM                         0  0 span class="player-card-name-width" data-v-6bbf264b BrunoFernandes
-Bergkamp             109 CAM                         0  0 span class="player-card-name-width" data-v-6bbf264b Bergkamp
-Becker               103 CF                          0  0 span class="player-card-name-width" data-v-6bbf264b Becker
-Barák                105 CAM                         0  0 span class="player-card-name-width" data-v-6bbf264b Barák
-Baggio               105 CF                          0  0 span class="player-card-name-width" data-v-6bbf264b Baggio
-Alli                 103 CAM                         0  0 span class="player-card-name-width" data-v-6bbf264b Alli
-Abedi_Pelé           106 CAM                         0  0 span class="player-card-name-width" data-v-6bbf264b AbediPelé
+Pelé                 108 CAM 140 146 144 146  95 115 786  862 Longshots        5★ WF / Right
+Pelé                 108 CF  142 146 140 145  95 118 786  860 Secondstriker    5★ WF / Right
+Kaká                 110 CAM 140 141 140 142  69  95 727  845 Longshots        4★ WF / Right
+Rooney               109 CAM 131 146 134 142  76 118 747  826 Shortpassing     4★ WF / Right
+Messi                109 CAM 119 141 137 142  57  90 686  800 Shortpassing     5★ WF / Left
+Nkunku               106 CF  132 133 126 138  89  98 716  799 Secondstriker    5★ WF / Right
+Griezmann            105 CAM 117 137 131 137  77 104 703  776 Shortpassing     4★ WF / Left
+Griezmann            108 CAM 118 129 130 132  80 108 697  759 Shortpassing     4★ WF / Left
+Ødegaard             105 CAM 113 130 134 133  80  86 676  756 Shortpassing     4★ WF / Left
+João_Félix           104 CF  121 127 121 133  65 100 667  756 Dribbling        4★ WF / Right
+Pelé                 105 CAM 121 127 125 128  72  96 669  750 Dribbling        5★ WF / Right
+Neymar_Jr            106 CAM 123 124 124 127  59  91 648  748 Dribbling        5★ WF / Right
+Neymar_Jr            106 CAM 123 124 124 127  59  91 648  748 Dribbling        5★ WF / Right
+Messi                106 CAM 120 127 125 128  57  88 645  748 Dribbling        5★ WF / Left
+Messi                106 CAM 120 127 125 128  57  88 645  748 Dribbling        5★ WF / Left
+Bruno_Fernandes      105 CAM 107 137 134 130  89 100 697  745 Longshots        4★ WF / Right
+Baggio               105 CF  122 126 126 123  66  86 649  742 Secondstriker    5★ WF / Right
+Bergkamp             109 CAM 115 130 121 128  55  97 646  737 Counter          5★ WF / Right
+Abedi_Pelé           106 CAM 119 123 122 126  69  91 650  735 Longshots        5★ WF / Left
+Zidane               107 CAM 114 126 128 123  91 105 687  728 Dribbling        5★ WF / Right
+Kudus                104 CAM 123 118 112 125  81 108 667  726 Longshots        4★ WF / Left
+Barák                105 CAM 115 124 124 124  90 102 679  726 Longshots        3★ WF / Left
+Ricken               106 CAM 114 124 119 124  82  92 655  719 Counter          5★ WF / Right
+Neymar_Jr            105 CAM 117 119 117 124  55  80 612  718 Longshots        5★ WF / Right
+Neymar_Jr            105 CAM 117 119 117 124  55  80 612  718 Longshots        5★ WF / Right
+Hazard               105 CF  116 121 121 122  64  92 636  718 Shooting         4★ WF / Right
+Solskjær             106 CF  115 128 117 120  70 102 652  715 Shooting         5★ WF / Right
+Griezmann            103 CAM 112 124 121 123  75 103 658  715 Counter          4★ WF / Left
+De_Bruyne            105 CF  110 124 126 122  85 100 667  714 Shooting         5★ WF / Right
+De_Bruyne            105 CF  110 124 126 122  85 100 667  714 Shooting         5★ WF / Right
+Ødegaard             104 CAM 113 114 123 123  86  95 654  709 Dribbling        5★ WF / Left
+Bruno_Fernandes      105 CAM 108 125 124 122  92 103 674  709 Dribbling        4★ WF / Right
+Dybala               104 CAM 107 120 119 124  58  81 609  701 Longshots        4★ WF / Left
+Hagi                 105 CAM 108 121 121 121  58  86 615  700 Counter          5★ WF / Left
+Müller               105 CAM 103 126 123 122  81 100 655  699 Counter          5★ WF / Right
+Payet                104 CAM 103 124 123 122  69  91 632  697 Longshots        4★ WF / Right
+McGinn               104 CAM 112 117 115 119  92 109 664  694 Shortpassing     3★ WF / Left
+Kamada               103 CAM 104 117 120 124  71  90 626  693 Dribbling        4★ WF / Right
+Malinovskyi          103 CAM 103 121 122 118  86 108 658  685 Dribbling        4★ WF / Left
+Becker               103 CF  123 111 102 113  63 104 616  685 Secondstriker    4★ WF / Right
+Tadić                103 CAM 102 120 119 120  66 100 627  683 Counter          4★ WF / Left
+Alli                 103 CAM  99 123 115 115  92 101 645  666 Counter          4★ WF / Right
+Fábio_Vieira         103 CAM 103 112 113 113  60  80 581  657 Counter          4★ WF / Left
+Dybala               103 CF   98 112 113 116  57  80 576  653 Finishing        3★ WF / Left

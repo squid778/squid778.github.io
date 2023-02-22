@@ -1,15 +1,15 @@
-Trippier             103 RB                          0  0 span class="player-card-name-width" data-v-6bbf264b Trippier
-Pavard               104 RB                          0  0 span class="player-card-name-width" data-v-6bbf264b Pavard
-Lahm                 109 RB                          0  0 span class="player-card-name-width" data-v-6bbf264b Lahm
-Koundé               104 RB                          0  0 span class="player-card-name-width" data-v-6bbf264b Koundé
-Hakimi               108 RB                          0  0 span class="player-card-name-width" data-v-6bbf264b Hakimi
-Hakimi               106 RB                          0  0 span class="player-card-name-width" data-v-6bbf264b Hakimi
-Hakimi               106 RB                          0  0 span class="player-card-name-width" data-v-6bbf264b Hakimi
-Hakimi               104 RB                          0  0 span class="player-card-name-width" data-v-6bbf264b Hakimi
-Di_Lorenzo           103 RB                          0  0 span class="player-card-name-width" data-v-6bbf264b DiLorenzo
-Dest                 104 RB                          0  0 span class="player-card-name-width" data-v-6bbf264b Dest
-Coufal               103 RB                          0  0 span class="player-card-name-width" data-v-6bbf264b Coufal
-Clauss               103 RB                          0  0 span class="player-card-name-width" data-v-6bbf264b Clauss
-Carvajal             105 RB                          0  0 span class="player-card-name-width" data-v-6bbf264b Carvajal
-Carlos_Alberto       109 RB                          0  0 span class="player-card-name-width" data-v-6bbf264b CarlosAlberto
-Cafú                 103 RB                          0  0 span class="player-card-name-width" data-v-6bbf264b Cafú
+Lahm                 109 RB  130 103 137 142 134 101 747  792 Pace             4★ WF / Right
+Hakimi               106 RB  138 106 127 135 119 110 735  771 Balanced         5★ WF / Right
+Hakimi               108 RB  127 109 125 130 115 114 720  726 Balanced         5★ WF / Right
+Carlos_Alberto       109 RB  121  96 120 129 120 118 704  723 Reactions        4★ WF / Right
+Hakimi               106 RB  123 105 119 127 110 109 693  699 Reactions        4★ WF / Right
+Koundé               104 RB  115  76 105 119 115 111 641  690 Pace             3★ WF / Right
+Di_Lorenzo           103 RB  115 100 116 125 111 110 677  678 Balanced         3★ WF / Right
+Carvajal             105 RB  113  90 116 126 112 113 670  675 Balanced         4★ WF / Right
+Dest                 104 RB  115  87 112 121 107 106 648  666 Reactions        4★ WF / Right
+Hakimi               104 RB  120  95 110 121 101 101 648  663 Pace             4★ WF / Right
+Clauss               103 RB  117  97 111 122 104 101 652  663 Pace             4★ WF / Right
+Coufal               103 RB  107  91 116 122 111 114 661  654 Reactions        3★ WF / Right
+Pavard               104 RB  100  89 115 118 114 111 647  642 Reactions        4★ WF / Right
+Cafú                 103 RB  110  85 110 118 104 101 628  642 Reactions        4★ WF / Right
+Trippier             103 RB  100  90 114 114 108 101 627  624 Reactions        4★ WF / Right

@@ -1,21 +1,21 @@
-Xabi_Alonso          107 CDM                         0  0 span class="player-card-name-width" data-v-6bbf264b XabiAlonso
-Vieira               110 CDM                         0  0 span class="player-card-name-width" data-v-6bbf264b Vieira
-Tonali               104 CDM                         0  0 span class="player-card-name-width" data-v-6bbf264b Tonali
-Tchouaméni           103 CDM                         0  0 span class="player-card-name-width" data-v-6bbf264b Tchouaméni
-Souček               104 CDM                         0  0 span class="player-card-name-width" data-v-6bbf264b Souček
-Rodri                106 CDM                         0  0 span class="player-card-name-width" data-v-6bbf264b Rodri
-Rijkaard             109 CDM                         0  0 span class="player-card-name-width" data-v-6bbf264b Rijkaard
-Petit                110 CDM                         0  0 span class="player-card-name-width" data-v-6bbf264b Petit
-Petit                105 CDM                         0  0 span class="player-card-name-width" data-v-6bbf264b Petit
-McTominay            103 CDM                         0  0 span class="player-card-name-width" data-v-6bbf264b McTominay
-Kimmich              106 CDM                         0  0 span class="player-card-name-width" data-v-6bbf264b Kimmich
-Kimmich              106 CDM                         0  0 span class="player-card-name-width" data-v-6bbf264b Kimmich
-Jorginho             106 CDM                         0  0 span class="player-card-name-width" data-v-6bbf264b Jorginho
-Jorginho             106 CDM                         0  0 span class="player-card-name-width" data-v-6bbf264b Jorginho
-Gündoğan             103 CDM                         0  0 span class="player-card-name-width" data-v-6bbf264b Gündoğan
-Gattuso              107 CDM                         0  0 span class="player-card-name-width" data-v-6bbf264b Gattuso
-Essien               105 CDM                         0  0 span class="player-card-name-width" data-v-6bbf264b Essien
-Casemiro             108 CDM                         0  0 span class="player-card-name-width" data-v-6bbf264b Casemiro
-Casemiro             104 CDM                         0  0 span class="player-card-name-width" data-v-6bbf264b Casemiro
-Brozović             104 CDM                         0  0 span class="player-card-name-width" data-v-6bbf264b Brozović
-Amrabat              108 CDM                         0  0 span class="player-card-name-width" data-v-6bbf264b Amrabat
+Xabi_Alonso          107 CDM 100 106 126 115 125 118 690  0 Interceptions    5★ WF / Right
+Vieira               110 CDM 125 112 134 130 142 133 776  0 Interceptions    3★ WF / Right
+Tonali               104 CDM 107  95 117 110 109 108 646  0 Longpassing      4★ WF / Right
+Tchouaméni           103 CDM 101 100 116 113 115 112 657  0 Interceptions    4★ WF / Right
+Souček               104 CDM  99 112 117 111 120 118 677  0 Interceptions    3★ WF / Right
+Rodri                106 CDM  92 104 125 118 133 120 692  0 Holding          4★ WF / Right
+Rijkaard             109 CDM 116 109 131 124 143 127 750  0 Interceptions    4★ WF / Right
+Petit                110 CDM 115 115 136 127 143 132 768  0 Holding          4★ WF / Left
+Petit                105 CDM 101 105 118 112 126 119 681  0 Holding          4★ WF / Left
+McTominay            103 CDM 103 110 118 111 120 118 680  0 Holding          4★ WF / Right
+Kimmich              106 CDM 103 108 125 121 120 115 692  0 Holding          4★ WF / Right
+Kimmich              106 CDM 102 103 131 124 129 115 704  0 Holding          4★ WF / Right
+Jorginho             106 CDM 100 106 126 120 114 109 675  0 Holding          3★ WF / Right
+Jorginho             106 CDM 100 106 126 120 114 109 675  0 Holding          3★ WF / Right
+Gündoğan             103 CDM 101 115 123 118 110 108 675  0 Vision           4★ WF / Right
+Gattuso              107 CDM 105 102 120 112 131 127 697  0 Holding          4★ WF / Right
+Essien               105 CDM 102 100 116 112 121 115 666  0 Holding          4★ WF / Right
+Casemiro             108 CDM  98 106 123 114 137 129 707  0 Interceptions    4★ WF / Right
+Casemiro             104 CDM  93 101 111 104 116 117 642  0 Holding          4★ WF / Right
+Brozović             104 CDM  99 102 124 119 124 108 676  0 Longpassing      4★ WF / Right
+Amrabat              108 CDM 110 111 126 125 126 124 722  0 Holding          4★ WF / Right

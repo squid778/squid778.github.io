@@ -1,14 +1,14 @@
-Zambrotta            110 LB                          0  0 span class="player-card-name-width" data-v-6bbf264b Zambrotta
-Robertson            105 LB                          0  0 span class="player-card-name-width" data-v-6bbf264b Robertson
-Robertson            105 LB                          0  0 span class="player-card-name-width" data-v-6bbf264b Robertson
-Roberto_Carlos       103 LB                          0  0 span class="player-card-name-width" data-v-6bbf264b RobertoCarlos
-Nuno_Tavares         103 LB                          0  0 span class="player-card-name-width" data-v-6bbf264b NunoTavares
-Jordi_Alba           104 LB                          0  0 span class="player-card-name-width" data-v-6bbf264b JordiAlba
-João_Cancelo         108 LB                          0  0 span class="player-card-name-width" data-v-6bbf264b JoãoCancelo
-Hernández            108 LB                          0  0 span class="player-card-name-width" data-v-6bbf264b Hernández
-Hernández            107 LB                          0  0 span class="player-card-name-width" data-v-6bbf264b Hernández
-Guerreiro            104 LB                          0  0 span class="player-card-name-width" data-v-6bbf264b Guerreiro
-Davies               105 LB                          0  0 span class="player-card-name-width" data-v-6bbf264b Davies
-Cole                 109 LB                          0  0 span class="player-card-name-width" data-v-6bbf264b Cole
-Caio_Henrique        103 LB                          0  0 span class="player-card-name-width" data-v-6bbf264b CaioHenrique
-Brehme               107 LWB                         0  0 span class="player-card-name-width" data-v-6bbf264b Brehme
+Zambrotta            110 LB  137 105 134 139 132 121 768  807 Balanced         5★ WF / Right
+Hernández            107 LB  140 104 123 136 122 113 738  786 Pace             4★ WF / Left
+João_Cancelo         108 LB  130 104 132 137 123 102 728  759 Reactions        4★ WF / Right
+Davies               105 LB  137  96 121 137 116 109 716  759 Pace             4★ WF / Left
+Hernández            108 LB  129 107 123 128 116 115 718  735 Pace             4★ WF / Left
+Cole                 109 LB  118 100 121 125 120 110 694  714 Reactions        4★ WF / Left
+Robertson            105 LB  114  95 117 122 114 110 672  684 Reactions        4★ WF / Left
+Robertson            105 LB  114  95 117 122 114 110 672  684 Reactions        4★ WF / Left
+Jordi_Alba           104 LB  116 102 118 125 111 109 681  681 Pace             4★ WF / Left
+Guerreiro            104 LB  111 105 119 126 110  99 670  663 Balanced         3★ WF / Left
+Nuno_Tavares         103 LB  112  89 109 123 108 107 648  660 Reactions        4★ WF / Left
+Caio_Henrique        103 LB  108  91 116 122 112  95 644  660 Pace             3★ WF / Left
+Roberto_Carlos       103 LB  110 102 114 114 105 105 650  645 Reactions        4★ WF / Left
+Brehme               107 LWB 118  99 118 115 119 115 684  0 Balanced         5★ WF / Left

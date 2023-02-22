@@ -1,10 +1,10 @@
-Solskjær             106 CF                          0  0 span class="player-card-name-width" data-v-6bbf264b Solskjær
-Pelé                 108 CF                          0  0 span class="player-card-name-width" data-v-6bbf264b Pelé
-Nkunku               106 CF                          0  0 span class="player-card-name-width" data-v-6bbf264b Nkunku
-João_Félix           104 CF                          0  0 span class="player-card-name-width" data-v-6bbf264b JoãoFélix
-Hazard               105 CF                          0  0 span class="player-card-name-width" data-v-6bbf264b Hazard
-Dybala               103 CF                          0  0 span class="player-card-name-width" data-v-6bbf264b Dybala
-De_Bruyne            105 CF                          0  0 span class="player-card-name-width" data-v-6bbf264b DeBruyne
-De_Bruyne            105 CF                          0  0 span class="player-card-name-width" data-v-6bbf264b DeBruyne
-Becker               103 CF                          0  0 span class="player-card-name-width" data-v-6bbf264b Becker
-Baggio               105 CF                          0  0 span class="player-card-name-width" data-v-6bbf264b Baggio
+Pelé                 108 CF  142 146 140 145  95 118 786  860 Secondstriker    5★ WF / Right
+Nkunku               106 CF  132 133 126 138  89  98 716  799 Secondstriker    5★ WF / Right
+João_Félix           104 CF  121 127 121 133  65 100 667  756 Dribbling        4★ WF / Right
+Baggio               105 CF  122 126 126 123  66  86 649  742 Secondstriker    5★ WF / Right
+Hazard               105 CF  116 121 121 122  64  92 636  718 Shooting         4★ WF / Right
+Solskjær             106 CF  115 128 117 120  70 102 652  715 Shooting         5★ WF / Right
+De_Bruyne            105 CF  110 124 126 122  85 100 667  714 Shooting         5★ WF / Right
+De_Bruyne            105 CF  110 124 126 122  85 100 667  714 Shooting         5★ WF / Right
+Becker               103 CF  123 111 102 113  63 104 616  685 Secondstriker    4★ WF / Right
+Dybala               103 CF   98 112 113 116  57  80 576  653 Finishing        3★ WF / Left

@@ -1,58 +1,58 @@
-Ziyech               104 RW                          0  0 span class="player-card-name-width" data-v-6bbf264b Ziyech
-Zaniolo              105 RW                          0  0 span class="player-card-name-width" data-v-6bbf264b Zaniolo
-Wu_Lei               105 RW                          0  0 span class="player-card-name-width" data-v-6bbf264b WuLei
-Vinícius_Jr.         108 LW                          0  0 span class="player-card-name-width" data-v-6bbf264b ViníciusJr.
-Vinícius_Jr.         106 LW                          0  0 span class="player-card-name-width" data-v-6bbf264b ViníciusJr.
-Tsygankov            103 LW                          0  0 span class="player-card-name-width" data-v-6bbf264b Tsygankov
-Sterling             105 LW                          0  0 span class="player-card-name-width" data-v-6bbf264b Sterling
-Sterling             103 LW                          0  0 span class="player-card-name-width" data-v-6bbf264b Sterling
-Sørloth              103 RW                          0  0 span class="player-card-name-width" data-v-6bbf264b Sørloth
-Son                  108 LW                          0  0 span class="player-card-name-width" data-v-6bbf264b Son
-Son                  106 LW                          0  0 span class="player-card-name-width" data-v-6bbf264b Son
-Son                  106 LW                          0  0 span class="player-card-name-width" data-v-6bbf264b Son
-Sané                 103 LW                          0  0 span class="player-card-name-width" data-v-6bbf264b Sané
-Salah                108 RW                          0  0 span class="player-card-name-width" data-v-6bbf264b Salah
-Saka                 103 RW                          0  0 span class="player-card-name-width" data-v-6bbf264b Saka
-Ronaldinho           107 LW                          0  0 span class="player-card-name-width" data-v-6bbf264b Ronaldinho
-Reus                 105 LW                          0  0 span class="player-card-name-width" data-v-6bbf264b Reus
-Rashford             104 LW                          0  0 span class="player-card-name-width" data-v-6bbf264b Rashford
-Rafael_Leão          107 LW                          0  0 span class="player-card-name-width" data-v-6bbf264b RafaelLeão
-Pulisic              103 LW                          0  0 span class="player-card-name-width" data-v-6bbf264b Pulisic
-Pellegrini           104 LW                          0  0 span class="player-card-name-width" data-v-6bbf264b Pellegrini
-Ocampos              104 RW                          0  0 span class="player-card-name-width" data-v-6bbf264b Ocampos
-Neymar_Jr            107 LW                          0  0 span class="player-card-name-width" data-v-6bbf264b NeymarJr
-Müller               104 RW                          0  0 span class="player-card-name-width" data-v-6bbf264b Müller
-Messi                108 RW                          0  0 span class="player-card-name-width" data-v-6bbf264b Messi
-Messi                108 RW                          0  0 span class="player-card-name-width" data-v-6bbf264b Messi
-Mbappé               108 LW                          0  0 span class="player-card-name-width" data-v-6bbf264b Mbappé
-Mbappé               108 LW                          0  0 span class="player-card-name-width" data-v-6bbf264b Mbappé
-Mbappé               106 LW                          0  0 span class="player-card-name-width" data-v-6bbf264b Mbappé
-Mbappé               106 LW                          0  0 span class="player-card-name-width" data-v-6bbf264b Mbappé
-Mbappé               105 LW                          0  0 span class="player-card-name-width" data-v-6bbf264b Mbappé
-Mbappé               103 RW                          0  0 span class="player-card-name-width" data-v-6bbf264b Mbappé
-Mbappé               103 RW                          0  0 span class="player-card-name-width" data-v-6bbf264b Mbappé
-Mané                 105 LW                          0  0 span class="player-card-name-width" data-v-6bbf264b Mané
-Mané                 105 LW                          0  0 span class="player-card-name-width" data-v-6bbf264b Mané
-Luís_Figo            109 RW                          0  0 span class="player-card-name-width" data-v-6bbf264b LuísFigo
-Kvaratskhelia        103 LW                          0  0 span class="player-card-name-width" data-v-6bbf264b Kvaratskhelia
-Kuyt                 107 RW                          0  0 span class="player-card-name-width" data-v-6bbf264b Kuyt
-Kulusevski           106 RW                          0  0 span class="player-card-name-width" data-v-6bbf264b Kulusevski
-Kulusevski           106 RW                          0  0 span class="player-card-name-width" data-v-6bbf264b Kulusevski
-Jairzinho            107 RW                          0  0 span class="player-card-name-width" data-v-6bbf264b Jairzinho
-Henry                110 LW                          0  0 span class="player-card-name-width" data-v-6bbf264b Henry
-Goodwin              103 LW                          0  0 span class="player-card-name-width" data-v-6bbf264b Goodwin
-Gómez                104 LW                          0  0 span class="player-card-name-width" data-v-6bbf264b Gómez
-Garrincha            111 RW                          0  0 span class="player-card-name-width" data-v-6bbf264b Garrincha
-Gakpo                103 LW                          0  0 span class="player-card-name-width" data-v-6bbf264b Gakpo
-Forsberg             106 LW                          0  0 span class="player-card-name-width" data-v-6bbf264b Forsberg
-Foden                106 LW                          0  0 span class="player-card-name-width" data-v-6bbf264b Foden
-Ferran_Torres        103 RW                          0  0 span class="player-card-name-width" data-v-6bbf264b FerranTorres
-Dembélé              103 RW                          0  0 span class="player-card-name-width" data-v-6bbf264b Dembélé
-Cole                 104 RW                          0  0 span class="player-card-name-width" data-v-6bbf264b Cole
-Chiesa               106 RW                          0  0 span class="player-card-name-width" data-v-6bbf264b Chiesa
-Chiesa               106 RW                          0  0 span class="player-card-name-width" data-v-6bbf264b Chiesa
-Carrasco             103 LW                          0  0 span class="player-card-name-width" data-v-6bbf264b Carrasco
-Buendía              103 RW                          0  0 span class="player-card-name-width" data-v-6bbf264b Buendía
-Brehme               107 LWB                         0  0 span class="player-card-name-width" data-v-6bbf264b Brehme
-Berardi              103 RW                          0  0 span class="player-card-name-width" data-v-6bbf264b Berardi
-Barnes               107 LW                          0  0 span class="player-card-name-width" data-v-6bbf264b Barnes
+Henry                110 LW  148 143 132 142  73 107 745  855 Speed            4★ WF / Right
+Garrincha            111 RW  142 139 138 145  63  94 721  851 Speed            4★ WF / Right
+Vinícius_Jr.         108 LW  145 135 119 144  49  97 689  832 Speed            5★ WF / Right
+Rafael_Leão          107 LW  144 134 119 140  49 104 690  821 Speed            4★ WF / Right
+Salah                108 RW  139 138 123 139  64  99 702  817 Agility          5★ WF / Left
+Neymar_Jr            107 LW  136 133 127 142  56  87 681  816 Agility          5★ WF / Right
+Son                  108 LW  137 139 124 136  62  93 691  809 Agility          5★ WF / Right
+Foden                106 LW  133 132 126 142  74  85 692  808 Agility          4★ WF / Left
+Messi                108 RW  130 133 132 134  62  99 690  793 Agility          5★ WF / Left
+Messi                108 RW  130 133 132 134  62  99 690  793 Agility          5★ WF / Left
+Mbappé               105 LW  138 131 115 134  54  97 669  790 Speed            5★ WF / Right
+Mbappé               108 LW  133 133 118 131  65 111 691  779 Speed            5★ WF / Right
+Mbappé               108 LW  133 133 118 131  65 111 691  779 Speed            5★ WF / Right
+Dembélé              103 RW  135 123 118 131  54  83 644  773 Speed            5★ WF / Left
+Luís_Figo            109 RW  128 127 123 127  65 106 676  760 Agility          5★ WF / Right
+Gakpo                103 LW  128 128 115 127  58 101 657  753 Longshots        5★ WF / Right
+Ronaldinho           107 LW  124 125 121 128  50 107 655  750 Speed            5★ WF / Right
+Mané                 105 LW  127 122 115 127  66 108 665  745 Speed            5★ WF / Right
+Mané                 105 LW  127 122 115 127  66 108 665  745 Speed            5★ WF / Right
+Barnes               107 LW  126 125 119 124  55 109 658  744 Speed            5★ WF / Left
+Chiesa               106 RW  125 127 114 126  75 103 670  743 Ballcontrol      4★ WF / Right
+Chiesa               106 RW  125 127 114 126  75 103 670  743 Ballcontrol      4★ WF / Right
+Mbappé               106 LW  128 126 112 124  60 101 651  742 Agility          5★ WF / Right
+Mbappé               106 LW  128 126 112 124  60 101 651  742 Agility          5★ WF / Right
+Jairzinho            107 RW  125 126 116 125  64 101 657  742 Ballcontrol      5★ WF / Right
+Son                  106 LW  122 125 118 125  62  95 647  737 Agility          5★ WF / Right
+Son                  106 LW  122 125 118 125  62  95 647  737 Agility          5★ WF / Right
+Sterling             105 LW  123 121 116 126  65  94 645  735 Ballcontrol      4★ WF / Right
+Kuyt                 107 RW  124 129 114 122  90 110 689  735 Ballcontrol      4★ WF / Right
+Kulusevski           106 RW  119 125 118 126  87 112 687  733 Speed            4★ WF / Left
+Kulusevski           106 RW  119 125 118 126  87 112 687  733 Speed            4★ WF / Left
+Wu_Lei               105 RW  124 122 114 124  77 112 673  732 Speed            4★ WF / Right
+Vinícius_Jr.         106 LW  127 119 111 124  54  96 631  732 Speed            5★ WF / Right
+Saka                 103 RW  121 119 117 127  89  96 669  732 Agility          4★ WF / Left
+Zaniolo              105 RW  124 120 115 124  84 111 678  731 Speed            4★ WF / Left
+Kvaratskhelia        103 LW  123 115 116 123  68 103 648  723 Agility          5★ WF / Right
+Goodwin              103 LW  123 117 114 123  83 106 666  723 Ballcontrol      4★ WF / Left
+Gómez                104 LW  119 119 116 125  62  95 636  723 Ballcontrol      4★ WF / Right
+Forsberg             106 LW  115 118 122 126  61  97 639  722 Speed            4★ WF / Right
+Tsygankov            103 LW  121 122 117 120  68  94 642  721 Ballcontrol      4★ WF / Left
+Pulisic              103 LW  122 117 110 124  60  96 629  719 Agility          5★ WF / Right
+Pellegrini           104 LW  118 120 119 122  93 106 678  719 Agility          4★ WF / Right
+Ziyech               104 RW  114 121 123 123  75  93 649  718 Agility          4★ WF / Left
+Mbappé               103 RW  123 120 108 122  51  93 617  718 Agility          5★ WF / Right
+Mbappé               103 RW  123 120 108 122  51  93 617  718 Agility          5★ WF / Right
+Sterling             103 LW  120 118 113 123  61  86 621  717 Speed            4★ WF / Right
+Rashford             104 LW  121 122 113 119  64 103 642  715 Speed            4★ WF / Right
+Cole                 104 RW  117 118 119 122  67 101 644  715 Speed            5★ WF / Right
+Ferran_Torres        103 RW  116 120 114 122  59 101 632  710 Speed            4★ WF / Right
+Ocampos              104 RW  114 120 113 119  87 112 665  699 Agility          4★ WF / Right
+Sørloth              103 RW  118 121 107 113  65 113 637  690 Ballcontrol      5★ WF / Left
+Sané                 103 LW  115 116 109 117  60  97 614  689 Agility          4★ WF / Left
+Carrasco             103 LW  115 116 107 116  59  90 603  685 Agility          5★ WF / Right
+Reus                 105 LW  103 120 114 119  64  88 608  678 Ballcontrol      5★ WF / Right
+Buendía              103 RW  108 112 115 117  77 102 631  677 Ballcontrol      4★ WF / Right
+Müller               104 RW  100 121 118 115  71  96 621  669 Speed            5★ WF / Right
+Berardi              103 RW  106 114 108 117  49  93 587  668 Ballcontrol      3★ WF / Left
+Brehme               107 LWB 118  99 118 115 119 115 684  0 Balanced         5★ WF / Left
