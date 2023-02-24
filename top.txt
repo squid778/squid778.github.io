@@ -1,19 +1,26 @@
-	  12.00		14.35	16.35
-110 korea 121.5 wwwww	121.5	121.5
-87.2 arsen 87.2 wwwlw	 87.3	87.3
-79.0 mssar 87.5 wwwww	 91.0	91.0
-91.0 86743 93.2 wwwww	 93.2	93.4
-97.0 fadii 97.6 wwwww	 97.7	97.7
-64.0 dicky 87.5 wdwww	 83,5	w83.5
-77.0 fulau 89.4 lwwwl	w89.6	89.6
-97.0 riski 97.7 wwwdl	 97.7	97.7
-94.0 aris  83,6 wwwww	 83.8	94.3
+	  12.00		14.35	16.35		10.30	14.10
+110 korea 121.5 wwwww	121.5	121.5	wwwww	122.6	122.6
+87.2 arsen 87.2 wwwlw	 87.3	87.3	wwlww	88.0	w93.2
+79.0 mssar 87.5 wwwww	 91.0	91.0	wwwww	91.1	91.3
+91.0 86743 93.2 wwwww	 93.2	93.4	wwwww	93.6	93.6
+97.0 fadii 97.6 wwwww	 97.7	97.7	wwwww	96.0	96.0
+64.0 dicky 87.5 wdwww	 83,5	w83.5	dwwww	71.4	71.4
+77.0 fulau 89.4 lwwwl	w89.6	89.6	wwwlw	92.8	92.8
+97.0 riski 97.7 wwwdl	 97.7	97.7	wwdlw	97.9	w98.0
+94.0 aris  83,6 wwwww	 83.8	94.3	wwwww	88.1	91.3
+
+15.33 3xads
+
+1.dicky	67.8	2.00	4-0
+2.aris	88.1	10.30	4-0
+3.riski 98.0	12.30	3-0
+4.mssar	91.3	15.00	3-1
 
 1.aris
 2.dicky
 3.mssar
 4.fulau
-5. 867
+5.867
 
 itrsain 16.35
 
